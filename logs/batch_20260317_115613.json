@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-17T11:56:13.287867",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260317_115613_000",
+      "language": "rust",
+      "problem": "dijkstra shortest path",
+      "code_length": 218,
+      "file": "20260317_115613_000_rust_dijkstra_shortest_path.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260317_115613_001",
+      "language": "x86_assembly",
+      "problem": "Task scheduler",
+      "code_length": 307,
+      "file": "20260317_115613_001_x86_assembly_Task_scheduler.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260317_115613_002",
+      "language": "javascript",
+      "problem": "CLI argument parser",
+      "code_length": 239,
+      "file": "20260317_115613_002_javascript_CLI_argument_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260317_115613_003",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260317_115613_003_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

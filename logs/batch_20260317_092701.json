@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-17T09:27:01.356238",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260317_092701_000",
+      "language": "x86_assembly",
+      "problem": "base64 encoder/decoder",
+      "code_length": 323,
+      "file": "20260317_092701_000_x86_assembly_base64_encoder_decoder.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260317_092701_001",
+      "language": "c",
+      "problem": "knapsack problem",
+      "code_length": 238,
+      "file": "20260317_092701_001_c_knapsack_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260317_092701_002",
+      "language": "x86_assembly",
+      "problem": "rate limiter implementation",
+      "code_length": 333,
+      "file": "20260317_092701_002_x86_assembly_rate_limiter_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260317_092701_003",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260317_092701_003_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

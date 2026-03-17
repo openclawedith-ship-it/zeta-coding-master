@@ -1,0 +1,52 @@
+name: "⚡ ZETA Coding Master — 100x Daily R&D"
+
+on:
+  schedule:
+    # Run every 15 minutes = 96 times/day
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches: [main]
+    paths:
+      - 'zeta_ultimate.py'
+      - 'zeta_runner.py'
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  code-generation:
+    name: "🧠 Generate Code"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: |
+          pip install psutil numpy
+      
+      - name: Run ZETA Coding Master
+        run: |
+          python3 zeta_runner.py --batch 4 --output generated/
+      
+      - name: Commit generated code
+        run: |
+          git config user.name "ZETA R&D Bot"
+          git config user.email "zeta@localhost"
+          git add generated/ logs/
+          git diff --cached --quiet || git commit -m "⚡ ZETA auto-generated code $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push origin main || true
+      
+      - name: Create issue if errors
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: "🚨 ZETA Coding Master failed"
+          content-file-path: logs/error.log
+          labels: bug, priority-critical

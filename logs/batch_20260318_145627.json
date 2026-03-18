@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-18T14:56:27.654160",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260318_145627_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260318_145627_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260318_145627_001",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260318_145627_001_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260318_145627_002",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260318_145627_002_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260318_145627_003",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260318_145627_003_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-18T23:02:52.493232",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260318_230252_000",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260318_230252_000_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260318_230252_001",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260318_230252_001_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260318_230252_002",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260318_230252_002_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260318_230252_003",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260318_230252_003_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

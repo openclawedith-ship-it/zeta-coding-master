@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-20T17:06:59.454635",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260320_170659_000",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260320_170659_000_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_170659_001",
+      "language": "go",
+      "problem": "CRUD REST API",
+      "code_length": 195,
+      "file": "20260320_170659_001_go_CRUD_REST_API.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_170659_002",
+      "language": "x86_assembly",
+      "problem": "longest common subsequence",
+      "code_length": 331,
+      "file": "20260320_170659_002_x86_assembly_longest_common_subsequence.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_170659_003",
+      "language": "go",
+      "problem": "Syntax highlighter",
+      "code_length": 200,
+      "file": "20260320_170659_003_go_Syntax_highlighter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

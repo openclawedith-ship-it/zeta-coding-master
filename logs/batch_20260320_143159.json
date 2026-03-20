@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-20T14:31:59.638792",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260320_143159_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260320_143159_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_143159_001",
+      "language": "rust",
+      "problem": "chat server (websocket)",
+      "code_length": 219,
+      "file": "20260320_143159_001_rust_chat_server_websocket.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_143159_002",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20260320_143159_002_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_143159_003",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260320_143159_003_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

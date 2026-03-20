@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-20T21:57:10.467495",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260320_215710_000",
+      "language": "javascript",
+      "problem": "binary search algorithm",
+      "code_length": 243,
+      "file": "20260320_215710_000_javascript_binary_search_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_215710_001",
+      "language": "x86_assembly",
+      "problem": "quicksort implementation",
+      "code_length": 327,
+      "file": "20260320_215710_001_x86_assembly_quicksort_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_215710_002",
+      "language": "rust",
+      "problem": "rate limiter implementation",
+      "code_length": 223,
+      "file": "20260320_215710_002_rust_rate_limiter_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_215710_003",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260320_215710_003_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-20T11:47:26.704541",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260320_114726_000",
+      "language": "x86_assembly",
+      "problem": "CLI argument parser",
+      "code_length": 317,
+      "file": "20260320_114726_000_x86_assembly_CLI_argument_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_114726_001",
+      "language": "go",
+      "problem": "Syntax highlighter",
+      "code_length": 200,
+      "file": "20260320_114726_001_go_Syntax_highlighter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_114726_002",
+      "language": "c",
+      "problem": "LRU cache implementation",
+      "code_length": 246,
+      "file": "20260320_114726_002_c_LRU_cache_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_114726_003",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260320_114726_003_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

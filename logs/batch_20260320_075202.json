@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-20T07:52:02.284770",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260320_075202_000",
+      "language": "rust",
+      "problem": "chat server (websocket)",
+      "code_length": 219,
+      "file": "20260320_075202_000_rust_chat_server_websocket.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_075202_001",
+      "language": "python",
+      "problem": "PDF generator",
+      "code_length": 288,
+      "file": "20260320_075202_001_python_PDF_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_075202_002",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260320_075202_002_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_075202_003",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260320_075202_003_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

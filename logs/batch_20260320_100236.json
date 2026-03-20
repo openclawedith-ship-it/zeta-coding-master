@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-20T10:02:36.954187",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260320_100236_000",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260320_100236_000_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_100236_001",
+      "language": "rust",
+      "problem": "two sum problem",
+      "code_length": 211,
+      "file": "20260320_100236_001_rust_two_sum_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_100236_002",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260320_100236_002_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260320_100236_003",
+      "language": "javascript",
+      "problem": "bellman-ford algorithm",
+      "code_length": 242,
+      "file": "20260320_100236_003_javascript_bellman-ford_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

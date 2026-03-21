@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T17:54:07.832594",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260321_175407_000",
+      "language": "x86_assembly",
+      "problem": "linked list with insert/delete",
+      "code_length": 339,
+      "file": "20260321_175407_000_x86_assembly_linked_list_with_insert_delete.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_175407_001",
+      "language": "go",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 206,
+      "file": "20260321_175407_001_go_A*_pathfinding_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_175407_002",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260321_175407_002_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_175407_003",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260321_175407_003_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T09:58:21.068582",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260321_095821_000",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20260321_095821_000_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_095821_001",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260321_095821_001_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_095821_002",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260321_095821_002_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_095821_003",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260321_095821_003_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

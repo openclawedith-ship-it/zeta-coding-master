@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T22:54:53.440219",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260321_225453_000",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260321_225453_000_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_225453_001",
+      "language": "python",
+      "problem": "Password strength checker",
+      "code_length": 300,
+      "file": "20260321_225453_001_python_Password_strength_checker.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_225453_002",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260321_225453_002_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_225453_003",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260321_225453_003_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

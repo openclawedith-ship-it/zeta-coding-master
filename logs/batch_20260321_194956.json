@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T19:49:56.201969",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260321_194956_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260321_194956_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_194956_001",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260321_194956_001_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_194956_002",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260321_194956_002_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_194956_003",
+      "language": "x86_assembly",
+      "problem": "QR code generator",
+      "code_length": 313,
+      "file": "20260321_194956_003_x86_assembly_QR_code_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

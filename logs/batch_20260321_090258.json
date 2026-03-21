@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T09:02:58.259982",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260321_090258_000",
+      "language": "rust",
+      "problem": "gzip compression",
+      "code_length": 212,
+      "file": "20260321_090258_000_rust_gzip_compression.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_090258_001",
+      "language": "x86_assembly",
+      "problem": "TCP port scanner",
+      "code_length": 311,
+      "file": "20260321_090258_001_x86_assembly_TCP_port_scanner.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_090258_002",
+      "language": "go",
+      "problem": "file encryption tool",
+      "code_length": 202,
+      "file": "20260321_090258_002_go_file_encryption_tool.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_090258_003",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260321_090258_003_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-21T16:58:55.867835",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260321_165855_000",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260321_165855_000_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_165855_001",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260321_165855_001_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_165855_002",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260321_165855_002_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260321_165855_003",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260321_165855_003_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

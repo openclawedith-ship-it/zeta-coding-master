@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-22T11:48:01.527719",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260322_114801_000",
+      "language": "go",
+      "problem": "RSA key generation",
+      "code_length": 200,
+      "file": "20260322_114801_000_go_RSA_key_generation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_114801_001",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260322_114801_001_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_114801_002",
+      "language": "javascript",
+      "problem": "2FA TOTP generator",
+      "code_length": 238,
+      "file": "20260322_114801_002_javascript_2FA_TOTP_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_114801_003",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260322_114801_003_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

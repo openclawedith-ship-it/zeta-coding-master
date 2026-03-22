@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-22T14:57:55.356823",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260322_145755_000",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260322_145755_000_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_145755_001",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260322_145755_001_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_145755_002",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260322_145755_002_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_145755_003",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260322_145755_003_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

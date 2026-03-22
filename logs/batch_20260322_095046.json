@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-22T09:50:46.170018",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260322_095046_000",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260322_095046_000_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_095046_001",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260322_095046_001_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_095046_002",
+      "language": "python",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 304,
+      "file": "20260322_095046_002_python_dynamic_programming_fibonacci.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_095046_003",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260322_095046_003_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

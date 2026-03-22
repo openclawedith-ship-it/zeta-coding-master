@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-22T07:29:37.177335",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260322_072937_000",
+      "language": "javascript",
+      "problem": "binary search algorithm",
+      "code_length": 243,
+      "file": "20260322_072937_000_javascript_binary_search_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_072937_001",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260322_072937_001_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_072937_002",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260322_072937_002_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260322_072937_003",
+      "language": "x86_assembly",
+      "problem": "stack with min() in O(1)",
+      "code_length": 327,
+      "file": "20260322_072937_003_x86_assembly_stack_with_min_in_O1.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

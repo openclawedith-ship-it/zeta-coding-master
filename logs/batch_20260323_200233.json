@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-23T20:02:33.612842",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260323_200233_000",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20260323_200233_000_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260323_200233_001",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260323_200233_001_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260323_200233_002",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260323_200233_002_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260323_200233_003",
+      "language": "x86_assembly",
+      "problem": "Task scheduler",
+      "code_length": 307,
+      "file": "20260323_200233_003_x86_assembly_Task_scheduler.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

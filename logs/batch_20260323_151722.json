@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-23T15:17:22.677777",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260323_151722_000",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260323_151722_000_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260323_151722_001",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260323_151722_001_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260323_151722_002",
+      "language": "rust",
+      "problem": "markdown to HTML converter",
+      "code_length": 222,
+      "file": "20260323_151722_002_rust_markdown_to_HTML_converter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260323_151722_003",
+      "language": "c",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 251,
+      "file": "20260323_151722_003_c_kruskal_minimum_spanning_tree.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-24T20:02:47.926267",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260324_200247_000",
+      "language": "x86_assembly",
+      "problem": "2FA TOTP generator",
+      "code_length": 315,
+      "file": "20260324_200247_000_x86_assembly_2FA_TOTP_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_200247_001",
+      "language": "x86_assembly",
+      "problem": "regex engine basics",
+      "code_length": 317,
+      "file": "20260324_200247_001_x86_assembly_regex_engine_basics.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_200247_002",
+      "language": "go",
+      "problem": "longest common subsequence",
+      "code_length": 208,
+      "file": "20260324_200247_002_go_longest_common_subsequence.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_200247_003",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260324_200247_003_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

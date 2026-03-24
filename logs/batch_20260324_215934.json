@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-24T21:59:34.274209",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260324_215934_000",
+      "language": "c",
+      "problem": "Log analyzer",
+      "code_length": 234,
+      "file": "20260324_215934_000_c_Log_analyzer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_215934_001",
+      "language": "go",
+      "problem": "TCP port scanner",
+      "code_length": 198,
+      "file": "20260324_215934_001_go_TCP_port_scanner.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_215934_002",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260324_215934_002_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_215934_003",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260324_215934_003_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

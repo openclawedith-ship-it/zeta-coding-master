@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-24T14:45:01.319781",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260324_144501_000",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260324_144501_000_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_144501_001",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260324_144501_001_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_144501_002",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20260324_144501_002_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260324_144501_003",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260324_144501_003_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

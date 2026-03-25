@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-25T08:03:39.552324",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260325_080339_000",
+      "language": "rust",
+      "problem": "markdown to HTML converter",
+      "code_length": 222,
+      "file": "20260325_080339_000_rust_markdown_to_HTML_converter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_080339_001",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260325_080339_001_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_080339_002",
+      "language": "c",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 246,
+      "file": "20260325_080339_002_c_A*_pathfinding_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_080339_003",
+      "language": "go",
+      "problem": "knapsack problem",
+      "code_length": 198,
+      "file": "20260325_080339_003_go_knapsack_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

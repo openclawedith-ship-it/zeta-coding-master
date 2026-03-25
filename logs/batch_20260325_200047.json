@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-25T20:00:47.068973",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260325_200047_000",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260325_200047_000_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_200047_001",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260325_200047_001_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_200047_002",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260325_200047_002_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_200047_003",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260325_200047_003_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

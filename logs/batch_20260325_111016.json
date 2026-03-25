@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-25T11:10:16.116749",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260325_111016_000",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260325_111016_000_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_111016_001",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260325_111016_001_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_111016_002",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260325_111016_002_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_111016_003",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260325_111016_003_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

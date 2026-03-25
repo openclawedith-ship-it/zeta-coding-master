@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-25T00:01:08.216094",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260325_000108_000",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260325_000108_000_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_000108_001",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260325_000108_001_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_000108_002",
+      "language": "javascript",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 249,
+      "file": "20260325_000108_002_javascript_kruskal_minimum_spanning_tree.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_000108_003",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260325_000108_003_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

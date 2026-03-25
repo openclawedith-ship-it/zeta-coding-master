@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-25T22:02:44.504106",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260325_220244_000",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260325_220244_000_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_220244_001",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260325_220244_001_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_220244_002",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260325_220244_002_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260325_220244_003",
+      "language": "go",
+      "problem": "knapsack problem",
+      "code_length": 198,
+      "file": "20260325_220244_003_go_knapsack_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

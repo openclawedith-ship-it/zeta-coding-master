@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-26T05:51:50.924144",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260326_055150_000",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260326_055150_000_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_055150_001",
+      "language": "c",
+      "problem": "URL shortener backend",
+      "code_length": 243,
+      "file": "20260326_055150_001_c_URL_shortener_backend.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_055150_002",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260326_055150_002_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_055150_003",
+      "language": "javascript",
+      "problem": "queue using two stacks",
+      "code_length": 242,
+      "file": "20260326_055150_003_javascript_queue_using_two_stacks.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

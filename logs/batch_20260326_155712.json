@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-26T15:57:12.796496",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260326_155712_000",
+      "language": "x86_assembly",
+      "problem": "queue using two stacks",
+      "code_length": 323,
+      "file": "20260326_155712_000_x86_assembly_queue_using_two_stacks.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_155712_001",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260326_155712_001_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_155712_002",
+      "language": "python",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 304,
+      "file": "20260326_155712_002_python_kruskal_minimum_spanning_tree.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_155712_003",
+      "language": "javascript",
+      "problem": "URL shortener backend",
+      "code_length": 241,
+      "file": "20260326_155712_003_javascript_URL_shortener_backend.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

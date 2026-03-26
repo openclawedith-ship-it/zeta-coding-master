@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-26T21:04:17.871257",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260326_210417_000",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260326_210417_000_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_210417_001",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260326_210417_001_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_210417_002",
+      "language": "python",
+      "problem": "queue using two stacks",
+      "code_length": 297,
+      "file": "20260326_210417_002_python_queue_using_two_stacks.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_210417_003",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260326_210417_003_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-26T23:00:40.192757",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260326_230040_000",
+      "language": "x86_assembly",
+      "problem": "trie data structure",
+      "code_length": 317,
+      "file": "20260326_230040_000_x86_assembly_trie_data_structure.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_230040_001",
+      "language": "python",
+      "problem": "regex engine basics",
+      "code_length": 294,
+      "file": "20260326_230040_001_python_regex_engine_basics.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_230040_002",
+      "language": "c",
+      "problem": "Task scheduler",
+      "code_length": 236,
+      "file": "20260326_230040_002_c_Task_scheduler.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_230040_003",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260326_230040_003_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

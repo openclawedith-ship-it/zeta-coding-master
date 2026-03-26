@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-26T19:41:22.867536",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260326_194122_000",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260326_194122_000_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_194122_001",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260326_194122_001_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_194122_002",
+      "language": "x86_assembly",
+      "problem": "CRUD REST API",
+      "code_length": 305,
+      "file": "20260326_194122_002_x86_assembly_CRUD_REST_API.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260326_194122_003",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260326_194122_003_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

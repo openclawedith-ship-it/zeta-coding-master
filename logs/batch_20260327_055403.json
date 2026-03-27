@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-27T05:54:03.293453",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260327_055403_000",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260327_055403_000_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_055403_001",
+      "language": "javascript",
+      "problem": "graph adjacency list",
+      "code_length": 240,
+      "file": "20260327_055403_001_javascript_graph_adjacency_list.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_055403_002",
+      "language": "rust",
+      "problem": "two sum problem",
+      "code_length": 211,
+      "file": "20260327_055403_002_rust_two_sum_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_055403_003",
+      "language": "javascript",
+      "problem": "matrix chain multiplication",
+      "code_length": 247,
+      "file": "20260327_055403_003_javascript_matrix_chain_multiplication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

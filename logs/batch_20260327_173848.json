@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-27T17:38:48.822412",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260327_173848_000",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260327_173848_000_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_173848_001",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260327_173848_001_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_173848_002",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20260327_173848_002_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_173848_003",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260327_173848_003_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

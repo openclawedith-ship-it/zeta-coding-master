@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-27T00:03:29.235558",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260327_000329_000",
+      "language": "python",
+      "problem": "rate limiter implementation",
+      "code_length": 302,
+      "file": "20260327_000329_000_python_rate_limiter_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_000329_001",
+      "language": "c",
+      "problem": "QR code generator",
+      "code_length": 239,
+      "file": "20260327_000329_001_c_QR_code_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_000329_002",
+      "language": "c",
+      "problem": "HTTP server from scratch",
+      "code_length": 246,
+      "file": "20260327_000329_002_c_HTTP_server_from_scratch.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260327_000329_003",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260327_000329_003_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

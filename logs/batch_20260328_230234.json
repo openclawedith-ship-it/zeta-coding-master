@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T23:02:34.260054",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_230234_000",
+      "language": "x86_assembly",
+      "problem": "Template engine",
+      "code_length": 309,
+      "file": "20260328_230234_000_x86_assembly_Template_engine.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_230234_001",
+      "language": "x86_assembly",
+      "problem": "queue using two stacks",
+      "code_length": 323,
+      "file": "20260328_230234_001_x86_assembly_queue_using_two_stacks.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_230234_002",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260328_230234_002_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_230234_003",
+      "language": "python",
+      "problem": "Diff algorithm",
+      "code_length": 289,
+      "file": "20260328_230234_003_python_Diff_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

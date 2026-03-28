@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T21:58:26.536247",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_215826_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260328_215826_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_215826_001",
+      "language": "javascript",
+      "problem": "producer-consumer pattern",
+      "code_length": 245,
+      "file": "20260328_215826_001_javascript_producer-consumer_pattern.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_215826_002",
+      "language": "javascript",
+      "problem": "quicksort implementation",
+      "code_length": 244,
+      "file": "20260328_215826_002_javascript_quicksort_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_215826_003",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260328_215826_003_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

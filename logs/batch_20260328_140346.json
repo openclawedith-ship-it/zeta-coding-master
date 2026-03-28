@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T14:03:46.118599",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_140346_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260328_140346_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_140346_001",
+      "language": "python",
+      "problem": "binary search algorithm",
+      "code_length": 298,
+      "file": "20260328_140346_001_python_binary_search_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_140346_002",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260328_140346_002_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_140346_003",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260328_140346_003_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T11:02:56.666978",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_110256_000",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260328_110256_000_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_110256_001",
+      "language": "go",
+      "problem": "SHA-256 implementation",
+      "code_length": 204,
+      "file": "20260328_110256_001_go_SHA-256_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_110256_002",
+      "language": "c",
+      "problem": "Diff algorithm",
+      "code_length": 236,
+      "file": "20260328_110256_002_c_Diff_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_110256_003",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260328_110256_003_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

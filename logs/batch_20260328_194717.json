@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T19:47:17.951143",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_194717_000",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260328_194717_000_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_194717_001",
+      "language": "go",
+      "problem": "Cron expression parser",
+      "code_length": 204,
+      "file": "20260328_194717_001_go_Cron_expression_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_194717_002",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260328_194717_002_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_194717_003",
+      "language": "python",
+      "problem": "rate limiter implementation",
+      "code_length": 302,
+      "file": "20260328_194717_003_python_rate_limiter_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

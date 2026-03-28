@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T09:54:49.110259",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_095449_000",
+      "language": "x86_assembly",
+      "problem": "heap sort algorithm",
+      "code_length": 317,
+      "file": "20260328_095449_000_x86_assembly_heap_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_095449_001",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260328_095449_001_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_095449_002",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260328_095449_002_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_095449_003",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260328_095449_003_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

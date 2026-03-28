@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-28T15:53:32.543343",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260328_155332_000",
+      "language": "javascript",
+      "problem": "Email validator",
+      "code_length": 235,
+      "file": "20260328_155332_000_javascript_Email_validator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_155332_001",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260328_155332_001_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_155332_002",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20260328_155332_002_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260328_155332_003",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260328_155332_003_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-29T21:02:59.926066",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260329_210259_000",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260329_210259_000_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_210259_001",
+      "language": "go",
+      "problem": "quicksort implementation",
+      "code_length": 206,
+      "file": "20260329_210259_001_go_quicksort_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_210259_002",
+      "language": "python",
+      "problem": "LRU cache implementation",
+      "code_length": 299,
+      "file": "20260329_210259_002_python_LRU_cache_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_210259_003",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260329_210259_003_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

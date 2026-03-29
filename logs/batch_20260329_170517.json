@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-29T17:05:17.875703",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260329_170517_000",
+      "language": "javascript",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 249,
+      "file": "20260329_170517_000_javascript_kruskal_minimum_spanning_tree.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_170517_001",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260329_170517_001_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_170517_002",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260329_170517_002_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_170517_003",
+      "language": "python",
+      "problem": "JSON parser",
+      "code_length": 286,
+      "file": "20260329_170517_003_python_JSON_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-29T00:02:46.780800",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260329_000246_000",
+      "language": "x86_assembly",
+      "problem": "stack with min() in O(1)",
+      "code_length": 327,
+      "file": "20260329_000246_000_x86_assembly_stack_with_min_in_O1.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_000246_001",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260329_000246_001_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_000246_002",
+      "language": "javascript",
+      "problem": "Config file reader",
+      "code_length": 238,
+      "file": "20260329_000246_002_javascript_Config_file_reader.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_000246_003",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260329_000246_003_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

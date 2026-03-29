@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-29T08:02:37.124726",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260329_080237_000",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260329_080237_000_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_080237_001",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260329_080237_001_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_080237_002",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260329_080237_002_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_080237_003",
+      "language": "javascript",
+      "problem": "JWT authentication",
+      "code_length": 238,
+      "file": "20260329_080237_003_javascript_JWT_authentication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

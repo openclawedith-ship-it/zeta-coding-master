@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-29T14:03:22.465383",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260329_140322_000",
+      "language": "x86_assembly",
+      "problem": "CLI argument parser",
+      "code_length": 317,
+      "file": "20260329_140322_000_x86_assembly_CLI_argument_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_140322_001",
+      "language": "c",
+      "problem": "Email validator",
+      "code_length": 237,
+      "file": "20260329_140322_001_c_Email_validator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_140322_002",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260329_140322_002_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260329_140322_003",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260329_140322_003_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

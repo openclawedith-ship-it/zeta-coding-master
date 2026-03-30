@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-30T22:05:19.084610",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260330_220519_000",
+      "language": "rust",
+      "problem": "longest common subsequence",
+      "code_length": 222,
+      "file": "20260330_220519_000_rust_longest_common_subsequence.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260330_220519_001",
+      "language": "javascript",
+      "problem": "CRUD REST API",
+      "code_length": 233,
+      "file": "20260330_220519_001_javascript_CRUD_REST_API.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260330_220519_002",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260330_220519_002_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260330_220519_003",
+      "language": "javascript",
+      "problem": "Task scheduler",
+      "code_length": 234,
+      "file": "20260330_220519_003_javascript_Task_scheduler.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

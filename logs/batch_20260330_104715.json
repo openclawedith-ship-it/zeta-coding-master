@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-30T10:47:15.679782",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260330_104715_000",
+      "language": "go",
+      "problem": "Password strength checker",
+      "code_length": 207,
+      "file": "20260330_104715_000_go_Password_strength_checker.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260330_104715_001",
+      "language": "c",
+      "problem": "Syntax highlighter",
+      "code_length": 240,
+      "file": "20260330_104715_001_c_Syntax_highlighter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260330_104715_002",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260330_104715_002_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260330_104715_003",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260330_104715_003_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

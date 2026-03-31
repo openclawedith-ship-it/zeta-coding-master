@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-31T05:57:18.646800",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260331_055718_000",
+      "language": "x86_assembly",
+      "problem": "Image resizer",
+      "code_length": 305,
+      "file": "20260331_055718_000_x86_assembly_Image_resizer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260331_055718_001",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260331_055718_001_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260331_055718_002",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260331_055718_002_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260331_055718_003",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260331_055718_003_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-03T21:50:21.903321",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260403_215021_000",
+      "language": "x86_assembly",
+      "problem": "queue using two stacks",
+      "code_length": 323,
+      "file": "20260403_215021_000_x86_assembly_queue_using_two_stacks.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_215021_001",
+      "language": "x86_assembly",
+      "problem": "queue using two stacks",
+      "code_length": 323,
+      "file": "20260403_215021_001_x86_assembly_queue_using_two_stacks.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_215021_002",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20260403_215021_002_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_215021_003",
+      "language": "rust",
+      "problem": "dijkstra shortest path",
+      "code_length": 218,
+      "file": "20260403_215021_003_rust_dijkstra_shortest_path.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

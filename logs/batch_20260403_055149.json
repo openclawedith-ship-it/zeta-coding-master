@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-03T05:51:49.116247",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260403_055149_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260403_055149_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_055149_001",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260403_055149_001_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_055149_002",
+      "language": "python",
+      "problem": "RSA key generation",
+      "code_length": 293,
+      "file": "20260403_055149_002_python_RSA_key_generation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_055149_003",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260403_055149_003_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

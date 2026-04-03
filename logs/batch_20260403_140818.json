@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-03T14:08:18.888087",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260403_140818_000",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260403_140818_000_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_140818_001",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260403_140818_001_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_140818_002",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260403_140818_002_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260403_140818_003",
+      "language": "go",
+      "problem": "queue using two stacks",
+      "code_length": 204,
+      "file": "20260403_140818_003_go_queue_using_two_stacks.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

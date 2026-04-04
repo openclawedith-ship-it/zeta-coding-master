@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-04T20:01:25.526205",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260404_200125_000",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260404_200125_000_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260404_200125_001",
+      "language": "rust",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 220,
+      "file": "20260404_200125_001_rust_A*_pathfinding_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260404_200125_002",
+      "language": "rust",
+      "problem": "dijkstra shortest path",
+      "code_length": 218,
+      "file": "20260404_200125_002_rust_dijkstra_shortest_path.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260404_200125_003",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260404_200125_003_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

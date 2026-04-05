@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-05T17:18:39.884601",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260405_171839_000",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260405_171839_000_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_171839_001",
+      "language": "x86_assembly",
+      "problem": "rate limiter implementation",
+      "code_length": 333,
+      "file": "20260405_171839_001_x86_assembly_rate_limiter_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_171839_002",
+      "language": "c",
+      "problem": "binary search algorithm",
+      "code_length": 245,
+      "file": "20260405_171839_002_c_binary_search_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_171839_003",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260405_171839_003_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

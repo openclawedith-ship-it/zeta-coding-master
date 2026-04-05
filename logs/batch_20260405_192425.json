@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-05T19:24:25.701480",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260405_192425_000",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260405_192425_000_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_192425_001",
+      "language": "javascript",
+      "problem": "Code formatter",
+      "code_length": 234,
+      "file": "20260405_192425_001_javascript_Code_formatter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_192425_002",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260405_192425_002_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_192425_003",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260405_192425_003_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

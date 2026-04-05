@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-05T05:58:23.018358",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260405_055823_000",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260405_055823_000_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_055823_001",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260405_055823_001_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_055823_002",
+      "language": "go",
+      "problem": "Email validator",
+      "code_length": 197,
+      "file": "20260405_055823_002_go_Email_validator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_055823_003",
+      "language": "rust",
+      "problem": "heap sort algorithm",
+      "code_length": 215,
+      "file": "20260405_055823_003_rust_heap_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

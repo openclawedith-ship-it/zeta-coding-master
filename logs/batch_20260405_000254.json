@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-05T00:02:54.987013",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260405_000254_000",
+      "language": "python",
+      "problem": "matrix chain multiplication",
+      "code_length": 302,
+      "file": "20260405_000254_000_python_matrix_chain_multiplication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_000254_001",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260405_000254_001_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_000254_002",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260405_000254_002_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260405_000254_003",
+      "language": "c",
+      "problem": "queue using two stacks",
+      "code_length": 244,
+      "file": "20260405_000254_003_c_queue_using_two_stacks.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

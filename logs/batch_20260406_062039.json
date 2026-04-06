@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-06T06:20:39.158738",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260406_062039_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260406_062039_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260406_062039_001",
+      "language": "c",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 251,
+      "file": "20260406_062039_001_c_dynamic_programming_fibonacci.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260406_062039_002",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260406_062039_002_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260406_062039_003",
+      "language": "rust",
+      "problem": "Task scheduler",
+      "code_length": 210,
+      "file": "20260406_062039_003_rust_Task_scheduler.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

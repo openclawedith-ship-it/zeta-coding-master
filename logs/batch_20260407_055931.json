@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-07T05:59:31.463890",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260407_055931_000",
+      "language": "x86_assembly",
+      "problem": "CRUD REST API",
+      "code_length": 305,
+      "file": "20260407_055931_000_x86_assembly_CRUD_REST_API.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_055931_001",
+      "language": "go",
+      "problem": "URL shortener backend",
+      "code_length": 203,
+      "file": "20260407_055931_001_go_URL_shortener_backend.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_055931_002",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260407_055931_002_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_055931_003",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260407_055931_003_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

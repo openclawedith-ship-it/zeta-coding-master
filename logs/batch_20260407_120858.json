@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-07T12:08:58.999048",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260407_120858_000",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260407_120858_000_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_120858_001",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260407_120858_001_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_120858_002",
+      "language": "javascript",
+      "problem": "longest common subsequence",
+      "code_length": 246,
+      "file": "20260407_120858_002_javascript_longest_common_subsequence.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_120858_003",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260407_120858_003_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

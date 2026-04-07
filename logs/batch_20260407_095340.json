@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-07T09:53:40.807624",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260407_095340_000",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260407_095340_000_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_095340_001",
+      "language": "c",
+      "problem": "Email validator",
+      "code_length": 237,
+      "file": "20260407_095340_001_c_Email_validator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_095340_002",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260407_095340_002_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260407_095340_003",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20260407_095340_003_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-08T14:57:40.515101",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260408_145740_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260408_145740_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260408_145740_001",
+      "language": "javascript",
+      "problem": "Redis clone",
+      "code_length": 231,
+      "file": "20260408_145740_001_javascript_Redis_clone.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260408_145740_002",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260408_145740_002_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260408_145740_003",
+      "language": "c",
+      "problem": "knapsack problem",
+      "code_length": 238,
+      "file": "20260408_145740_003_c_knapsack_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

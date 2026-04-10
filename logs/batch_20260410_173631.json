@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-10T17:36:31.312986",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260410_173631_000",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260410_173631_000_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260410_173631_001",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260410_173631_001_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260410_173631_002",
+      "language": "go",
+      "problem": "SHA-256 implementation",
+      "code_length": 204,
+      "file": "20260410_173631_002_go_SHA-256_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260410_173631_003",
+      "language": "rust",
+      "problem": "Password strength checker",
+      "code_length": 221,
+      "file": "20260410_173631_003_rust_Password_strength_checker.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

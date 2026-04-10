@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-10T21:56:47.630803",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260410_215647_000",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260410_215647_000_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260410_215647_001",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260410_215647_001_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260410_215647_002",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260410_215647_002_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260410_215647_003",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260410_215647_003_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

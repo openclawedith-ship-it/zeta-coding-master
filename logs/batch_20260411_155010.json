@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-11T15:50:10.884683",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260411_155010_000",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260411_155010_000_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260411_155010_001",
+      "language": "c",
+      "problem": "trie data structure",
+      "code_length": 241,
+      "file": "20260411_155010_001_c_trie_data_structure.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260411_155010_002",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20260411_155010_002_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260411_155010_003",
+      "language": "go",
+      "problem": "CRUD REST API",
+      "code_length": 195,
+      "file": "20260411_155010_003_go_CRUD_REST_API.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

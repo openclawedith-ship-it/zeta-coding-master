@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-11T10:02:00.351717",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260411_100200_000",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260411_100200_000_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260411_100200_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260411_100200_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260411_100200_002",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260411_100200_002_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260411_100200_003",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260411_100200_003_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

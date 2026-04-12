@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-12T11:02:47.627431",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260412_110247_000",
+      "language": "x86_assembly",
+      "problem": "binary search algorithm",
+      "code_length": 325,
+      "file": "20260412_110247_000_x86_assembly_binary_search_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260412_110247_001",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260412_110247_001_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260412_110247_002",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260412_110247_002_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260412_110247_003",
+      "language": "python",
+      "problem": "heap sort algorithm",
+      "code_length": 294,
+      "file": "20260412_110247_003_python_heap_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

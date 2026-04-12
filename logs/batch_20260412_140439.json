@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-12T14:04:39.939032",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260412_140439_000",
+      "language": "c",
+      "problem": "stack with min() in O(1)",
+      "code_length": 246,
+      "file": "20260412_140439_000_c_stack_with_min_in_O1.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260412_140439_001",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260412_140439_001_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260412_140439_002",
+      "language": "python",
+      "problem": "Email validator",
+      "code_length": 290,
+      "file": "20260412_140439_002_python_Email_validator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260412_140439_003",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260412_140439_003_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

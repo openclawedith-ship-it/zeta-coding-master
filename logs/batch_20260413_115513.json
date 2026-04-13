@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-13T11:55:13.025134",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260413_115513_000",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260413_115513_000_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260413_115513_001",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260413_115513_001_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260413_115513_002",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260413_115513_002_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260413_115513_003",
+      "language": "javascript",
+      "problem": "matrix chain multiplication",
+      "code_length": 247,
+      "file": "20260413_115513_003_javascript_matrix_chain_multiplication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

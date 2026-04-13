@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-13T22:31:22.036087",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260413_223122_000",
+      "language": "x86_assembly",
+      "problem": "RSA key generation",
+      "code_length": 315,
+      "file": "20260413_223122_000_x86_assembly_RSA_key_generation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260413_223122_001",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260413_223122_001_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260413_223122_002",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260413_223122_002_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260413_223122_003",
+      "language": "x86_assembly",
+      "problem": "binary search algorithm",
+      "code_length": 325,
+      "file": "20260413_223122_003_x86_assembly_binary_search_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

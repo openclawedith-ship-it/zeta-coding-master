@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-14T10:47:15.526323",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260414_104715_000",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260414_104715_000_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260414_104715_001",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260414_104715_001_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260414_104715_002",
+      "language": "python",
+      "problem": "matrix chain multiplication",
+      "code_length": 302,
+      "file": "20260414_104715_002_python_matrix_chain_multiplication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260414_104715_003",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260414_104715_003_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

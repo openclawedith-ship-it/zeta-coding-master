@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-15T14:56:54.492297",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260415_145654_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260415_145654_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260415_145654_001",
+      "language": "x86_assembly",
+      "problem": "CRUD REST API",
+      "code_length": 305,
+      "file": "20260415_145654_001_x86_assembly_CRUD_REST_API.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260415_145654_002",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260415_145654_002_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260415_145654_003",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260415_145654_003_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

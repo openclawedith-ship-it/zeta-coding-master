@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-18T17:53:26.003245",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260418_175326_000",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260418_175326_000_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_175326_001",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260418_175326_001_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_175326_002",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260418_175326_002_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_175326_003",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260418_175326_003_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-18T12:59:39.703834",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260418_125939_000",
+      "language": "go",
+      "problem": "markdown to HTML converter",
+      "code_length": 208,
+      "file": "20260418_125939_000_go_markdown_to_HTML_converter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_125939_001",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260418_125939_001_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_125939_002",
+      "language": "javascript",
+      "problem": "bellman-ford algorithm",
+      "code_length": 242,
+      "file": "20260418_125939_002_javascript_bellman-ford_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_125939_003",
+      "language": "javascript",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 249,
+      "file": "20260418_125939_003_javascript_kruskal_minimum_spanning_tree.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

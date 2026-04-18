@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-18T18:50:03.712542",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260418_185003_000",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260418_185003_000_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_185003_001",
+      "language": "rust",
+      "problem": "2FA TOTP generator",
+      "code_length": 214,
+      "file": "20260418_185003_001_rust_2FA_TOTP_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_185003_002",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260418_185003_002_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_185003_003",
+      "language": "c",
+      "problem": "URL shortener backend",
+      "code_length": 243,
+      "file": "20260418_185003_003_c_URL_shortener_backend.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

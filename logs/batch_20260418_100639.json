@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-18T10:06:39.967449",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260418_100639_000",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260418_100639_000_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_100639_001",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260418_100639_001_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_100639_002",
+      "language": "python",
+      "problem": "LRU cache implementation",
+      "code_length": 299,
+      "file": "20260418_100639_002_python_LRU_cache_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_100639_003",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260418_100639_003_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

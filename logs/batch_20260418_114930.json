@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-18T11:49:30.460921",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260418_114930_000",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20260418_114930_000_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_114930_001",
+      "language": "x86_assembly",
+      "problem": "merge sort algorithm",
+      "code_length": 319,
+      "file": "20260418_114930_001_x86_assembly_merge_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_114930_002",
+      "language": "x86_assembly",
+      "problem": "file encryption tool",
+      "code_length": 319,
+      "file": "20260418_114930_002_x86_assembly_file_encryption_tool.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260418_114930_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260418_114930_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

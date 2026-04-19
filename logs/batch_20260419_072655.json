@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-19T07:26:55.284350",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260419_072655_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260419_072655_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260419_072655_001",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260419_072655_001_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260419_072655_002",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260419_072655_002_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260419_072655_003",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260419_072655_003_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

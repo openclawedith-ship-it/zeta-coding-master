@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-19T11:50:20.941711",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260419_115020_000",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260419_115020_000_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260419_115020_001",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260419_115020_001_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260419_115020_002",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260419_115020_002_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260419_115020_003",
+      "language": "javascript",
+      "problem": "QR code generator",
+      "code_length": 237,
+      "file": "20260419_115020_003_javascript_QR_code_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

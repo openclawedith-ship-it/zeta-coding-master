@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-20T10:57:47.244659",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260420_105747_000",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260420_105747_000_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_105747_001",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260420_105747_001_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_105747_002",
+      "language": "x86_assembly",
+      "problem": "queue using two stacks",
+      "code_length": 323,
+      "file": "20260420_105747_002_x86_assembly_queue_using_two_stacks.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_105747_003",
+      "language": "rust",
+      "problem": "markdown to HTML converter",
+      "code_length": 222,
+      "file": "20260420_105747_003_rust_markdown_to_HTML_converter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

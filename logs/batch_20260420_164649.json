@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-20T16:46:49.402722",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260420_164649_000",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260420_164649_000_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_164649_001",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260420_164649_001_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_164649_002",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260420_164649_002_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_164649_003",
+      "language": "python",
+      "problem": "URL shortener backend",
+      "code_length": 296,
+      "file": "20260420_164649_003_python_URL_shortener_backend.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

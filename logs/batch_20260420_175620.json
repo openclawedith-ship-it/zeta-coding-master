@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-20T17:56:20.091156",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260420_175620_000",
+      "language": "javascript",
+      "problem": "regex engine basics",
+      "code_length": 239,
+      "file": "20260420_175620_000_javascript_regex_engine_basics.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_175620_001",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260420_175620_001_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_175620_002",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260420_175620_002_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260420_175620_003",
+      "language": "x86_assembly",
+      "problem": "edit distance algorithm",
+      "code_length": 325,
+      "file": "20260420_175620_003_x86_assembly_edit_distance_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

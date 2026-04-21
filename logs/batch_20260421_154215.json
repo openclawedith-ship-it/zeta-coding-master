@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-21T15:42:15.628891",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260421_154215_000",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260421_154215_000_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_154215_001",
+      "language": "python",
+      "problem": "knapsack problem",
+      "code_length": 291,
+      "file": "20260421_154215_001_python_knapsack_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_154215_002",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260421_154215_002_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_154215_003",
+      "language": "c",
+      "problem": "JWT authentication",
+      "code_length": 240,
+      "file": "20260421_154215_003_c_JWT_authentication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

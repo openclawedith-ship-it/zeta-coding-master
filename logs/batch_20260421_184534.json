@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-21T18:45:34.364949",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260421_184534_000",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260421_184534_000_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_184534_001",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260421_184534_001_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_184534_002",
+      "language": "rust",
+      "problem": "edit distance algorithm",
+      "code_length": 219,
+      "file": "20260421_184534_002_rust_edit_distance_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_184534_003",
+      "language": "javascript",
+      "problem": "bellman-ford algorithm",
+      "code_length": 242,
+      "file": "20260421_184534_003_javascript_bellman-ford_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

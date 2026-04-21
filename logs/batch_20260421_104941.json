@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-21T10:49:41.818092",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260421_104941_000",
+      "language": "x86_assembly",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 337,
+      "file": "20260421_104941_000_x86_assembly_kruskal_minimum_spanning_tree.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_104941_001",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260421_104941_001_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_104941_002",
+      "language": "x86_assembly",
+      "problem": "bellman-ford algorithm",
+      "code_length": 323,
+      "file": "20260421_104941_002_x86_assembly_bellman-ford_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260421_104941_003",
+      "language": "x86_assembly",
+      "problem": "chat server (websocket)",
+      "code_length": 325,
+      "file": "20260421_104941_003_x86_assembly_chat_server_websocket.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

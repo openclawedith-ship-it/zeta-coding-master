@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-22T16:41:55.679900",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260422_164155_000",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260422_164155_000_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_164155_001",
+      "language": "go",
+      "problem": "HTTP server from scratch",
+      "code_length": 206,
+      "file": "20260422_164155_001_go_HTTP_server_from_scratch.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_164155_002",
+      "language": "python",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 304,
+      "file": "20260422_164155_002_python_kruskal_minimum_spanning_tree.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_164155_003",
+      "language": "javascript",
+      "problem": "quicksort implementation",
+      "code_length": 244,
+      "file": "20260422_164155_003_javascript_quicksort_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

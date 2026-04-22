@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-22T18:46:45.853624",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260422_184645_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260422_184645_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_184645_001",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260422_184645_001_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_184645_002",
+      "language": "go",
+      "problem": "Email validator",
+      "code_length": 197,
+      "file": "20260422_184645_002_go_Email_validator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_184645_003",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260422_184645_003_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

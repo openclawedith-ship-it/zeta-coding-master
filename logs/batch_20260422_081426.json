@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-22T08:14:26.867425",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260422_081426_000",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260422_081426_000_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_081426_001",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260422_081426_001_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_081426_002",
+      "language": "rust",
+      "problem": "Email validator",
+      "code_length": 211,
+      "file": "20260422_081426_002_rust_Email_validator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260422_081426_003",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20260422_081426_003_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

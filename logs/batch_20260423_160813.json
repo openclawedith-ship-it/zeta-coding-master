@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-23T16:08:13.561806",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260423_160813_000",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260423_160813_000_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260423_160813_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260423_160813_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260423_160813_002",
+      "language": "x86_assembly",
+      "problem": "Cron expression parser",
+      "code_length": 323,
+      "file": "20260423_160813_002_x86_assembly_Cron_expression_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260423_160813_003",
+      "language": "x86_assembly",
+      "problem": "LRU cache implementation",
+      "code_length": 327,
+      "file": "20260423_160813_003_x86_assembly_LRU_cache_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

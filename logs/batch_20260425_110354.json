@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-25T11:03:54.483960",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260425_110354_000",
+      "language": "x86_assembly",
+      "problem": "regex engine basics",
+      "code_length": 317,
+      "file": "20260425_110354_000_x86_assembly_regex_engine_basics.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_110354_001",
+      "language": "javascript",
+      "problem": "edit distance algorithm",
+      "code_length": 243,
+      "file": "20260425_110354_001_javascript_edit_distance_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_110354_002",
+      "language": "c",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 246,
+      "file": "20260425_110354_002_c_A*_pathfinding_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_110354_003",
+      "language": "c",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 251,
+      "file": "20260425_110354_003_c_kruskal_minimum_spanning_tree.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

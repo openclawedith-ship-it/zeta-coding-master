@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-25T17:25:28.123260",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260425_172528_000",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260425_172528_000_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_172528_001",
+      "language": "c",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 246,
+      "file": "20260425_172528_001_c_A*_pathfinding_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_172528_002",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260425_172528_002_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_172528_003",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260425_172528_003_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

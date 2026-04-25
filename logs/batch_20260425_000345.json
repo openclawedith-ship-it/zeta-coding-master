@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-25T00:03:45.489129",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260425_000345_000",
+      "language": "x86_assembly",
+      "problem": "trie data structure",
+      "code_length": 317,
+      "file": "20260425_000345_000_x86_assembly_trie_data_structure.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_000345_001",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260425_000345_001_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_000345_002",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260425_000345_002_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_000345_003",
+      "language": "x86_assembly",
+      "problem": "Template engine",
+      "code_length": 309,
+      "file": "20260425_000345_003_x86_assembly_Template_engine.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

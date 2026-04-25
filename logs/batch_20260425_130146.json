@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-25T13:01:46.578384",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260425_130146_000",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260425_130146_000_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_130146_001",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260425_130146_001_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_130146_002",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260425_130146_002_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_130146_003",
+      "language": "javascript",
+      "problem": "file encryption tool",
+      "code_length": 240,
+      "file": "20260425_130146_003_javascript_file_encryption_tool.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-25T15:55:45.012884",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260425_155545_000",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260425_155545_000_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_155545_001",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260425_155545_001_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_155545_002",
+      "language": "javascript",
+      "problem": "regex engine basics",
+      "code_length": 239,
+      "file": "20260425_155545_002_javascript_regex_engine_basics.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260425_155545_003",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260425_155545_003_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-26T10:09:23.808608",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260426_100923_000",
+      "language": "javascript",
+      "problem": "Redis clone",
+      "code_length": 231,
+      "file": "20260426_100923_000_javascript_Redis_clone.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260426_100923_001",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260426_100923_001_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260426_100923_002",
+      "language": "c",
+      "problem": "URL shortener backend",
+      "code_length": 243,
+      "file": "20260426_100923_002_c_URL_shortener_backend.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260426_100923_003",
+      "language": "python",
+      "problem": "PDF generator",
+      "code_length": 288,
+      "file": "20260426_100923_003_python_PDF_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

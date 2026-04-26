@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-26T22:21:52.994127",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260426_222152_000",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260426_222152_000_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260426_222152_001",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260426_222152_001_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260426_222152_002",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20260426_222152_002_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260426_222152_003",
+      "language": "c",
+      "problem": "binary search algorithm",
+      "code_length": 245,
+      "file": "20260426_222152_003_c_binary_search_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

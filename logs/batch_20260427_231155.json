@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-27T23:11:55.272320",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260427_231155_000",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260427_231155_000_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_231155_001",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20260427_231155_001_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_231155_002",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260427_231155_002_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_231155_003",
+      "language": "rust",
+      "problem": "rate limiter implementation",
+      "code_length": 223,
+      "file": "20260427_231155_003_rust_rate_limiter_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

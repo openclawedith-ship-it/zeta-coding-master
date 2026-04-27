@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-27T16:08:13.647815",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260427_160813_000",
+      "language": "go",
+      "problem": "merge sort algorithm",
+      "code_length": 202,
+      "file": "20260427_160813_000_go_merge_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_160813_001",
+      "language": "javascript",
+      "problem": "markdown to HTML converter",
+      "code_length": 246,
+      "file": "20260427_160813_001_javascript_markdown_to_HTML_converter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_160813_002",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260427_160813_002_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_160813_003",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260427_160813_003_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

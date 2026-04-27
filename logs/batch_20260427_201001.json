@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-27T20:10:01.806715",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260427_201001_000",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260427_201001_000_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_201001_001",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20260427_201001_001_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_201001_002",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260427_201001_002_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_201001_003",
+      "language": "go",
+      "problem": "Task scheduler",
+      "code_length": 196,
+      "file": "20260427_201001_003_go_Task_scheduler.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

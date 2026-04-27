@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-27T02:53:07.127067",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260427_025307_000",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260427_025307_000_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_025307_001",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260427_025307_001_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_025307_002",
+      "language": "c",
+      "problem": "file encryption tool",
+      "code_length": 242,
+      "file": "20260427_025307_002_c_file_encryption_tool.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260427_025307_003",
+      "language": "x86_assembly",
+      "problem": "rate limiter implementation",
+      "code_length": 333,
+      "file": "20260427_025307_003_x86_assembly_rate_limiter_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

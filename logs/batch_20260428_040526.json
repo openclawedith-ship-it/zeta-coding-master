@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-28T04:05:26.061071",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260428_040526_000",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260428_040526_000_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_040526_001",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260428_040526_001_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_040526_002",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260428_040526_002_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_040526_003",
+      "language": "javascript",
+      "problem": "bellman-ford algorithm",
+      "code_length": 242,
+      "file": "20260428_040526_003_javascript_bellman-ford_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

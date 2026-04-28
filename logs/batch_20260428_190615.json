@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-28T19:06:15.104781",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260428_190615_000",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260428_190615_000_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_190615_001",
+      "language": "c",
+      "problem": "stack with min() in O(1)",
+      "code_length": 246,
+      "file": "20260428_190615_001_c_stack_with_min_in_O1.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_190615_002",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260428_190615_002_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_190615_003",
+      "language": "python",
+      "problem": "Code formatter",
+      "code_length": 289,
+      "file": "20260428_190615_003_python_Code_formatter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

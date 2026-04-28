@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-28T11:16:51.987772",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260428_111651_000",
+      "language": "python",
+      "problem": "binary search algorithm",
+      "code_length": 298,
+      "file": "20260428_111651_000_python_binary_search_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_111651_001",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260428_111651_001_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_111651_002",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20260428_111651_002_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_111651_003",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260428_111651_003_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

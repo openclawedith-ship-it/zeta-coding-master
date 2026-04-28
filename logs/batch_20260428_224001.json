@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-28T22:40:01.227923",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260428_224001_000",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260428_224001_000_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_224001_001",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260428_224001_001_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_224001_002",
+      "language": "x86_assembly",
+      "problem": "matrix chain multiplication",
+      "code_length": 333,
+      "file": "20260428_224001_002_x86_assembly_matrix_chain_multiplication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_224001_003",
+      "language": "x86_assembly",
+      "problem": "RSA key generation",
+      "code_length": 315,
+      "file": "20260428_224001_003_x86_assembly_RSA_key_generation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

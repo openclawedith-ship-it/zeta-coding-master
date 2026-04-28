@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-28T17:21:23.784525",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260428_172123_000",
+      "language": "python",
+      "problem": "2FA TOTP generator",
+      "code_length": 293,
+      "file": "20260428_172123_000_python_2FA_TOTP_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_172123_001",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260428_172123_001_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_172123_002",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260428_172123_002_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260428_172123_003",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260428_172123_003_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

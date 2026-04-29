@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-29T21:18:43.889524",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260429_211843_000",
+      "language": "c",
+      "problem": "Email validator",
+      "code_length": 237,
+      "file": "20260429_211843_000_c_Email_validator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_211843_001",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260429_211843_001_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_211843_002",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260429_211843_002_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_211843_003",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260429_211843_003_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

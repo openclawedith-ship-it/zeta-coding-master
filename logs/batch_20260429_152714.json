@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-29T15:27:14.049311",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260429_152714_000",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260429_152714_000_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_152714_001",
+      "language": "x86_assembly",
+      "problem": "2FA TOTP generator",
+      "code_length": 315,
+      "file": "20260429_152714_001_x86_assembly_2FA_TOTP_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_152714_002",
+      "language": "python",
+      "problem": "TCP port scanner",
+      "code_length": 291,
+      "file": "20260429_152714_002_python_TCP_port_scanner.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_152714_003",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260429_152714_003_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

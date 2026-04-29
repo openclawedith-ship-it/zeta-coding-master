@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-29T13:06:56.435333",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260429_130656_000",
+      "language": "python",
+      "problem": "LRU cache implementation",
+      "code_length": 299,
+      "file": "20260429_130656_000_python_LRU_cache_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_130656_001",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260429_130656_001_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_130656_002",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260429_130656_002_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260429_130656_003",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260429_130656_003_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

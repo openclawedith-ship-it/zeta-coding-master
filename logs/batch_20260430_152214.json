@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-30T15:22:14.910395",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260430_152214_000",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260430_152214_000_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260430_152214_001",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260430_152214_001_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260430_152214_002",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260430_152214_002_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260430_152214_003",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260430_152214_003_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

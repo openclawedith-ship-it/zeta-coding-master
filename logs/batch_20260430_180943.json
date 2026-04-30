@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-30T18:09:43.434658",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260430_180943_000",
+      "language": "go",
+      "problem": "queue using two stacks",
+      "code_length": 204,
+      "file": "20260430_180943_000_go_queue_using_two_stacks.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260430_180943_001",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260430_180943_001_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260430_180943_002",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260430_180943_002_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260430_180943_003",
+      "language": "python",
+      "problem": "graph adjacency list",
+      "code_length": 295,
+      "file": "20260430_180943_003_python_graph_adjacency_list.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

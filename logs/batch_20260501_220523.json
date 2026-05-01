@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-01T22:05:23.578412",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260501_220523_000",
+      "language": "x86_assembly",
+      "problem": "Image resizer",
+      "code_length": 305,
+      "file": "20260501_220523_000_x86_assembly_Image_resizer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260501_220523_001",
+      "language": "python",
+      "problem": "Config file reader",
+      "code_length": 293,
+      "file": "20260501_220523_001_python_Config_file_reader.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260501_220523_002",
+      "language": "x86_assembly",
+      "problem": "WebSocket chat",
+      "code_length": 307,
+      "file": "20260501_220523_002_x86_assembly_WebSocket_chat.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260501_220523_003",
+      "language": "python",
+      "problem": "merge sort algorithm",
+      "code_length": 295,
+      "file": "20260501_220523_003_python_merge_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

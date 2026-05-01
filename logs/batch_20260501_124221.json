@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-01T12:42:21.422169",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260501_124221_000",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260501_124221_000_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260501_124221_001",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260501_124221_001_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260501_124221_002",
+      "language": "c",
+      "problem": "Syntax highlighter",
+      "code_length": 240,
+      "file": "20260501_124221_002_c_Syntax_highlighter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260501_124221_003",
+      "language": "rust",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 220,
+      "file": "20260501_124221_003_rust_A*_pathfinding_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

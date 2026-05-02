@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-02T15:32:02.411425",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260502_153202_000",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260502_153202_000_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_153202_001",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260502_153202_001_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_153202_002",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260502_153202_002_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_153202_003",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260502_153202_003_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

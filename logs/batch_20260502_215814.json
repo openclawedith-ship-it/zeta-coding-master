@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-02T21:58:14.850466",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260502_215814_000",
+      "language": "go",
+      "problem": "hashmap with collision handling",
+      "code_length": 213,
+      "file": "20260502_215814_000_go_hashmap_with_collision_handlin.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_215814_001",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260502_215814_001_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_215814_002",
+      "language": "javascript",
+      "problem": "Diff algorithm",
+      "code_length": 234,
+      "file": "20260502_215814_002_javascript_Diff_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_215814_003",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260502_215814_003_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

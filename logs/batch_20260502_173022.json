@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-02T17:30:22.243484",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260502_173022_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260502_173022_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_173022_001",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260502_173022_001_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_173022_002",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260502_173022_002_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_173022_003",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260502_173022_003_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

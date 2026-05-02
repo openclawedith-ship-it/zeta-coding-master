@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-02T07:59:02.477318",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260502_075902_000",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260502_075902_000_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_075902_001",
+      "language": "go",
+      "problem": "HTTP server from scratch",
+      "code_length": 206,
+      "file": "20260502_075902_001_go_HTTP_server_from_scratch.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_075902_002",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260502_075902_002_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260502_075902_003",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260502_075902_003_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

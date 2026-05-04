@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-04T10:32:45.894386",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260504_103245_000",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260504_103245_000_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260504_103245_001",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260504_103245_001_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260504_103245_002",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260504_103245_002_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260504_103245_003",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260504_103245_003_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

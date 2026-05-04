@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-04T16:22:23.289936",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260504_162223_000",
+      "language": "x86_assembly",
+      "problem": "linked list with insert/delete",
+      "code_length": 339,
+      "file": "20260504_162223_000_x86_assembly_linked_list_with_insert_delete.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260504_162223_001",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260504_162223_001_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260504_162223_002",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260504_162223_002_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260504_162223_003",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260504_162223_003_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

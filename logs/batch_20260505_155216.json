@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-05T15:52:16.954221",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260505_155216_000",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20260505_155216_000_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_155216_001",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260505_155216_001_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_155216_002",
+      "language": "javascript",
+      "problem": "coin change problem",
+      "code_length": 239,
+      "file": "20260505_155216_002_javascript_coin_change_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_155216_003",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260505_155216_003_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

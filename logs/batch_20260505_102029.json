@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-05T10:20:29.263382",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260505_102029_000",
+      "language": "go",
+      "problem": "RSA key generation",
+      "code_length": 200,
+      "file": "20260505_102029_000_go_RSA_key_generation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_102029_001",
+      "language": "x86_assembly",
+      "problem": "bellman-ford algorithm",
+      "code_length": 323,
+      "file": "20260505_102029_001_x86_assembly_bellman-ford_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_102029_002",
+      "language": "python",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 304,
+      "file": "20260505_102029_002_python_kruskal_minimum_spanning_tree.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_102029_003",
+      "language": "x86_assembly",
+      "problem": "coin change problem",
+      "code_length": 317,
+      "file": "20260505_102029_003_x86_assembly_coin_change_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

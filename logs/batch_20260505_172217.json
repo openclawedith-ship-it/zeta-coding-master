@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-05T17:22:17.170406",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260505_172217_000",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260505_172217_000_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_172217_001",
+      "language": "go",
+      "problem": "hashmap with collision handling",
+      "code_length": 213,
+      "file": "20260505_172217_001_go_hashmap_with_collision_handlin.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_172217_002",
+      "language": "python",
+      "problem": "rate limiter implementation",
+      "code_length": 302,
+      "file": "20260505_172217_002_python_rate_limiter_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260505_172217_003",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260505_172217_003_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

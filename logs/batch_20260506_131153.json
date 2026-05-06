@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-06T13:11:53.991110",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260506_131153_000",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260506_131153_000_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_131153_001",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260506_131153_001_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_131153_002",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260506_131153_002_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_131153_003",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260506_131153_003_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

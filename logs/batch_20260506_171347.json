@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-06T17:13:47.854363",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260506_171347_000",
+      "language": "python",
+      "problem": "graph adjacency list",
+      "code_length": 295,
+      "file": "20260506_171347_000_python_graph_adjacency_list.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_171347_001",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260506_171347_001_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_171347_002",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260506_171347_002_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_171347_003",
+      "language": "javascript",
+      "problem": "heap sort algorithm",
+      "code_length": 239,
+      "file": "20260506_171347_003_javascript_heap_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

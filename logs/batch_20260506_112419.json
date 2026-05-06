@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-06T11:24:19.132835",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260506_112419_000",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260506_112419_000_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_112419_001",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260506_112419_001_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_112419_002",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260506_112419_002_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260506_112419_003",
+      "language": "x86_assembly",
+      "problem": "CRUD REST API",
+      "code_length": 305,
+      "file": "20260506_112419_003_x86_assembly_CRUD_REST_API.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

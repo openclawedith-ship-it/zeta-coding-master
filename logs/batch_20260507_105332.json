@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-07T10:53:32.076807",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260507_105332_000",
+      "language": "go",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 211,
+      "file": "20260507_105332_000_go_kruskal_minimum_spanning_tree.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260507_105332_001",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260507_105332_001_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260507_105332_002",
+      "language": "python",
+      "problem": "Diff algorithm",
+      "code_length": 289,
+      "file": "20260507_105332_002_python_Diff_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260507_105332_003",
+      "language": "go",
+      "problem": "gzip compression",
+      "code_length": 198,
+      "file": "20260507_105332_003_go_gzip_compression.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

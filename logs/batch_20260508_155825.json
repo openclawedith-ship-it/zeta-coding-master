@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-08T15:58:25.633222",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260508_155825_000",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260508_155825_000_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260508_155825_001",
+      "language": "go",
+      "problem": "two sum problem",
+      "code_length": 197,
+      "file": "20260508_155825_001_go_two_sum_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260508_155825_002",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260508_155825_002_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260508_155825_003",
+      "language": "go",
+      "problem": "2FA TOTP generator",
+      "code_length": 200,
+      "file": "20260508_155825_003_go_2FA_TOTP_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

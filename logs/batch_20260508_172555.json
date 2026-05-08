@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-08T17:25:55.070499",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260508_172555_000",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260508_172555_000_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260508_172555_001",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260508_172555_001_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260508_172555_002",
+      "language": "python",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 299,
+      "file": "20260508_172555_002_python_A*_pathfinding_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260508_172555_003",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260508_172555_003_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

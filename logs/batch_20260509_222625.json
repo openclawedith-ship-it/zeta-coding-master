@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-09T22:26:25.357908",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260509_222625_000",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260509_222625_000_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260509_222625_001",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260509_222625_001_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260509_222625_002",
+      "language": "c",
+      "problem": "quicksort implementation",
+      "code_length": 246,
+      "file": "20260509_222625_002_c_quicksort_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260509_222625_003",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20260509_222625_003_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

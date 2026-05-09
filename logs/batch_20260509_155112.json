@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-09T15:51:12.733221",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260509_155112_000",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260509_155112_000_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260509_155112_001",
+      "language": "go",
+      "problem": "quicksort implementation",
+      "code_length": 206,
+      "file": "20260509_155112_001_go_quicksort_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260509_155112_002",
+      "language": "c",
+      "problem": "knapsack problem",
+      "code_length": 238,
+      "file": "20260509_155112_002_c_knapsack_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260509_155112_003",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20260509_155112_003_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

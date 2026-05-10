@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-10T13:55:42.809275",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260510_135542_000",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260510_135542_000_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260510_135542_001",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260510_135542_001_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260510_135542_002",
+      "language": "javascript",
+      "problem": "knapsack problem",
+      "code_length": 236,
+      "file": "20260510_135542_002_javascript_knapsack_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260510_135542_003",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260510_135542_003_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

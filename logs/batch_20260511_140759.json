@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-11T14:07:59.161277",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260511_140759_000",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260511_140759_000_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260511_140759_001",
+      "language": "x86_assembly",
+      "problem": "CLI argument parser",
+      "code_length": 317,
+      "file": "20260511_140759_001_x86_assembly_CLI_argument_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260511_140759_002",
+      "language": "go",
+      "problem": "two sum problem",
+      "code_length": 197,
+      "file": "20260511_140759_002_go_two_sum_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260511_140759_003",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260511_140759_003_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

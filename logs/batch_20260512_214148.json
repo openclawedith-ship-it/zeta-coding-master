@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-12T21:41:48.280482",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260512_214148_000",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260512_214148_000_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_214148_001",
+      "language": "x86_assembly",
+      "problem": "Task scheduler",
+      "code_length": 307,
+      "file": "20260512_214148_001_x86_assembly_Task_scheduler.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_214148_002",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260512_214148_002_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_214148_003",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260512_214148_003_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

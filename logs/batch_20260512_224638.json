@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-12T22:46:38.604075",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260512_224638_000",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260512_224638_000_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_224638_001",
+      "language": "x86_assembly",
+      "problem": "dijkstra shortest path",
+      "code_length": 323,
+      "file": "20260512_224638_001_x86_assembly_dijkstra_shortest_path.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_224638_002",
+      "language": "c",
+      "problem": "two sum problem",
+      "code_length": 237,
+      "file": "20260512_224638_002_c_two_sum_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_224638_003",
+      "language": "python",
+      "problem": "TCP port scanner",
+      "code_length": 291,
+      "file": "20260512_224638_003_python_TCP_port_scanner.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

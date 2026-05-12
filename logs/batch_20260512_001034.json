@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-12T00:10:34.903098",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260512_001034_000",
+      "language": "python",
+      "problem": "two sum problem",
+      "code_length": 290,
+      "file": "20260512_001034_000_python_two_sum_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_001034_001",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260512_001034_001_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_001034_002",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260512_001034_002_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260512_001034_003",
+      "language": "python",
+      "problem": "longest common subsequence",
+      "code_length": 301,
+      "file": "20260512_001034_003_python_longest_common_subsequence.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

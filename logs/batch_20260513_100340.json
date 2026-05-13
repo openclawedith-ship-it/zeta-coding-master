@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-13T10:03:40.926524",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260513_100340_000",
+      "language": "python",
+      "problem": "knapsack problem",
+      "code_length": 291,
+      "file": "20260513_100340_000_python_knapsack_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260513_100340_001",
+      "language": "x86_assembly",
+      "problem": "longest common subsequence",
+      "code_length": 331,
+      "file": "20260513_100340_001_x86_assembly_longest_common_subsequence.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260513_100340_002",
+      "language": "x86_assembly",
+      "problem": "QR code generator",
+      "code_length": 313,
+      "file": "20260513_100340_002_x86_assembly_QR_code_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260513_100340_003",
+      "language": "go",
+      "problem": "Email validator",
+      "code_length": 197,
+      "file": "20260513_100340_003_go_Email_validator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

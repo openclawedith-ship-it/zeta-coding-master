@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-13T12:24:05.151032",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260513_122405_000",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260513_122405_000_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260513_122405_001",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20260513_122405_001_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260513_122405_002",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260513_122405_002_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260513_122405_003",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260513_122405_003_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-14T20:45:09.149058",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260514_204509_000",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260514_204509_000_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_204509_001",
+      "language": "c",
+      "problem": "Log analyzer",
+      "code_length": 234,
+      "file": "20260514_204509_001_c_Log_analyzer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_204509_002",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260514_204509_002_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_204509_003",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260514_204509_003_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

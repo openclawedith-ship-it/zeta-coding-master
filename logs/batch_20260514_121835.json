@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-14T12:18:35.220839",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260514_121835_000",
+      "language": "x86_assembly",
+      "problem": "JWT authentication",
+      "code_length": 315,
+      "file": "20260514_121835_000_x86_assembly_JWT_authentication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_121835_001",
+      "language": "c",
+      "problem": "binary search algorithm",
+      "code_length": 245,
+      "file": "20260514_121835_001_c_binary_search_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_121835_002",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260514_121835_002_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_121835_003",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260514_121835_003_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

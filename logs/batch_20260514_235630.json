@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-14T23:56:30.135867",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260514_235630_000",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260514_235630_000_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_235630_001",
+      "language": "x86_assembly",
+      "problem": "Config file reader",
+      "code_length": 315,
+      "file": "20260514_235630_001_x86_assembly_Config_file_reader.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_235630_002",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260514_235630_002_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260514_235630_003",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260514_235630_003_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

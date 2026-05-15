@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-15T06:47:41.551380",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260515_064741_000",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260515_064741_000_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260515_064741_001",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260515_064741_001_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260515_064741_002",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20260515_064741_002_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260515_064741_003",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260515_064741_003_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-15T03:40:13.573992",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260515_034013_000",
+      "language": "x86_assembly",
+      "problem": "matrix chain multiplication",
+      "code_length": 333,
+      "file": "20260515_034013_000_x86_assembly_matrix_chain_multiplication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260515_034013_001",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260515_034013_001_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260515_034013_002",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260515_034013_002_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260515_034013_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260515_034013_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

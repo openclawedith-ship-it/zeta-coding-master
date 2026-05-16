@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-16T15:05:21.591905",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260516_150521_000",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260516_150521_000_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_150521_001",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20260516_150521_001_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_150521_002",
+      "language": "python",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 304,
+      "file": "20260516_150521_002_python_dynamic_programming_fibonacci.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_150521_003",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260516_150521_003_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

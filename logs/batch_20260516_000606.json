@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-16T00:06:06.007598",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260516_000606_000",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260516_000606_000_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_000606_001",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20260516_000606_001_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_000606_002",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260516_000606_002_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_000606_003",
+      "language": "go",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 211,
+      "file": "20260516_000606_003_go_kruskal_minimum_spanning_tree.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

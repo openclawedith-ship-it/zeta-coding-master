@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-16T11:07:06.996166",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260516_110706_000",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260516_110706_000_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_110706_001",
+      "language": "javascript",
+      "problem": "queue using two stacks",
+      "code_length": 242,
+      "file": "20260516_110706_001_javascript_queue_using_two_stacks.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_110706_002",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260516_110706_002_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_110706_003",
+      "language": "javascript",
+      "problem": "QR code generator",
+      "code_length": 237,
+      "file": "20260516_110706_003_javascript_QR_code_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

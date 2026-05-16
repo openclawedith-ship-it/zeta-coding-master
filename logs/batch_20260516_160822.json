@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-16T16:08:22.062879",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260516_160822_000",
+      "language": "c",
+      "problem": "URL shortener backend",
+      "code_length": 243,
+      "file": "20260516_160822_000_c_URL_shortener_backend.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_160822_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260516_160822_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_160822_002",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260516_160822_002_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_160822_003",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260516_160822_003_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

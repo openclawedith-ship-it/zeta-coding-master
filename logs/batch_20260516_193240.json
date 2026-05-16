@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-16T19:32:40.260452",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260516_193240_000",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260516_193240_000_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_193240_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260516_193240_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_193240_002",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260516_193240_002_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260516_193240_003",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260516_193240_003_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-17T04:31:26.536897",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260517_043126_000",
+      "language": "go",
+      "problem": "hashmap with collision handling",
+      "code_length": 213,
+      "file": "20260517_043126_000_go_hashmap_with_collision_handlin.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_043126_001",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260517_043126_001_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_043126_002",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20260517_043126_002_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_043126_003",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260517_043126_003_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

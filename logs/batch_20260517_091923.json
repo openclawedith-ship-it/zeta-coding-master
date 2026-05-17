@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-17T09:19:23.268974",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260517_091923_000",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20260517_091923_000_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_091923_001",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260517_091923_001_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_091923_002",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260517_091923_002_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_091923_003",
+      "language": "x86_assembly",
+      "problem": "bellman-ford algorithm",
+      "code_length": 323,
+      "file": "20260517_091923_003_x86_assembly_bellman-ford_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

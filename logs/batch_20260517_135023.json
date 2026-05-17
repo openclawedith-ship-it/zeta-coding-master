@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-17T13:50:23.327514",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260517_135023_000",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260517_135023_000_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_135023_001",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260517_135023_001_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_135023_002",
+      "language": "javascript",
+      "problem": "Task scheduler",
+      "code_length": 234,
+      "file": "20260517_135023_002_javascript_Task_scheduler.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_135023_003",
+      "language": "c",
+      "problem": "queue using two stacks",
+      "code_length": 244,
+      "file": "20260517_135023_003_c_queue_using_two_stacks.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

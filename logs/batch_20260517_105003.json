@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-17T10:50:03.710204",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260517_105003_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260517_105003_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_105003_001",
+      "language": "go",
+      "problem": "Syntax highlighter",
+      "code_length": 200,
+      "file": "20260517_105003_001_go_Syntax_highlighter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_105003_002",
+      "language": "rust",
+      "problem": "Syntax highlighter",
+      "code_length": 214,
+      "file": "20260517_105003_002_rust_Syntax_highlighter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260517_105003_003",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260517_105003_003_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

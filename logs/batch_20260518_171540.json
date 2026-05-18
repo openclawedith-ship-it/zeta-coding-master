@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-18T17:15:40.984983",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260518_171540_000",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260518_171540_000_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260518_171540_001",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260518_171540_001_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260518_171540_002",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260518_171540_002_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260518_171540_003",
+      "language": "python",
+      "problem": "Cron expression parser",
+      "code_length": 297,
+      "file": "20260518_171540_003_python_Cron_expression_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

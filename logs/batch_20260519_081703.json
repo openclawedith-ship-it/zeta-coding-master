@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-19T08:17:03.630249",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260519_081703_000",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260519_081703_000_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_081703_001",
+      "language": "x86_assembly",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 337,
+      "file": "20260519_081703_001_x86_assembly_kruskal_minimum_spanning_tree.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_081703_002",
+      "language": "javascript",
+      "problem": "queue using two stacks",
+      "code_length": 242,
+      "file": "20260519_081703_002_javascript_queue_using_two_stacks.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_081703_003",
+      "language": "x86_assembly",
+      "problem": "2FA TOTP generator",
+      "code_length": 315,
+      "file": "20260519_081703_003_x86_assembly_2FA_TOTP_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

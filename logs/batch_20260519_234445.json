@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-19T23:44:45.121578",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260519_234445_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260519_234445_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_234445_001",
+      "language": "rust",
+      "problem": "binary search algorithm",
+      "code_length": 219,
+      "file": "20260519_234445_001_rust_binary_search_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_234445_002",
+      "language": "go",
+      "problem": "Task scheduler",
+      "code_length": 196,
+      "file": "20260519_234445_002_go_Task_scheduler.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_234445_003",
+      "language": "c",
+      "problem": "stack with min() in O(1)",
+      "code_length": 246,
+      "file": "20260519_234445_003_c_stack_with_min_in_O1.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

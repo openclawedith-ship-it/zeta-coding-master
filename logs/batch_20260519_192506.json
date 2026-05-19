@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-19T19:25:06.839949",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260519_192506_000",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260519_192506_000_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_192506_001",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260519_192506_001_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_192506_002",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260519_192506_002_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260519_192506_003",
+      "language": "c",
+      "problem": "knapsack problem",
+      "code_length": 238,
+      "file": "20260519_192506_003_c_knapsack_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-21T07:36:47.184035",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260521_073647_000",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260521_073647_000_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_073647_001",
+      "language": "python",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 299,
+      "file": "20260521_073647_001_python_A*_pathfinding_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_073647_002",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260521_073647_002_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_073647_003",
+      "language": "rust",
+      "problem": "Email validator",
+      "code_length": 211,
+      "file": "20260521_073647_003_rust_Email_validator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-21T14:14:24.780984",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260521_141424_000",
+      "language": "go",
+      "problem": "CRUD REST API",
+      "code_length": 195,
+      "file": "20260521_141424_000_go_CRUD_REST_API.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_141424_001",
+      "language": "c",
+      "problem": "Diff algorithm",
+      "code_length": 236,
+      "file": "20260521_141424_001_c_Diff_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_141424_002",
+      "language": "python",
+      "problem": "CRUD REST API",
+      "code_length": 288,
+      "file": "20260521_141424_002_python_CRUD_REST_API.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_141424_003",
+      "language": "x86_assembly",
+      "problem": "JWT authentication",
+      "code_length": 315,
+      "file": "20260521_141424_003_x86_assembly_JWT_authentication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

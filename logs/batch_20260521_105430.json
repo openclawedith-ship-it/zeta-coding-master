@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-21T10:54:30.012036",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260521_105430_000",
+      "language": "x86_assembly",
+      "problem": "coin change problem",
+      "code_length": 317,
+      "file": "20260521_105430_000_x86_assembly_coin_change_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_105430_001",
+      "language": "rust",
+      "problem": "Image resizer",
+      "code_length": 209,
+      "file": "20260521_105430_001_rust_Image_resizer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_105430_002",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260521_105430_002_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_105430_003",
+      "language": "rust",
+      "problem": "heap sort algorithm",
+      "code_length": 215,
+      "file": "20260521_105430_003_rust_heap_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-21T22:41:57.736826",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260521_224157_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260521_224157_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_224157_001",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260521_224157_001_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_224157_002",
+      "language": "python",
+      "problem": "regex engine basics",
+      "code_length": 294,
+      "file": "20260521_224157_002_python_regex_engine_basics.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260521_224157_003",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260521_224157_003_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

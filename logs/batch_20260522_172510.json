@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-22T17:25:10.230747",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260522_172510_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260522_172510_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260522_172510_001",
+      "language": "python",
+      "problem": "TCP port scanner",
+      "code_length": 291,
+      "file": "20260522_172510_001_python_TCP_port_scanner.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260522_172510_002",
+      "language": "javascript",
+      "problem": "URL shortener backend",
+      "code_length": 241,
+      "file": "20260522_172510_002_javascript_URL_shortener_backend.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260522_172510_003",
+      "language": "rust",
+      "problem": "QR code generator",
+      "code_length": 213,
+      "file": "20260522_172510_003_rust_QR_code_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

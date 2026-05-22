@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-22T15:29:55.931447",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260522_152955_000",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260522_152955_000_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260522_152955_001",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260522_152955_001_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260522_152955_002",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260522_152955_002_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260522_152955_003",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260522_152955_003_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

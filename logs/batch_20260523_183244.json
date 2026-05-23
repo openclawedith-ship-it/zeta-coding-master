@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-23T18:32:44.057787",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260523_183244_000",
+      "language": "javascript",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 249,
+      "file": "20260523_183244_000_javascript_dynamic_programming_fibonacci.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_183244_001",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260523_183244_001_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_183244_002",
+      "language": "javascript",
+      "problem": "bellman-ford algorithm",
+      "code_length": 242,
+      "file": "20260523_183244_002_javascript_bellman-ford_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_183244_003",
+      "language": "go",
+      "problem": "markdown to HTML converter",
+      "code_length": 208,
+      "file": "20260523_183244_003_go_markdown_to_HTML_converter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-23T01:22:12.539881",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260523_012212_000",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260523_012212_000_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_012212_001",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260523_012212_001_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_012212_002",
+      "language": "python",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 304,
+      "file": "20260523_012212_002_python_dynamic_programming_fibonacci.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_012212_003",
+      "language": "x86_assembly",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 337,
+      "file": "20260523_012212_003_x86_assembly_dynamic_programming_fibonacci.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

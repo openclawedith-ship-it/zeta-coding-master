@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-23T19:49:14.129439",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260523_194914_000",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260523_194914_000_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_194914_001",
+      "language": "c",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 251,
+      "file": "20260523_194914_001_c_dynamic_programming_fibonacci.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_194914_002",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260523_194914_002_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260523_194914_003",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260523_194914_003_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-24T11:59:34.664981",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260524_115934_000",
+      "language": "python",
+      "problem": "heap sort algorithm",
+      "code_length": 294,
+      "file": "20260524_115934_000_python_heap_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_115934_001",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20260524_115934_001_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_115934_002",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260524_115934_002_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_115934_003",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260524_115934_003_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

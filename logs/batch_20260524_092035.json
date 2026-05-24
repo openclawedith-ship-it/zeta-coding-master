@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-24T09:20:35.377194",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260524_092035_000",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260524_092035_000_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_092035_001",
+      "language": "x86_assembly",
+      "problem": "Cron expression parser",
+      "code_length": 323,
+      "file": "20260524_092035_001_x86_assembly_Cron_expression_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_092035_002",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260524_092035_002_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_092035_003",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260524_092035_003_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

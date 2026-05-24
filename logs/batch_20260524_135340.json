@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-24T13:53:40.351571",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260524_135340_000",
+      "language": "x86_assembly",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 337,
+      "file": "20260524_135340_000_x86_assembly_kruskal_minimum_spanning_tree.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_135340_001",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260524_135340_001_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_135340_002",
+      "language": "python",
+      "problem": "RSA key generation",
+      "code_length": 293,
+      "file": "20260524_135340_002_python_RSA_key_generation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260524_135340_003",
+      "language": "x86_assembly",
+      "problem": "stack with min() in O(1)",
+      "code_length": 327,
+      "file": "20260524_135340_003_x86_assembly_stack_with_min_in_O1.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

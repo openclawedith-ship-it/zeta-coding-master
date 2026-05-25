@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-25T22:59:15.248471",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260525_225915_000",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260525_225915_000_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_225915_001",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260525_225915_001_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_225915_002",
+      "language": "go",
+      "problem": "queue using two stacks",
+      "code_length": 204,
+      "file": "20260525_225915_002_go_queue_using_two_stacks.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_225915_003",
+      "language": "x86_assembly",
+      "problem": "Cron expression parser",
+      "code_length": 323,
+      "file": "20260525_225915_003_x86_assembly_Cron_expression_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-25T21:54:24.392271",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260525_215424_000",
+      "language": "python",
+      "problem": "WebSocket chat",
+      "code_length": 289,
+      "file": "20260525_215424_000_python_WebSocket_chat.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_215424_001",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260525_215424_001_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_215424_002",
+      "language": "c",
+      "problem": "Log analyzer",
+      "code_length": 234,
+      "file": "20260525_215424_002_c_Log_analyzer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_215424_003",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260525_215424_003_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

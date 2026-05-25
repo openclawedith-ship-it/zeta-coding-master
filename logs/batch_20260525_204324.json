@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-25T20:43:24.174473",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260525_204324_000",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260525_204324_000_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_204324_001",
+      "language": "javascript",
+      "problem": "edit distance algorithm",
+      "code_length": 243,
+      "file": "20260525_204324_001_javascript_edit_distance_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_204324_002",
+      "language": "x86_assembly",
+      "problem": "markdown to HTML converter",
+      "code_length": 331,
+      "file": "20260525_204324_002_x86_assembly_markdown_to_HTML_converter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260525_204324_003",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260525_204324_003_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

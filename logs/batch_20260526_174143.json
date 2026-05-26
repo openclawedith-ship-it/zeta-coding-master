@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-26T17:41:43.192112",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260526_174143_000",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260526_174143_000_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_174143_001",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260526_174143_001_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_174143_002",
+      "language": "rust",
+      "problem": "file encryption tool",
+      "code_length": 216,
+      "file": "20260526_174143_002_rust_file_encryption_tool.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_174143_003",
+      "language": "go",
+      "problem": "gzip compression",
+      "code_length": 198,
+      "file": "20260526_174143_003_go_gzip_compression.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-26T08:21:58.249098",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260526_082158_000",
+      "language": "x86_assembly",
+      "problem": "LRU cache implementation",
+      "code_length": 327,
+      "file": "20260526_082158_000_x86_assembly_LRU_cache_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_082158_001",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260526_082158_001_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_082158_002",
+      "language": "x86_assembly",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 337,
+      "file": "20260526_082158_002_x86_assembly_dynamic_programming_fibonacci.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_082158_003",
+      "language": "c",
+      "problem": "markdown to HTML converter",
+      "code_length": 248,
+      "file": "20260526_082158_003_c_markdown_to_HTML_converter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

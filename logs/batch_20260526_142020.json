@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-26T14:20:20.988402",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260526_142020_000",
+      "language": "go",
+      "problem": "URL shortener backend",
+      "code_length": 203,
+      "file": "20260526_142020_000_go_URL_shortener_backend.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_142020_001",
+      "language": "python",
+      "problem": "markdown to HTML converter",
+      "code_length": 301,
+      "file": "20260526_142020_001_python_markdown_to_HTML_converter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_142020_002",
+      "language": "javascript",
+      "problem": "matrix chain multiplication",
+      "code_length": 247,
+      "file": "20260526_142020_002_javascript_matrix_chain_multiplication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_142020_003",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260526_142020_003_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

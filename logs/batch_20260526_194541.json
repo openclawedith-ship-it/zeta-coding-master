@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-26T19:45:41.136476",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260526_194541_000",
+      "language": "javascript",
+      "problem": "URL shortener backend",
+      "code_length": 241,
+      "file": "20260526_194541_000_javascript_URL_shortener_backend.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_194541_001",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260526_194541_001_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_194541_002",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260526_194541_002_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260526_194541_003",
+      "language": "x86_assembly",
+      "problem": "Config file reader",
+      "code_length": 315,
+      "file": "20260526_194541_003_x86_assembly_Config_file_reader.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

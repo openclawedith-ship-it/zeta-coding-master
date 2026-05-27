@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-27T16:01:45.874339",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260527_160145_000",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260527_160145_000_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260527_160145_001",
+      "language": "javascript",
+      "problem": "graph adjacency list",
+      "code_length": 240,
+      "file": "20260527_160145_001_javascript_graph_adjacency_list.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260527_160145_002",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260527_160145_002_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260527_160145_003",
+      "language": "go",
+      "problem": "TCP port scanner",
+      "code_length": 198,
+      "file": "20260527_160145_003_go_TCP_port_scanner.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

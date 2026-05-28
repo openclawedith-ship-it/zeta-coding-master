@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-28T06:59:17.588159",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260528_065917_000",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260528_065917_000_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_065917_001",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260528_065917_001_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_065917_002",
+      "language": "javascript",
+      "problem": "DNS resolver",
+      "code_length": 232,
+      "file": "20260528_065917_002_javascript_DNS_resolver.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_065917_003",
+      "language": "rust",
+      "problem": "Template engine",
+      "code_length": 211,
+      "file": "20260528_065917_003_rust_Template_engine.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

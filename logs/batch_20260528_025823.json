@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-28T02:58:23.661079",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260528_025823_000",
+      "language": "rust",
+      "problem": "UUID generator",
+      "code_length": 210,
+      "file": "20260528_025823_000_rust_UUID_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_025823_001",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260528_025823_001_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_025823_002",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260528_025823_002_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_025823_003",
+      "language": "x86_assembly",
+      "problem": "coin change problem",
+      "code_length": 317,
+      "file": "20260528_025823_003_x86_assembly_coin_change_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

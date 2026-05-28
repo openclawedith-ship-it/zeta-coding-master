@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-28T22:16:26.388435",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260528_221626_000",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260528_221626_000_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_221626_001",
+      "language": "python",
+      "problem": "WebSocket chat",
+      "code_length": 289,
+      "file": "20260528_221626_001_python_WebSocket_chat.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_221626_002",
+      "language": "python",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 299,
+      "file": "20260528_221626_002_python_A*_pathfinding_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260528_221626_003",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260528_221626_003_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

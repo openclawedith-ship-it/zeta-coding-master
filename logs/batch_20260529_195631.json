@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-29T19:56:31.178550",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260529_195631_000",
+      "language": "python",
+      "problem": "JSON parser",
+      "code_length": 286,
+      "file": "20260529_195631_000_python_JSON_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260529_195631_001",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20260529_195631_001_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260529_195631_002",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260529_195631_002_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260529_195631_003",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260529_195631_003_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

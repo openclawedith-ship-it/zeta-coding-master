@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-29T10:53:37.635283",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260529_105337_000",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260529_105337_000_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260529_105337_001",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260529_105337_001_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260529_105337_002",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260529_105337_002_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260529_105337_003",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260529_105337_003_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

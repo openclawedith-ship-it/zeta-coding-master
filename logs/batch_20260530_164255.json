@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-30T16:42:55.732273",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260530_164255_000",
+      "language": "c",
+      "problem": "trie data structure",
+      "code_length": 241,
+      "file": "20260530_164255_000_c_trie_data_structure.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260530_164255_001",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260530_164255_001_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260530_164255_002",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260530_164255_002_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260530_164255_003",
+      "language": "javascript",
+      "problem": "URL shortener backend",
+      "code_length": 241,
+      "file": "20260530_164255_003_javascript_URL_shortener_backend.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

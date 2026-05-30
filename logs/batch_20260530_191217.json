@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-30T19:12:17.780698",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260530_191217_000",
+      "language": "x86_assembly",
+      "problem": "Config file reader",
+      "code_length": 315,
+      "file": "20260530_191217_000_x86_assembly_Config_file_reader.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260530_191217_001",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260530_191217_001_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260530_191217_002",
+      "language": "python",
+      "problem": "Config file reader",
+      "code_length": 293,
+      "file": "20260530_191217_002_python_Config_file_reader.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260530_191217_003",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20260530_191217_003_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

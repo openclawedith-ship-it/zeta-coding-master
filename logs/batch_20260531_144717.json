@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-31T14:47:17.520268",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260531_144717_000",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260531_144717_000_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_144717_001",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260531_144717_001_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_144717_002",
+      "language": "javascript",
+      "problem": "file encryption tool",
+      "code_length": 240,
+      "file": "20260531_144717_002_javascript_file_encryption_tool.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_144717_003",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260531_144717_003_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

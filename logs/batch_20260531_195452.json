@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-31T19:54:52.874721",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260531_195452_000",
+      "language": "python",
+      "problem": "regex engine basics",
+      "code_length": 294,
+      "file": "20260531_195452_000_python_regex_engine_basics.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_195452_001",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260531_195452_001_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_195452_002",
+      "language": "x86_assembly",
+      "problem": "markdown to HTML converter",
+      "code_length": 331,
+      "file": "20260531_195452_002_x86_assembly_markdown_to_HTML_converter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_195452_003",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260531_195452_003_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

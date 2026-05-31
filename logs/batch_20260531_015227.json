@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-31T01:52:27.958538",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260531_015227_000",
+      "language": "go",
+      "problem": "Task scheduler",
+      "code_length": 196,
+      "file": "20260531_015227_000_go_Task_scheduler.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_015227_001",
+      "language": "x86_assembly",
+      "problem": "coin change problem",
+      "code_length": 317,
+      "file": "20260531_015227_001_x86_assembly_coin_change_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_015227_002",
+      "language": "c",
+      "problem": "trie data structure",
+      "code_length": 241,
+      "file": "20260531_015227_002_c_trie_data_structure.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_015227_003",
+      "language": "x86_assembly",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 337,
+      "file": "20260531_015227_003_x86_assembly_kruskal_minimum_spanning_tree.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

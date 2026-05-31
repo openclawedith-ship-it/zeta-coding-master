@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-05-31T17:20:44.250004",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260531_172044_000",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260531_172044_000_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_172044_001",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260531_172044_001_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_172044_002",
+      "language": "javascript",
+      "problem": "Task scheduler",
+      "code_length": 234,
+      "file": "20260531_172044_002_javascript_Task_scheduler.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260531_172044_003",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260531_172044_003_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

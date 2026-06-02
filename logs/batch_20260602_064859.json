@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-02T06:48:59.972346",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260602_064859_000",
+      "language": "javascript",
+      "problem": "graph adjacency list",
+      "code_length": 240,
+      "file": "20260602_064859_000_javascript_graph_adjacency_list.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_064859_001",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20260602_064859_001_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_064859_002",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260602_064859_002_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_064859_003",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260602_064859_003_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

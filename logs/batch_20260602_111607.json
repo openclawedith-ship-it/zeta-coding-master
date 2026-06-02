@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-02T11:16:07.912509",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260602_111607_000",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260602_111607_000_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_111607_001",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260602_111607_001_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_111607_002",
+      "language": "python",
+      "problem": "dijkstra shortest path",
+      "code_length": 297,
+      "file": "20260602_111607_002_python_dijkstra_shortest_path.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_111607_003",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260602_111607_003_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

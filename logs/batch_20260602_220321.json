@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-02T22:03:21.618342",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260602_220321_000",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260602_220321_000_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_220321_001",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260602_220321_001_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_220321_002",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260602_220321_002_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_220321_003",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260602_220321_003_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

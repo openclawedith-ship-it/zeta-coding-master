@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-02T15:39:14.410019",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260602_153914_000",
+      "language": "python",
+      "problem": "two sum problem",
+      "code_length": 290,
+      "file": "20260602_153914_000_python_two_sum_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_153914_001",
+      "language": "python",
+      "problem": "bellman-ford algorithm",
+      "code_length": 297,
+      "file": "20260602_153914_001_python_bellman-ford_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_153914_002",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260602_153914_002_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260602_153914_003",
+      "language": "python",
+      "problem": "regex engine basics",
+      "code_length": 294,
+      "file": "20260602_153914_003_python_regex_engine_basics.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

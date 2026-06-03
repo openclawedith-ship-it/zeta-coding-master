@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-03T10:18:52.885444",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260603_101852_000",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260603_101852_000_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260603_101852_001",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20260603_101852_001_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260603_101852_002",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260603_101852_002_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260603_101852_003",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20260603_101852_003_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

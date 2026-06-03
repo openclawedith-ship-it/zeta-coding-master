@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-03T05:15:52.670683",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260603_051552_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260603_051552_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260603_051552_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260603_051552_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260603_051552_002",
+      "language": "go",
+      "problem": "longest common subsequence",
+      "code_length": 208,
+      "file": "20260603_051552_002_go_longest_common_subsequence.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260603_051552_003",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260603_051552_003_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-04T23:07:14.158311",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260604_230714_000",
+      "language": "rust",
+      "problem": "rate limiter implementation",
+      "code_length": 223,
+      "file": "20260604_230714_000_rust_rate_limiter_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260604_230714_001",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260604_230714_001_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260604_230714_002",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260604_230714_002_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260604_230714_003",
+      "language": "go",
+      "problem": "Email validator",
+      "code_length": 197,
+      "file": "20260604_230714_003_go_Email_validator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-06T22:35:33.656660",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260606_223533_000",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260606_223533_000_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_223533_001",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260606_223533_001_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_223533_002",
+      "language": "c",
+      "problem": "TCP port scanner",
+      "code_length": 238,
+      "file": "20260606_223533_002_c_TCP_port_scanner.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_223533_003",
+      "language": "javascript",
+      "problem": "trie data structure",
+      "code_length": 239,
+      "file": "20260606_223533_003_javascript_trie_data_structure.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

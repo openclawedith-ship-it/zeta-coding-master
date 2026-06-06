@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-06T18:54:11.522694",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260606_185411_000",
+      "language": "c",
+      "problem": "binary search algorithm",
+      "code_length": 245,
+      "file": "20260606_185411_000_c_binary_search_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_185411_001",
+      "language": "go",
+      "problem": "queue using two stacks",
+      "code_length": 204,
+      "file": "20260606_185411_001_go_queue_using_two_stacks.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_185411_002",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260606_185411_002_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_185411_003",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260606_185411_003_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

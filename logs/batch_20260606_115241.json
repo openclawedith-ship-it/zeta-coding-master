@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-06T11:52:41.861502",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260606_115241_000",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260606_115241_000_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_115241_001",
+      "language": "python",
+      "problem": "Diff algorithm",
+      "code_length": 289,
+      "file": "20260606_115241_001_python_Diff_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_115241_002",
+      "language": "python",
+      "problem": "URL shortener backend",
+      "code_length": 296,
+      "file": "20260606_115241_002_python_URL_shortener_backend.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_115241_003",
+      "language": "rust",
+      "problem": "QR code generator",
+      "code_length": 213,
+      "file": "20260606_115241_003_rust_QR_code_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

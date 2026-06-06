@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-06T13:39:16.320253",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260606_133916_000",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260606_133916_000_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_133916_001",
+      "language": "c",
+      "problem": "Log analyzer",
+      "code_length": 234,
+      "file": "20260606_133916_001_c_Log_analyzer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_133916_002",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260606_133916_002_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260606_133916_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260606_133916_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

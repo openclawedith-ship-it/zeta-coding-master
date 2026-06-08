@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-08T21:07:02.103017",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260608_210702_000",
+      "language": "go",
+      "problem": "knapsack problem",
+      "code_length": 198,
+      "file": "20260608_210702_000_go_knapsack_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260608_210702_001",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260608_210702_001_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260608_210702_002",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260608_210702_002_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260608_210702_003",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260608_210702_003_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

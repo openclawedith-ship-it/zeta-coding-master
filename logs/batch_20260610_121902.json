@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-10T12:19:02.507959",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260610_121902_000",
+      "language": "c",
+      "problem": "Task scheduler",
+      "code_length": 236,
+      "file": "20260610_121902_000_c_Task_scheduler.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260610_121902_001",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260610_121902_001_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260610_121902_002",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260610_121902_002_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260610_121902_003",
+      "language": "javascript",
+      "problem": "CRUD REST API",
+      "code_length": 233,
+      "file": "20260610_121902_003_javascript_CRUD_REST_API.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-11T22:28:00.173741",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260611_222800_000",
+      "language": "javascript",
+      "problem": "URL shortener backend",
+      "code_length": 241,
+      "file": "20260611_222800_000_javascript_URL_shortener_backend.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260611_222800_001",
+      "language": "go",
+      "problem": "Cron expression parser",
+      "code_length": 204,
+      "file": "20260611_222800_001_go_Cron_expression_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260611_222800_002",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260611_222800_002_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260611_222800_003",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260611_222800_003_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-12T15:54:34.515266",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260612_155434_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260612_155434_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_155434_001",
+      "language": "c",
+      "problem": "Password strength checker",
+      "code_length": 247,
+      "file": "20260612_155434_001_c_Password_strength_checker.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_155434_002",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260612_155434_002_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_155434_003",
+      "language": "javascript",
+      "problem": "RSA key generation",
+      "code_length": 238,
+      "file": "20260612_155434_003_javascript_RSA_key_generation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

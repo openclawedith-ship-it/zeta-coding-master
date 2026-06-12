@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-12T12:30:51.395676",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260612_123051_000",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260612_123051_000_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_123051_001",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260612_123051_001_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_123051_002",
+      "language": "python",
+      "problem": "QR code generator",
+      "code_length": 292,
+      "file": "20260612_123051_002_python_QR_code_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_123051_003",
+      "language": "x86_assembly",
+      "problem": "Config file reader",
+      "code_length": 315,
+      "file": "20260612_123051_003_x86_assembly_Config_file_reader.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

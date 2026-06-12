@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-12T18:05:28.009401",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260612_180528_000",
+      "language": "x86_assembly",
+      "problem": "longest common subsequence",
+      "code_length": 331,
+      "file": "20260612_180528_000_x86_assembly_longest_common_subsequence.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_180528_001",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260612_180528_001_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_180528_002",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20260612_180528_002_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_180528_003",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260612_180528_003_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

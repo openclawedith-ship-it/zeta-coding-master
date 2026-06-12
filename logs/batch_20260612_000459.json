@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-12T00:04:59.521374",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260612_000459_000",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260612_000459_000_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_000459_001",
+      "language": "python",
+      "problem": "dijkstra shortest path",
+      "code_length": 297,
+      "file": "20260612_000459_001_python_dijkstra_shortest_path.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_000459_002",
+      "language": "javascript",
+      "problem": "queue using two stacks",
+      "code_length": 242,
+      "file": "20260612_000459_002_javascript_queue_using_two_stacks.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260612_000459_003",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260612_000459_003_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

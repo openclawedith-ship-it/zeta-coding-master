@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-13T15:56:48.546636",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260613_155648_000",
+      "language": "go",
+      "problem": "HTTP server from scratch",
+      "code_length": 206,
+      "file": "20260613_155648_000_go_HTTP_server_from_scratch.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260613_155648_001",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260613_155648_001_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260613_155648_002",
+      "language": "javascript",
+      "problem": "producer-consumer pattern",
+      "code_length": 245,
+      "file": "20260613_155648_002_javascript_producer-consumer_pattern.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260613_155648_003",
+      "language": "go",
+      "problem": "Cron expression parser",
+      "code_length": 204,
+      "file": "20260613_155648_003_go_Cron_expression_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

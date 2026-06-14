@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-14T19:57:24.046693",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260614_195724_000",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260614_195724_000_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_195724_001",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260614_195724_001_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_195724_002",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260614_195724_002_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_195724_003",
+      "language": "rust",
+      "problem": "URL shortener backend",
+      "code_length": 217,
+      "file": "20260614_195724_003_rust_URL_shortener_backend.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

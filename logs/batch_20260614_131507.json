@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-14T13:15:07.691441",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260614_131507_000",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260614_131507_000_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_131507_001",
+      "language": "python",
+      "problem": "regex engine basics",
+      "code_length": 294,
+      "file": "20260614_131507_001_python_regex_engine_basics.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_131507_002",
+      "language": "python",
+      "problem": "Diff algorithm",
+      "code_length": 289,
+      "file": "20260614_131507_002_python_Diff_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_131507_003",
+      "language": "go",
+      "problem": "hashmap with collision handling",
+      "code_length": 213,
+      "file": "20260614_131507_003_go_hashmap_with_collision_handlin.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

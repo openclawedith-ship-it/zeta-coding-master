@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-14T00:04:51.583041",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260614_000451_000",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260614_000451_000_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_000451_001",
+      "language": "rust",
+      "problem": "gzip compression",
+      "code_length": 212,
+      "file": "20260614_000451_001_rust_gzip_compression.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_000451_002",
+      "language": "go",
+      "problem": "merge sort algorithm",
+      "code_length": 202,
+      "file": "20260614_000451_002_go_merge_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_000451_003",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260614_000451_003_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

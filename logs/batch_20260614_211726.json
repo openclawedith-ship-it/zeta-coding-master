@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-14T21:17:26.160668",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260614_211726_000",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260614_211726_000_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_211726_001",
+      "language": "x86_assembly",
+      "problem": "Image resizer",
+      "code_length": 305,
+      "file": "20260614_211726_001_x86_assembly_Image_resizer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_211726_002",
+      "language": "javascript",
+      "problem": "JWT authentication",
+      "code_length": 238,
+      "file": "20260614_211726_002_javascript_JWT_authentication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260614_211726_003",
+      "language": "x86_assembly",
+      "problem": "matrix chain multiplication",
+      "code_length": 333,
+      "file": "20260614_211726_003_x86_assembly_matrix_chain_multiplication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

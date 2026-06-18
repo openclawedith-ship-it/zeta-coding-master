@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-18T12:41:37.541400",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260618_124137_000",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260618_124137_000_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260618_124137_001",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260618_124137_001_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260618_124137_002",
+      "language": "x86_assembly",
+      "problem": "linked list with insert/delete",
+      "code_length": 339,
+      "file": "20260618_124137_002_x86_assembly_linked_list_with_insert_delete.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260618_124137_003",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260618_124137_003_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

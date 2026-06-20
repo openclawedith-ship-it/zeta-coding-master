@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-20T06:02:39.351321",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260620_060239_000",
+      "language": "go",
+      "problem": "edit distance algorithm",
+      "code_length": 205,
+      "file": "20260620_060239_000_go_edit_distance_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_060239_001",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260620_060239_001_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_060239_002",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260620_060239_002_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_060239_003",
+      "language": "rust",
+      "problem": "edit distance algorithm",
+      "code_length": 219,
+      "file": "20260620_060239_003_rust_edit_distance_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

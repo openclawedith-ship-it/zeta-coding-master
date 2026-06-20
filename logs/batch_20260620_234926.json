@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-20T23:49:26.812425",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260620_234926_000",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260620_234926_000_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_234926_001",
+      "language": "go",
+      "problem": "markdown to HTML converter",
+      "code_length": 208,
+      "file": "20260620_234926_001_go_markdown_to_HTML_converter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_234926_002",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260620_234926_002_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_234926_003",
+      "language": "python",
+      "problem": "Code formatter",
+      "code_length": 289,
+      "file": "20260620_234926_003_python_Code_formatter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

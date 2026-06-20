@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-20T18:09:11.917984",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260620_180911_000",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260620_180911_000_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_180911_001",
+      "language": "c",
+      "problem": "HTTP server from scratch",
+      "code_length": 246,
+      "file": "20260620_180911_001_c_HTTP_server_from_scratch.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_180911_002",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20260620_180911_002_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_180911_003",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260620_180911_003_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

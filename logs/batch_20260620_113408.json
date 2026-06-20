@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-20T11:34:08.061822",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260620_113408_000",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260620_113408_000_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_113408_001",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260620_113408_001_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_113408_002",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260620_113408_002_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_113408_003",
+      "language": "javascript",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 244,
+      "file": "20260620_113408_003_javascript_A*_pathfinding_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

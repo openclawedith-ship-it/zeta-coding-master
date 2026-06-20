@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-20T22:40:42.597099",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260620_224042_000",
+      "language": "python",
+      "problem": "knapsack problem",
+      "code_length": 291,
+      "file": "20260620_224042_000_python_knapsack_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_224042_001",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260620_224042_001_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_224042_002",
+      "language": "python",
+      "problem": "UUID generator",
+      "code_length": 289,
+      "file": "20260620_224042_002_python_UUID_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260620_224042_003",
+      "language": "go",
+      "problem": "HTTP server from scratch",
+      "code_length": 206,
+      "file": "20260620_224042_003_go_HTTP_server_from_scratch.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

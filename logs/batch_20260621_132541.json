@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-21T13:25:41.071268",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260621_132541_000",
+      "language": "go",
+      "problem": "TCP port scanner",
+      "code_length": 198,
+      "file": "20260621_132541_000_go_TCP_port_scanner.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260621_132541_001",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260621_132541_001_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260621_132541_002",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260621_132541_002_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260621_132541_003",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260621_132541_003_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

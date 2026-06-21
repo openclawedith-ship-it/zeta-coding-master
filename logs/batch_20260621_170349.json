@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-21T17:03:49.655082",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260621_170349_000",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260621_170349_000_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260621_170349_001",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260621_170349_001_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260621_170349_002",
+      "language": "rust",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 220,
+      "file": "20260621_170349_002_rust_A*_pathfinding_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260621_170349_003",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260621_170349_003_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

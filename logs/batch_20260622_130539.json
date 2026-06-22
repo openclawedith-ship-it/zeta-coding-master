@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-22T13:05:39.240791",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260622_130539_000",
+      "language": "x86_assembly",
+      "problem": "dijkstra shortest path",
+      "code_length": 323,
+      "file": "20260622_130539_000_x86_assembly_dijkstra_shortest_path.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260622_130539_001",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260622_130539_001_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260622_130539_002",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260622_130539_002_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260622_130539_003",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260622_130539_003_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

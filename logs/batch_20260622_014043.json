@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-22T01:40:43.687933",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260622_014043_000",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260622_014043_000_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260622_014043_001",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260622_014043_001_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260622_014043_002",
+      "language": "rust",
+      "problem": "Task scheduler",
+      "code_length": 210,
+      "file": "20260622_014043_002_rust_Task_scheduler.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260622_014043_003",
+      "language": "rust",
+      "problem": "UUID generator",
+      "code_length": 210,
+      "file": "20260622_014043_003_rust_UUID_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

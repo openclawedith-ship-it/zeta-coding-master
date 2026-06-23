@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-23T23:20:48.839072",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260623_232048_000",
+      "language": "javascript",
+      "problem": "coin change problem",
+      "code_length": 239,
+      "file": "20260623_232048_000_javascript_coin_change_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260623_232048_001",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260623_232048_001_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260623_232048_002",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260623_232048_002_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260623_232048_003",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20260623_232048_003_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

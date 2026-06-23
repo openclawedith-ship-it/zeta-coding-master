@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-23T10:43:16.669716",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260623_104316_000",
+      "language": "python",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 304,
+      "file": "20260623_104316_000_python_dynamic_programming_fibonacci.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260623_104316_001",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260623_104316_001_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260623_104316_002",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260623_104316_002_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260623_104316_003",
+      "language": "x86_assembly",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 337,
+      "file": "20260623_104316_003_x86_assembly_kruskal_minimum_spanning_tree.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

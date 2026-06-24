@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-24T11:31:15.448654",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260624_113115_000",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260624_113115_000_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260624_113115_001",
+      "language": "python",
+      "problem": "CRUD REST API",
+      "code_length": 288,
+      "file": "20260624_113115_001_python_CRUD_REST_API.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260624_113115_002",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260624_113115_002_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260624_113115_003",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260624_113115_003_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-24T20:16:57.988322",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260624_201657_000",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260624_201657_000_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260624_201657_001",
+      "language": "c",
+      "problem": "two sum problem",
+      "code_length": 237,
+      "file": "20260624_201657_001_c_two_sum_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260624_201657_002",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260624_201657_002_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260624_201657_003",
+      "language": "c",
+      "problem": "DNS resolver",
+      "code_length": 234,
+      "file": "20260624_201657_003_c_DNS_resolver.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

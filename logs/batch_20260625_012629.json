@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-25T01:26:29.090755",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260625_012629_000",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260625_012629_000_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_012629_001",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20260625_012629_001_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_012629_002",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20260625_012629_002_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_012629_003",
+      "language": "x86_assembly",
+      "problem": "WebSocket chat",
+      "code_length": 307,
+      "file": "20260625_012629_003_x86_assembly_WebSocket_chat.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-25T20:30:31.248818",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260625_203031_000",
+      "language": "c",
+      "problem": "Password strength checker",
+      "code_length": 247,
+      "file": "20260625_203031_000_c_Password_strength_checker.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_203031_001",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260625_203031_001_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_203031_002",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20260625_203031_002_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_203031_003",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260625_203031_003_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

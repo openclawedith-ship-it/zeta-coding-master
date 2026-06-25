@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-25T05:41:54.992497",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260625_054154_000",
+      "language": "go",
+      "problem": "two sum problem",
+      "code_length": 197,
+      "file": "20260625_054154_000_go_two_sum_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_054154_001",
+      "language": "python",
+      "problem": "Code formatter",
+      "code_length": 289,
+      "file": "20260625_054154_001_python_Code_formatter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_054154_002",
+      "language": "x86_assembly",
+      "problem": "Template engine",
+      "code_length": 309,
+      "file": "20260625_054154_002_x86_assembly_Template_engine.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260625_054154_003",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260625_054154_003_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

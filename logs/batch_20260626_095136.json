@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-26T09:51:36.635740",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260626_095136_000",
+      "language": "go",
+      "problem": "Task scheduler",
+      "code_length": 196,
+      "file": "20260626_095136_000_go_Task_scheduler.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_095136_001",
+      "language": "javascript",
+      "problem": "producer-consumer pattern",
+      "code_length": 245,
+      "file": "20260626_095136_001_javascript_producer-consumer_pattern.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_095136_002",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260626_095136_002_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_095136_003",
+      "language": "python",
+      "problem": "2FA TOTP generator",
+      "code_length": 293,
+      "file": "20260626_095136_003_python_2FA_TOTP_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

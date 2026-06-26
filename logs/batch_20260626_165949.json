@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-26T16:59:49.160197",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260626_165949_000",
+      "language": "x86_assembly",
+      "problem": "markdown to HTML converter",
+      "code_length": 331,
+      "file": "20260626_165949_000_x86_assembly_markdown_to_HTML_converter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_165949_001",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260626_165949_001_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_165949_002",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260626_165949_002_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_165949_003",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260626_165949_003_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

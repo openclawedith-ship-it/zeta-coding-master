@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-26T22:11:49.267929",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260626_221149_000",
+      "language": "c",
+      "problem": "longest common subsequence",
+      "code_length": 248,
+      "file": "20260626_221149_000_c_longest_common_subsequence.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_221149_001",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260626_221149_001_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_221149_002",
+      "language": "c",
+      "problem": "linked list with insert/delete",
+      "code_length": 252,
+      "file": "20260626_221149_002_c_linked_list_with_insert_delete.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260626_221149_003",
+      "language": "x86_assembly",
+      "problem": "rate limiter implementation",
+      "code_length": 333,
+      "file": "20260626_221149_003_x86_assembly_rate_limiter_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

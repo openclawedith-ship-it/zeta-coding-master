@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-27T12:01:51.923665",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260627_120151_000",
+      "language": "javascript",
+      "problem": "QR code generator",
+      "code_length": 237,
+      "file": "20260627_120151_000_javascript_QR_code_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_120151_001",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260627_120151_001_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_120151_002",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260627_120151_002_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_120151_003",
+      "language": "x86_assembly",
+      "problem": "TCP port scanner",
+      "code_length": 311,
+      "file": "20260627_120151_003_x86_assembly_TCP_port_scanner.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

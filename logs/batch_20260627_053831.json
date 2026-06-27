@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-27T05:38:31.345218",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260627_053831_000",
+      "language": "go",
+      "problem": "merge sort algorithm",
+      "code_length": 202,
+      "file": "20260627_053831_000_go_merge_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_053831_001",
+      "language": "x86_assembly",
+      "problem": "coin change problem",
+      "code_length": 317,
+      "file": "20260627_053831_001_x86_assembly_coin_change_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_053831_002",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260627_053831_002_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_053831_003",
+      "language": "rust",
+      "problem": "markdown to HTML converter",
+      "code_length": 222,
+      "file": "20260627_053831_003_rust_markdown_to_HTML_converter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

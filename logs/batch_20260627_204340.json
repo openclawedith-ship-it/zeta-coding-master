@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-27T20:43:40.158572",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260627_204340_000",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260627_204340_000_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_204340_001",
+      "language": "go",
+      "problem": "longest common subsequence",
+      "code_length": 208,
+      "file": "20260627_204340_001_go_longest_common_subsequence.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_204340_002",
+      "language": "c",
+      "problem": "URL shortener backend",
+      "code_length": 243,
+      "file": "20260627_204340_002_c_URL_shortener_backend.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_204340_003",
+      "language": "javascript",
+      "problem": "SHA-256 implementation",
+      "code_length": 242,
+      "file": "20260627_204340_003_javascript_SHA-256_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-27T19:43:20.800578",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260627_194320_000",
+      "language": "javascript",
+      "problem": "quicksort implementation",
+      "code_length": 244,
+      "file": "20260627_194320_000_javascript_quicksort_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_194320_001",
+      "language": "x86_assembly",
+      "problem": "RSA key generation",
+      "code_length": 315,
+      "file": "20260627_194320_001_x86_assembly_RSA_key_generation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_194320_002",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260627_194320_002_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_194320_003",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260627_194320_003_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-27T16:45:59.183375",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260627_164559_000",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20260627_164559_000_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_164559_001",
+      "language": "go",
+      "problem": "file encryption tool",
+      "code_length": 202,
+      "file": "20260627_164559_001_go_file_encryption_tool.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_164559_002",
+      "language": "javascript",
+      "problem": "Redis clone",
+      "code_length": 231,
+      "file": "20260627_164559_002_javascript_Redis_clone.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_164559_003",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260627_164559_003_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

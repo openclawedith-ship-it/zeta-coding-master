@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-27T08:16:58.991518",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260627_081658_000",
+      "language": "javascript",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 249,
+      "file": "20260627_081658_000_javascript_kruskal_minimum_spanning_tree.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_081658_001",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260627_081658_001_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_081658_002",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260627_081658_002_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260627_081658_003",
+      "language": "rust",
+      "problem": "heap sort algorithm",
+      "code_length": 215,
+      "file": "20260627_081658_003_rust_heap_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

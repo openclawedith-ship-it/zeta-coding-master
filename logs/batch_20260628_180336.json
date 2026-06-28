@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-28T18:03:36.622028",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260628_180336_000",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260628_180336_000_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_180336_001",
+      "language": "go",
+      "problem": "heap sort algorithm",
+      "code_length": 201,
+      "file": "20260628_180336_001_go_heap_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_180336_002",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260628_180336_002_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_180336_003",
+      "language": "python",
+      "problem": "Email validator",
+      "code_length": 290,
+      "file": "20260628_180336_003_python_Email_validator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

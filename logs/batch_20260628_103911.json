@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-28T10:39:11.083500",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260628_103911_000",
+      "language": "go",
+      "problem": "base64 encoder/decoder",
+      "code_length": 204,
+      "file": "20260628_103911_000_go_base64_encoder_decoder.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_103911_001",
+      "language": "rust",
+      "problem": "binary search algorithm",
+      "code_length": 219,
+      "file": "20260628_103911_001_rust_binary_search_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_103911_002",
+      "language": "rust",
+      "problem": "Syntax highlighter",
+      "code_length": 214,
+      "file": "20260628_103911_002_rust_Syntax_highlighter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_103911_003",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260628_103911_003_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

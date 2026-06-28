@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-28T23:17:28.223559",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260628_231728_000",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260628_231728_000_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_231728_001",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260628_231728_001_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_231728_002",
+      "language": "python",
+      "problem": "Email validator",
+      "code_length": 290,
+      "file": "20260628_231728_002_python_Email_validator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260628_231728_003",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20260628_231728_003_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

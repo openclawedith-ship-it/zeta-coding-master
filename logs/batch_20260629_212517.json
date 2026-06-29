@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-29T21:25:17.533110",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260629_212517_000",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260629_212517_000_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_212517_001",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260629_212517_001_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_212517_002",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260629_212517_002_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_212517_003",
+      "language": "c",
+      "problem": "trie data structure",
+      "code_length": 241,
+      "file": "20260629_212517_003_c_trie_data_structure.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

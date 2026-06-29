@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-29T01:35:33.264287",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260629_013533_000",
+      "language": "x86_assembly",
+      "problem": "regex engine basics",
+      "code_length": 317,
+      "file": "20260629_013533_000_x86_assembly_regex_engine_basics.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_013533_001",
+      "language": "x86_assembly",
+      "problem": "Password strength checker",
+      "code_length": 329,
+      "file": "20260629_013533_001_x86_assembly_Password_strength_checker.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_013533_002",
+      "language": "python",
+      "problem": "TCP port scanner",
+      "code_length": 291,
+      "file": "20260629_013533_002_python_TCP_port_scanner.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_013533_003",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260629_013533_003_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

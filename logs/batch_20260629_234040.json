@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-29T23:40:40.791522",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260629_234040_000",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20260629_234040_000_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_234040_001",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260629_234040_001_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_234040_002",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260629_234040_002_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_234040_003",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260629_234040_003_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

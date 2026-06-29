@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-29T22:35:57.501228",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260629_223557_000",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260629_223557_000_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_223557_001",
+      "language": "rust",
+      "problem": "chat server (websocket)",
+      "code_length": 219,
+      "file": "20260629_223557_001_rust_chat_server_websocket.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_223557_002",
+      "language": "python",
+      "problem": "merge sort algorithm",
+      "code_length": 295,
+      "file": "20260629_223557_002_python_merge_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_223557_003",
+      "language": "python",
+      "problem": "Log analyzer",
+      "code_length": 287,
+      "file": "20260629_223557_003_python_Log_analyzer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

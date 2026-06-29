@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-29T11:30:55.881716",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260629_113055_000",
+      "language": "go",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 206,
+      "file": "20260629_113055_000_go_A*_pathfinding_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_113055_001",
+      "language": "javascript",
+      "problem": "Template engine",
+      "code_length": 235,
+      "file": "20260629_113055_001_javascript_Template_engine.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_113055_002",
+      "language": "c",
+      "problem": "URL shortener backend",
+      "code_length": 243,
+      "file": "20260629_113055_002_c_URL_shortener_backend.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260629_113055_003",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260629_113055_003_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

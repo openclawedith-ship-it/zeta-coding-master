@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-30T23:50:00.502366",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260630_235000_000",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260630_235000_000_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_235000_001",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260630_235000_001_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_235000_002",
+      "language": "rust",
+      "problem": "edit distance algorithm",
+      "code_length": 219,
+      "file": "20260630_235000_002_rust_edit_distance_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_235000_003",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20260630_235000_003_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

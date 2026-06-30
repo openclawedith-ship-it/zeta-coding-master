@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-30T17:15:13.929263",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260630_171513_000",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260630_171513_000_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_171513_001",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260630_171513_001_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_171513_002",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260630_171513_002_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_171513_003",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260630_171513_003_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-30T12:18:44.300270",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260630_121844_000",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260630_121844_000_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_121844_001",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260630_121844_001_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_121844_002",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260630_121844_002_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_121844_003",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260630_121844_003_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-30T19:17:27.710119",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260630_191727_000",
+      "language": "c",
+      "problem": "two sum problem",
+      "code_length": 237,
+      "file": "20260630_191727_000_c_two_sum_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_191727_001",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20260630_191727_001_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_191727_002",
+      "language": "javascript",
+      "problem": "hashmap with collision handling",
+      "code_length": 251,
+      "file": "20260630_191727_002_javascript_hashmap_with_collision_handlin.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_191727_003",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260630_191727_003_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

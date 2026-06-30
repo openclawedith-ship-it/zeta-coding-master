@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-06-30T09:59:55.092028",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260630_095955_000",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260630_095955_000_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_095955_001",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260630_095955_001_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_095955_002",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260630_095955_002_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260630_095955_003",
+      "language": "python",
+      "problem": "binary search algorithm",
+      "code_length": 298,
+      "file": "20260630_095955_003_python_binary_search_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

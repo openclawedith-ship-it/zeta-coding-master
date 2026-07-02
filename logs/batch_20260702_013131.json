@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-02T01:31:31.908443",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260702_013131_000",
+      "language": "c",
+      "problem": "longest common subsequence",
+      "code_length": 248,
+      "file": "20260702_013131_000_c_longest_common_subsequence.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_013131_001",
+      "language": "rust",
+      "problem": "URL shortener backend",
+      "code_length": 217,
+      "file": "20260702_013131_001_rust_URL_shortener_backend.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_013131_002",
+      "language": "c",
+      "problem": "RSA key generation",
+      "code_length": 240,
+      "file": "20260702_013131_002_c_RSA_key_generation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_013131_003",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260702_013131_003_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

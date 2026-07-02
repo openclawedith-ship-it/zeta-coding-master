@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-02T22:47:44.010516",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260702_224744_000",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260702_224744_000_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_224744_001",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260702_224744_001_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_224744_002",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260702_224744_002_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_224744_003",
+      "language": "javascript",
+      "problem": "Config file reader",
+      "code_length": 238,
+      "file": "20260702_224744_003_javascript_Config_file_reader.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

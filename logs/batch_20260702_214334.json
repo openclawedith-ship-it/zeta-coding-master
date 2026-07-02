@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-02T21:43:34.971667",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260702_214334_000",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260702_214334_000_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_214334_001",
+      "language": "x86_assembly",
+      "problem": "base64 encoder/decoder",
+      "code_length": 323,
+      "file": "20260702_214334_001_x86_assembly_base64_encoder_decoder.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_214334_002",
+      "language": "go",
+      "problem": "knapsack problem",
+      "code_length": 198,
+      "file": "20260702_214334_002_go_knapsack_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260702_214334_003",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20260702_214334_003_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

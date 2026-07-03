@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-03T16:13:11.017435",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260703_161311_000",
+      "language": "x86_assembly",
+      "problem": "chat server (websocket)",
+      "code_length": 325,
+      "file": "20260703_161311_000_x86_assembly_chat_server_websocket.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_161311_001",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20260703_161311_001_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_161311_002",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260703_161311_002_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_161311_003",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260703_161311_003_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-03T22:44:39.848917",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260703_224439_000",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260703_224439_000_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_224439_001",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260703_224439_001_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_224439_002",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260703_224439_002_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_224439_003",
+      "language": "x86_assembly",
+      "problem": "Syntax highlighter",
+      "code_length": 315,
+      "file": "20260703_224439_003_x86_assembly_Syntax_highlighter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

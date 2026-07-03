@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-03T17:49:25.870565",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260703_174925_000",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260703_174925_000_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_174925_001",
+      "language": "go",
+      "problem": "two sum problem",
+      "code_length": 197,
+      "file": "20260703_174925_001_go_two_sum_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_174925_002",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20260703_174925_002_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260703_174925_003",
+      "language": "javascript",
+      "problem": "Syntax highlighter",
+      "code_length": 238,
+      "file": "20260703_174925_003_javascript_Syntax_highlighter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-04T16:15:09.134164",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260704_161509_000",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260704_161509_000_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260704_161509_001",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260704_161509_001_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260704_161509_002",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260704_161509_002_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260704_161509_003",
+      "language": "javascript",
+      "problem": "binary search algorithm",
+      "code_length": 243,
+      "file": "20260704_161509_003_javascript_binary_search_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

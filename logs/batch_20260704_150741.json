@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-04T15:07:41.348180",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260704_150741_000",
+      "language": "python",
+      "problem": "knapsack problem",
+      "code_length": 291,
+      "file": "20260704_150741_000_python_knapsack_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260704_150741_001",
+      "language": "rust",
+      "problem": "URL shortener backend",
+      "code_length": 217,
+      "file": "20260704_150741_001_rust_URL_shortener_backend.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260704_150741_002",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260704_150741_002_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260704_150741_003",
+      "language": "go",
+      "problem": "RSA key generation",
+      "code_length": 200,
+      "file": "20260704_150741_003_go_RSA_key_generation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

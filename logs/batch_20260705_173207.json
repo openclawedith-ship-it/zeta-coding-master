@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-05T17:32:07.572890",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260705_173207_000",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20260705_173207_000_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260705_173207_001",
+      "language": "go",
+      "problem": "quicksort implementation",
+      "code_length": 206,
+      "file": "20260705_173207_001_go_quicksort_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260705_173207_002",
+      "language": "javascript",
+      "problem": "WebSocket chat",
+      "code_length": 234,
+      "file": "20260705_173207_002_javascript_WebSocket_chat.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260705_173207_003",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260705_173207_003_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

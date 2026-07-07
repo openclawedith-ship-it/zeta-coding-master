@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-07T20:57:33.451568",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260707_205733_000",
+      "language": "x86_assembly",
+      "problem": "regex engine basics",
+      "code_length": 317,
+      "file": "20260707_205733_000_x86_assembly_regex_engine_basics.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260707_205733_001",
+      "language": "javascript",
+      "problem": "2FA TOTP generator",
+      "code_length": 238,
+      "file": "20260707_205733_001_javascript_2FA_TOTP_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260707_205733_002",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260707_205733_002_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260707_205733_003",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260707_205733_003_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

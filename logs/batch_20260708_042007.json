@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-08T04:20:07.574052",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260708_042007_000",
+      "language": "rust",
+      "problem": "Image resizer",
+      "code_length": 209,
+      "file": "20260708_042007_000_rust_Image_resizer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260708_042007_001",
+      "language": "javascript",
+      "problem": "graph adjacency list",
+      "code_length": 240,
+      "file": "20260708_042007_001_javascript_graph_adjacency_list.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260708_042007_002",
+      "language": "c",
+      "problem": "queue using two stacks",
+      "code_length": 244,
+      "file": "20260708_042007_002_c_queue_using_two_stacks.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260708_042007_003",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260708_042007_003_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-09T19:43:07.516119",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260709_194307_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260709_194307_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260709_194307_001",
+      "language": "go",
+      "problem": "URL shortener backend",
+      "code_length": 203,
+      "file": "20260709_194307_001_go_URL_shortener_backend.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260709_194307_002",
+      "language": "c",
+      "problem": "queue using two stacks",
+      "code_length": 244,
+      "file": "20260709_194307_002_c_queue_using_two_stacks.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260709_194307_003",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20260709_194307_003_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

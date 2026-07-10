@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-10T12:37:05.673704",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260710_123705_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260710_123705_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_123705_001",
+      "language": "c",
+      "problem": "HTTP server from scratch",
+      "code_length": 246,
+      "file": "20260710_123705_001_c_HTTP_server_from_scratch.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_123705_002",
+      "language": "go",
+      "problem": "2FA TOTP generator",
+      "code_length": 200,
+      "file": "20260710_123705_002_go_2FA_TOTP_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_123705_003",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260710_123705_003_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

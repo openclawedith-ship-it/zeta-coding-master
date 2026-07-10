@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-10T23:38:31.344516",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260710_233831_000",
+      "language": "rust",
+      "problem": "heap sort algorithm",
+      "code_length": 215,
+      "file": "20260710_233831_000_rust_heap_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_233831_001",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260710_233831_001_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_233831_002",
+      "language": "rust",
+      "problem": "Email validator",
+      "code_length": 211,
+      "file": "20260710_233831_002_rust_Email_validator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_233831_003",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260710_233831_003_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-10T02:52:24.934779",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260710_025224_000",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260710_025224_000_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_025224_001",
+      "language": "python",
+      "problem": "merge sort algorithm",
+      "code_length": 295,
+      "file": "20260710_025224_001_python_merge_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_025224_002",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260710_025224_002_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_025224_003",
+      "language": "go",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 206,
+      "file": "20260710_025224_003_go_A*_pathfinding_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

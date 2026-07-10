@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-10T17:16:38.584336",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260710_171638_000",
+      "language": "c",
+      "problem": "queue using two stacks",
+      "code_length": 244,
+      "file": "20260710_171638_000_c_queue_using_two_stacks.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_171638_001",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260710_171638_001_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_171638_002",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260710_171638_002_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260710_171638_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260710_171638_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-11T14:51:06.836238",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260711_145106_000",
+      "language": "go",
+      "problem": "HTTP server from scratch",
+      "code_length": 206,
+      "file": "20260711_145106_000_go_HTTP_server_from_scratch.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260711_145106_001",
+      "language": "x86_assembly",
+      "problem": "2FA TOTP generator",
+      "code_length": 315,
+      "file": "20260711_145106_001_x86_assembly_2FA_TOTP_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260711_145106_002",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260711_145106_002_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260711_145106_003",
+      "language": "x86_assembly",
+      "problem": "gzip compression",
+      "code_length": 311,
+      "file": "20260711_145106_003_x86_assembly_gzip_compression.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

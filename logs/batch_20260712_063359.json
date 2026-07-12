@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T06:33:59.342172",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_063359_000",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260712_063359_000_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_063359_001",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260712_063359_001_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_063359_002",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260712_063359_002_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_063359_003",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260712_063359_003_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

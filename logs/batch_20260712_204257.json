@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T20:42:57.608792",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_204257_000",
+      "language": "x86_assembly",
+      "problem": "matrix chain multiplication",
+      "code_length": 333,
+      "file": "20260712_204257_000_x86_assembly_matrix_chain_multiplication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_204257_001",
+      "language": "python",
+      "problem": "bellman-ford algorithm",
+      "code_length": 297,
+      "file": "20260712_204257_001_python_bellman-ford_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_204257_002",
+      "language": "go",
+      "problem": "WebSocket chat",
+      "code_length": 196,
+      "file": "20260712_204257_002_go_WebSocket_chat.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_204257_003",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260712_204257_003_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

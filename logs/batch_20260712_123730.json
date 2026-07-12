@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T12:37:30.780800",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_123730_000",
+      "language": "x86_assembly",
+      "problem": "Diff algorithm",
+      "code_length": 307,
+      "file": "20260712_123730_000_x86_assembly_Diff_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_123730_001",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20260712_123730_001_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_123730_002",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260712_123730_002_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_123730_003",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260712_123730_003_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

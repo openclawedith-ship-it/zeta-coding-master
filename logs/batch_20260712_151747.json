@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T15:17:47.849552",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_151747_000",
+      "language": "javascript",
+      "problem": "two sum problem",
+      "code_length": 235,
+      "file": "20260712_151747_000_javascript_two_sum_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_151747_001",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260712_151747_001_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_151747_002",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260712_151747_002_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_151747_003",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20260712_151747_003_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

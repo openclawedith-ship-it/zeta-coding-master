@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T10:25:53.373055",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_102553_000",
+      "language": "go",
+      "problem": "base64 encoder/decoder",
+      "code_length": 204,
+      "file": "20260712_102553_000_go_base64_encoder_decoder.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_102553_001",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260712_102553_001_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_102553_002",
+      "language": "go",
+      "problem": "markdown to HTML converter",
+      "code_length": 208,
+      "file": "20260712_102553_002_go_markdown_to_HTML_converter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_102553_003",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20260712_102553_003_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T18:37:17.506784",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_183717_000",
+      "language": "javascript",
+      "problem": "trie data structure",
+      "code_length": 239,
+      "file": "20260712_183717_000_javascript_trie_data_structure.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_183717_001",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260712_183717_001_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_183717_002",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20260712_183717_002_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_183717_003",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20260712_183717_003_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

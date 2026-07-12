@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T17:33:03.937653",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_173303_000",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260712_173303_000_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_173303_001",
+      "language": "c",
+      "problem": "quicksort implementation",
+      "code_length": 246,
+      "file": "20260712_173303_001_c_quicksort_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_173303_002",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260712_173303_002_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_173303_003",
+      "language": "python",
+      "problem": "queue using two stacks",
+      "code_length": 297,
+      "file": "20260712_173303_003_python_queue_using_two_stacks.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

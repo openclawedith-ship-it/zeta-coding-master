@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T11:37:02.953157",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_113702_000",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260712_113702_000_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_113702_001",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260712_113702_001_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_113702_002",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260712_113702_002_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_113702_003",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260712_113702_003_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

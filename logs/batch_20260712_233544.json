@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-12T23:35:44.739623",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260712_233544_000",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20260712_233544_000_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_233544_001",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260712_233544_001_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_233544_002",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260712_233544_002_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260712_233544_003",
+      "language": "python",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 304,
+      "file": "20260712_233544_003_python_kruskal_minimum_spanning_tree.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

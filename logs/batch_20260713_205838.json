@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-13T20:58:38.857833",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260713_205838_000",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260713_205838_000_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_205838_001",
+      "language": "rust",
+      "problem": "longest common subsequence",
+      "code_length": 222,
+      "file": "20260713_205838_001_rust_longest_common_subsequence.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_205838_002",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260713_205838_002_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_205838_003",
+      "language": "c",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 251,
+      "file": "20260713_205838_003_c_kruskal_minimum_spanning_tree.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

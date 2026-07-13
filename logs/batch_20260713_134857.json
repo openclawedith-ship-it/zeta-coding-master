@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-13T13:48:57.627725",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260713_134857_000",
+      "language": "c",
+      "problem": "knapsack problem",
+      "code_length": 238,
+      "file": "20260713_134857_000_c_knapsack_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_134857_001",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260713_134857_001_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_134857_002",
+      "language": "c",
+      "problem": "stack with min() in O(1)",
+      "code_length": 246,
+      "file": "20260713_134857_002_c_stack_with_min_in_O1.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_134857_003",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260713_134857_003_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

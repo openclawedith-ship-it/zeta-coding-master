@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-13T18:20:25.861487",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260713_182025_000",
+      "language": "x86_assembly",
+      "problem": "merge sort algorithm",
+      "code_length": 319,
+      "file": "20260713_182025_000_x86_assembly_merge_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_182025_001",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260713_182025_001_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_182025_002",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260713_182025_002_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260713_182025_003",
+      "language": "javascript",
+      "problem": "Template engine",
+      "code_length": 235,
+      "file": "20260713_182025_003_javascript_Template_engine.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

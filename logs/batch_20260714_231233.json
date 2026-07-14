@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-14T23:12:33.492869",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260714_231233_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260714_231233_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_231233_001",
+      "language": "python",
+      "problem": "Password strength checker",
+      "code_length": 300,
+      "file": "20260714_231233_001_python_Password_strength_checker.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_231233_002",
+      "language": "javascript",
+      "problem": "TCP port scanner",
+      "code_length": 236,
+      "file": "20260714_231233_002_javascript_TCP_port_scanner.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_231233_003",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260714_231233_003_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

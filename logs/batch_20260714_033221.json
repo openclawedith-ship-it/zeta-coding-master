@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-14T03:32:21.215126",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260714_033221_000",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260714_033221_000_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_033221_001",
+      "language": "x86_assembly",
+      "problem": "quicksort implementation",
+      "code_length": 327,
+      "file": "20260714_033221_001_x86_assembly_quicksort_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_033221_002",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260714_033221_002_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_033221_003",
+      "language": "javascript",
+      "problem": "Diff algorithm",
+      "code_length": 234,
+      "file": "20260714_033221_003_javascript_Diff_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

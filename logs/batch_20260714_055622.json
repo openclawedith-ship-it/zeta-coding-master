@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-14T05:56:22.782129",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260714_055622_000",
+      "language": "rust",
+      "problem": "rate limiter implementation",
+      "code_length": 223,
+      "file": "20260714_055622_000_rust_rate_limiter_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_055622_001",
+      "language": "go",
+      "problem": "longest common subsequence",
+      "code_length": 208,
+      "file": "20260714_055622_001_go_longest_common_subsequence.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_055622_002",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260714_055622_002_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_055622_003",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260714_055622_003_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

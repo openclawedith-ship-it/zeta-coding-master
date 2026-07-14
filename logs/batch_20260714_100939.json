@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-14T10:09:39.412211",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260714_100939_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260714_100939_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_100939_001",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260714_100939_001_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_100939_002",
+      "language": "python",
+      "problem": "longest common subsequence",
+      "code_length": 301,
+      "file": "20260714_100939_002_python_longest_common_subsequence.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_100939_003",
+      "language": "c",
+      "problem": "TCP port scanner",
+      "code_length": 238,
+      "file": "20260714_100939_003_c_TCP_port_scanner.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

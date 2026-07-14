@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-14T22:14:39.245619",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260714_221439_000",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260714_221439_000_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_221439_001",
+      "language": "rust",
+      "problem": "longest common subsequence",
+      "code_length": 222,
+      "file": "20260714_221439_001_rust_longest_common_subsequence.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_221439_002",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260714_221439_002_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260714_221439_003",
+      "language": "rust",
+      "problem": "UUID generator",
+      "code_length": 210,
+      "file": "20260714_221439_003_rust_UUID_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

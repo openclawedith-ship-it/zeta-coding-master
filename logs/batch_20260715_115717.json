@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-15T11:57:17.732424",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260715_115717_000",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260715_115717_000_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_115717_001",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260715_115717_001_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_115717_002",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260715_115717_002_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_115717_003",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260715_115717_003_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

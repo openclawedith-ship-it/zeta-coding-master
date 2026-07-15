@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-15T10:20:03.331534",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260715_102003_000",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260715_102003_000_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_102003_001",
+      "language": "x86_assembly",
+      "problem": "WebSocket chat",
+      "code_length": 307,
+      "file": "20260715_102003_001_x86_assembly_WebSocket_chat.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_102003_002",
+      "language": "c",
+      "problem": "edit distance algorithm",
+      "code_length": 245,
+      "file": "20260715_102003_002_c_edit_distance_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_102003_003",
+      "language": "python",
+      "problem": "markdown to HTML converter",
+      "code_length": 301,
+      "file": "20260715_102003_003_python_markdown_to_HTML_converter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

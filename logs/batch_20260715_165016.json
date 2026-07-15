@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-15T16:50:16.257406",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260715_165016_000",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260715_165016_000_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_165016_001",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260715_165016_001_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_165016_002",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260715_165016_002_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260715_165016_003",
+      "language": "rust",
+      "problem": "QR code generator",
+      "code_length": 213,
+      "file": "20260715_165016_003_rust_QR_code_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

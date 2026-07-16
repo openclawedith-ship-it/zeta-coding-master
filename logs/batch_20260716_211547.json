@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-16T21:15:47.964000",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260716_211547_000",
+      "language": "go",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 206,
+      "file": "20260716_211547_000_go_A*_pathfinding_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260716_211547_001",
+      "language": "python",
+      "problem": "Email validator",
+      "code_length": 290,
+      "file": "20260716_211547_001_python_Email_validator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260716_211547_002",
+      "language": "javascript",
+      "problem": "CLI argument parser",
+      "code_length": 239,
+      "file": "20260716_211547_002_javascript_CLI_argument_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260716_211547_003",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260716_211547_003_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

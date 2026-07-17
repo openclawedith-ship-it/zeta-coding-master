@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-17T18:04:10.047903",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260717_180410_000",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260717_180410_000_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_180410_001",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260717_180410_001_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_180410_002",
+      "language": "rust",
+      "problem": "gzip compression",
+      "code_length": 212,
+      "file": "20260717_180410_002_rust_gzip_compression.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_180410_003",
+      "language": "javascript",
+      "problem": "CRUD REST API",
+      "code_length": 233,
+      "file": "20260717_180410_003_javascript_CRUD_REST_API.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

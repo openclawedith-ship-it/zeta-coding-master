@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-17T19:31:37.501033",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260717_193137_000",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260717_193137_000_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_193137_001",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260717_193137_001_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_193137_002",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260717_193137_002_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_193137_003",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260717_193137_003_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

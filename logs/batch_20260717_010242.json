@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-17T01:02:42.958648",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260717_010242_000",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260717_010242_000_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_010242_001",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260717_010242_001_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_010242_002",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20260717_010242_002_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_010242_003",
+      "language": "c",
+      "problem": "longest common subsequence",
+      "code_length": 248,
+      "file": "20260717_010242_003_c_longest_common_subsequence.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

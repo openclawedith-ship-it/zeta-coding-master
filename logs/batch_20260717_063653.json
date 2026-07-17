@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-17T06:36:53.678658",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260717_063653_000",
+      "language": "x86_assembly",
+      "problem": "JWT authentication",
+      "code_length": 315,
+      "file": "20260717_063653_000_x86_assembly_JWT_authentication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_063653_001",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260717_063653_001_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_063653_002",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20260717_063653_002_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260717_063653_003",
+      "language": "javascript",
+      "problem": "Password strength checker",
+      "code_length": 245,
+      "file": "20260717_063653_003_javascript_Password_strength_checker.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

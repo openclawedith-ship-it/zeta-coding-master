@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-18T01:05:09.156739",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260718_010509_000",
+      "language": "javascript",
+      "problem": "Task scheduler",
+      "code_length": 234,
+      "file": "20260718_010509_000_javascript_Task_scheduler.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260718_010509_001",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260718_010509_001_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260718_010509_002",
+      "language": "javascript",
+      "problem": "knapsack problem",
+      "code_length": 236,
+      "file": "20260718_010509_002_javascript_knapsack_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260718_010509_003",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260718_010509_003_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

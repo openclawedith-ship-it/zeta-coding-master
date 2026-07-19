@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-19T20:43:38.781512",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260719_204338_000",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260719_204338_000_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260719_204338_001",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260719_204338_001_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260719_204338_002",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260719_204338_002_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260719_204338_003",
+      "language": "x86_assembly",
+      "problem": "matrix chain multiplication",
+      "code_length": 333,
+      "file": "20260719_204338_003_x86_assembly_matrix_chain_multiplication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

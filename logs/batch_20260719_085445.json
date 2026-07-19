@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-19T08:54:45.946085",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260719_085445_000",
+      "language": "x86_assembly",
+      "problem": "QR code generator",
+      "code_length": 313,
+      "file": "20260719_085445_000_x86_assembly_QR_code_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260719_085445_001",
+      "language": "rust",
+      "problem": "gzip compression",
+      "code_length": 212,
+      "file": "20260719_085445_001_rust_gzip_compression.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260719_085445_002",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260719_085445_002_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260719_085445_003",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260719_085445_003_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

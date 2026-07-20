@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-20T10:54:33.070952",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260720_105433_000",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20260720_105433_000_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_105433_001",
+      "language": "x86_assembly",
+      "problem": "Diff algorithm",
+      "code_length": 307,
+      "file": "20260720_105433_001_x86_assembly_Diff_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_105433_002",
+      "language": "javascript",
+      "problem": "two sum problem",
+      "code_length": 235,
+      "file": "20260720_105433_002_javascript_two_sum_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_105433_003",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20260720_105433_003_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-20T20:18:42.699765",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260720_201842_000",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260720_201842_000_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_201842_001",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260720_201842_001_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_201842_002",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260720_201842_002_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_201842_003",
+      "language": "go",
+      "problem": "CRUD REST API",
+      "code_length": 195,
+      "file": "20260720_201842_003_go_CRUD_REST_API.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

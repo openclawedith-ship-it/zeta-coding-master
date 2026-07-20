@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-20T13:03:53.317653",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260720_130353_000",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20260720_130353_000_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_130353_001",
+      "language": "javascript",
+      "problem": "heap sort algorithm",
+      "code_length": 239,
+      "file": "20260720_130353_001_javascript_heap_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_130353_002",
+      "language": "rust",
+      "problem": "file encryption tool",
+      "code_length": 216,
+      "file": "20260720_130353_002_rust_file_encryption_tool.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_130353_003",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260720_130353_003_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

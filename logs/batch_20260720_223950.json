@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-20T22:39:50.214628",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260720_223950_000",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260720_223950_000_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_223950_001",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260720_223950_001_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_223950_002",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260720_223950_002_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_223950_003",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260720_223950_003_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

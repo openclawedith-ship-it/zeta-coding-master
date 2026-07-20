@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-20T07:56:59.399498",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260720_075659_000",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20260720_075659_000_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_075659_001",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260720_075659_001_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_075659_002",
+      "language": "python",
+      "problem": "LRU cache implementation",
+      "code_length": 299,
+      "file": "20260720_075659_002_python_LRU_cache_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260720_075659_003",
+      "language": "go",
+      "problem": "TCP port scanner",
+      "code_length": 198,
+      "file": "20260720_075659_003_go_TCP_port_scanner.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

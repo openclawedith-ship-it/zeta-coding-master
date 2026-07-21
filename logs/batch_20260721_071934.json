@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-21T07:19:34.513594",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260721_071934_000",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260721_071934_000_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_071934_001",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20260721_071934_001_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_071934_002",
+      "language": "go",
+      "problem": "Syntax highlighter",
+      "code_length": 200,
+      "file": "20260721_071934_002_go_Syntax_highlighter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_071934_003",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260721_071934_003_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

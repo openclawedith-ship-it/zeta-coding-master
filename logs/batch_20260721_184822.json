@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-21T18:48:22.029874",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260721_184822_000",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260721_184822_000_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_184822_001",
+      "language": "c",
+      "problem": "file encryption tool",
+      "code_length": 242,
+      "file": "20260721_184822_001_c_file_encryption_tool.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_184822_002",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260721_184822_002_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_184822_003",
+      "language": "x86_assembly",
+      "problem": "Syntax highlighter",
+      "code_length": 315,
+      "file": "20260721_184822_003_x86_assembly_Syntax_highlighter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

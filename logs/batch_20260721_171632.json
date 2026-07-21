@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-21T17:16:32.591901",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260721_171632_000",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260721_171632_000_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_171632_001",
+      "language": "javascript",
+      "problem": "QR code generator",
+      "code_length": 237,
+      "file": "20260721_171632_001_javascript_QR_code_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_171632_002",
+      "language": "go",
+      "problem": "2FA TOTP generator",
+      "code_length": 200,
+      "file": "20260721_171632_002_go_2FA_TOTP_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_171632_003",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260721_171632_003_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-21T10:00:23.642779",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260721_100023_000",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260721_100023_000_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_100023_001",
+      "language": "javascript",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 249,
+      "file": "20260721_100023_001_javascript_dynamic_programming_fibonacci.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_100023_002",
+      "language": "javascript",
+      "problem": "Cron expression parser",
+      "code_length": 242,
+      "file": "20260721_100023_002_javascript_Cron_expression_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_100023_003",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260721_100023_003_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

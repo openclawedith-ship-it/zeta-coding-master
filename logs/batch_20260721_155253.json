@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-21T15:52:53.146973",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260721_155253_000",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260721_155253_000_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_155253_001",
+      "language": "x86_assembly",
+      "problem": "Cron expression parser",
+      "code_length": 323,
+      "file": "20260721_155253_001_x86_assembly_Cron_expression_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_155253_002",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260721_155253_002_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_155253_003",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260721_155253_003_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

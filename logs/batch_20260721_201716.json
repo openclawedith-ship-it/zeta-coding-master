@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-21T20:17:16.657911",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260721_201716_000",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260721_201716_000_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_201716_001",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260721_201716_001_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_201716_002",
+      "language": "c",
+      "problem": "markdown to HTML converter",
+      "code_length": 248,
+      "file": "20260721_201716_002_c_markdown_to_HTML_converter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260721_201716_003",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260721_201716_003_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-22T22:15:13.645775",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260722_221513_000",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20260722_221513_000_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_221513_001",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260722_221513_001_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_221513_002",
+      "language": "rust",
+      "problem": "Image resizer",
+      "code_length": 209,
+      "file": "20260722_221513_002_rust_Image_resizer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_221513_003",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260722_221513_003_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

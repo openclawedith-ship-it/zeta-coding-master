@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-22T09:57:21.842257",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260722_095721_000",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260722_095721_000_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_095721_001",
+      "language": "javascript",
+      "problem": "Log analyzer",
+      "code_length": 232,
+      "file": "20260722_095721_001_javascript_Log_analyzer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_095721_002",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260722_095721_002_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_095721_003",
+      "language": "javascript",
+      "problem": "PDF generator",
+      "code_length": 233,
+      "file": "20260722_095721_003_javascript_PDF_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

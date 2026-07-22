@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-22T21:09:58.171631",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260722_210958_000",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260722_210958_000_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_210958_001",
+      "language": "x86_assembly",
+      "problem": "trie data structure",
+      "code_length": 317,
+      "file": "20260722_210958_001_x86_assembly_trie_data_structure.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_210958_002",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260722_210958_002_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_210958_003",
+      "language": "x86_assembly",
+      "problem": "Config file reader",
+      "code_length": 315,
+      "file": "20260722_210958_003_x86_assembly_Config_file_reader.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

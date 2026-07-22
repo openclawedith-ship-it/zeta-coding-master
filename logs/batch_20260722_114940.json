@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-22T11:49:40.193780",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260722_114940_000",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260722_114940_000_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_114940_001",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260722_114940_001_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_114940_002",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260722_114940_002_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260722_114940_003",
+      "language": "x86_assembly",
+      "problem": "QR code generator",
+      "code_length": 313,
+      "file": "20260722_114940_003_x86_assembly_QR_code_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

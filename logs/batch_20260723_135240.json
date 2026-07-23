@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-23T13:52:40.164236",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260723_135240_000",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20260723_135240_000_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_135240_001",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260723_135240_001_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_135240_002",
+      "language": "rust",
+      "problem": "quicksort implementation",
+      "code_length": 220,
+      "file": "20260723_135240_002_rust_quicksort_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_135240_003",
+      "language": "python",
+      "problem": "PDF generator",
+      "code_length": 288,
+      "file": "20260723_135240_003_python_PDF_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

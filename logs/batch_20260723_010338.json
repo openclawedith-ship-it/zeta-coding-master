@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-23T01:03:38.427487",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260723_010338_000",
+      "language": "rust",
+      "problem": "edit distance algorithm",
+      "code_length": 219,
+      "file": "20260723_010338_000_rust_edit_distance_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_010338_001",
+      "language": "rust",
+      "problem": "Email validator",
+      "code_length": 211,
+      "file": "20260723_010338_001_rust_Email_validator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_010338_002",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260723_010338_002_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_010338_003",
+      "language": "x86_assembly",
+      "problem": "stack with min() in O(1)",
+      "code_length": 327,
+      "file": "20260723_010338_003_x86_assembly_stack_with_min_in_O1.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

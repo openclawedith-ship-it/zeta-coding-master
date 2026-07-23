@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-23T22:30:34.121235",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260723_223034_000",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260723_223034_000_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_223034_001",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260723_223034_001_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_223034_002",
+      "language": "c",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 251,
+      "file": "20260723_223034_002_c_dynamic_programming_fibonacci.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260723_223034_003",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260723_223034_003_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

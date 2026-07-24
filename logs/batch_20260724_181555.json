@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-24T18:15:55.732124",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260724_181555_000",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20260724_181555_000_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_181555_001",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260724_181555_001_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_181555_002",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260724_181555_002_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_181555_003",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260724_181555_003_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

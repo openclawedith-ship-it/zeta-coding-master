@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-24T23:31:08.822748",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260724_233108_000",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260724_233108_000_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_233108_001",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260724_233108_001_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_233108_002",
+      "language": "rust",
+      "problem": "two sum problem",
+      "code_length": 211,
+      "file": "20260724_233108_002_rust_two_sum_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_233108_003",
+      "language": "rust",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 220,
+      "file": "20260724_233108_003_rust_A*_pathfinding_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

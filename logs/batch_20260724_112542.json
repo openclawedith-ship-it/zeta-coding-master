@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-24T11:25:42.005376",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260724_112542_000",
+      "language": "javascript",
+      "problem": "trie data structure",
+      "code_length": 239,
+      "file": "20260724_112542_000_javascript_trie_data_structure.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_112542_001",
+      "language": "go",
+      "problem": "TCP port scanner",
+      "code_length": 198,
+      "file": "20260724_112542_001_go_TCP_port_scanner.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_112542_002",
+      "language": "go",
+      "problem": "gzip compression",
+      "code_length": 198,
+      "file": "20260724_112542_002_go_gzip_compression.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_112542_003",
+      "language": "javascript",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 249,
+      "file": "20260724_112542_003_javascript_kruskal_minimum_spanning_tree.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

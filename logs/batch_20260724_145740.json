@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-24T14:57:40.178663",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260724_145740_000",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260724_145740_000_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_145740_001",
+      "language": "javascript",
+      "problem": "TCP port scanner",
+      "code_length": 236,
+      "file": "20260724_145740_001_javascript_TCP_port_scanner.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_145740_002",
+      "language": "c",
+      "problem": "Syntax highlighter",
+      "code_length": 240,
+      "file": "20260724_145740_002_c_Syntax_highlighter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260724_145740_003",
+      "language": "go",
+      "problem": "Email validator",
+      "code_length": 197,
+      "file": "20260724_145740_003_go_Email_validator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

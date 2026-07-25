@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T17:56:49.815284",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_175649_000",
+      "language": "javascript",
+      "problem": "rate limiter implementation",
+      "code_length": 247,
+      "file": "20260725_175649_000_javascript_rate_limiter_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_175649_001",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260725_175649_001_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_175649_002",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260725_175649_002_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_175649_003",
+      "language": "go",
+      "problem": "2FA TOTP generator",
+      "code_length": 200,
+      "file": "20260725_175649_003_go_2FA_TOTP_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

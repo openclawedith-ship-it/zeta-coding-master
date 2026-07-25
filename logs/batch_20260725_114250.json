@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T11:42:50.252475",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_114250_000",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20260725_114250_000_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_114250_001",
+      "language": "javascript",
+      "problem": "CRUD REST API",
+      "code_length": 233,
+      "file": "20260725_114250_001_javascript_CRUD_REST_API.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_114250_002",
+      "language": "python",
+      "problem": "Password strength checker",
+      "code_length": 300,
+      "file": "20260725_114250_002_python_Password_strength_checker.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_114250_003",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260725_114250_003_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

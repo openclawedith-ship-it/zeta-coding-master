@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T23:11:32.419802",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_231132_000",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260725_231132_000_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_231132_001",
+      "language": "javascript",
+      "problem": "Redis clone",
+      "code_length": 231,
+      "file": "20260725_231132_001_javascript_Redis_clone.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_231132_002",
+      "language": "javascript",
+      "problem": "heap sort algorithm",
+      "code_length": 239,
+      "file": "20260725_231132_002_javascript_heap_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_231132_003",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260725_231132_003_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

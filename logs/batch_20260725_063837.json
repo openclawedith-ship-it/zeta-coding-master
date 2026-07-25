@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T06:38:37.321172",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_063837_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260725_063837_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_063837_001",
+      "language": "javascript",
+      "problem": "Template engine",
+      "code_length": 235,
+      "file": "20260725_063837_001_javascript_Template_engine.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_063837_002",
+      "language": "javascript",
+      "problem": "binary search algorithm",
+      "code_length": 243,
+      "file": "20260725_063837_002_javascript_binary_search_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_063837_003",
+      "language": "go",
+      "problem": "Syntax highlighter",
+      "code_length": 200,
+      "file": "20260725_063837_003_go_Syntax_highlighter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

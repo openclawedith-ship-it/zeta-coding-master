@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T16:54:11.895514",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_165411_000",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260725_165411_000_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_165411_001",
+      "language": "javascript",
+      "problem": "Code formatter",
+      "code_length": 234,
+      "file": "20260725_165411_001_javascript_Code_formatter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_165411_002",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260725_165411_002_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_165411_003",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260725_165411_003_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

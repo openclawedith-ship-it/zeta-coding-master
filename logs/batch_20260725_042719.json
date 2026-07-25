@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T04:27:19.130899",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_042719_000",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260725_042719_000_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_042719_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260725_042719_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_042719_002",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20260725_042719_002_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_042719_003",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20260725_042719_003_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

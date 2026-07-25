@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-25T22:09:44.188902",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260725_220944_000",
+      "language": "x86_assembly",
+      "problem": "merge sort algorithm",
+      "code_length": 319,
+      "file": "20260725_220944_000_x86_assembly_merge_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_220944_001",
+      "language": "x86_assembly",
+      "problem": "Task scheduler",
+      "code_length": 307,
+      "file": "20260725_220944_001_x86_assembly_Task_scheduler.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_220944_002",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260725_220944_002_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260725_220944_003",
+      "language": "x86_assembly",
+      "problem": "stack with min() in O(1)",
+      "code_length": 327,
+      "file": "20260725_220944_003_x86_assembly_stack_with_min_in_O1.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-26T18:30:55.397039",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260726_183055_000",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260726_183055_000_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_183055_001",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20260726_183055_001_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_183055_002",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260726_183055_002_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_183055_003",
+      "language": "python",
+      "problem": "LRU cache implementation",
+      "code_length": 299,
+      "file": "20260726_183055_003_python_LRU_cache_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

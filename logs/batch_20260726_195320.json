@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-26T19:53:20.627904",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260726_195320_000",
+      "language": "python",
+      "problem": "UUID generator",
+      "code_length": 289,
+      "file": "20260726_195320_000_python_UUID_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_195320_001",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260726_195320_001_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_195320_002",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260726_195320_002_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_195320_003",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20260726_195320_003_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

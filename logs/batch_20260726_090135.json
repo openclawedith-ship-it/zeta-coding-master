@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-26T09:01:35.098967",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260726_090135_000",
+      "language": "rust",
+      "problem": "heap sort algorithm",
+      "code_length": 215,
+      "file": "20260726_090135_000_rust_heap_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_090135_001",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260726_090135_001_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_090135_002",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260726_090135_002_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260726_090135_003",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260726_090135_003_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

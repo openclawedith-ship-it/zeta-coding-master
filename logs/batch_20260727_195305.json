@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-27T19:53:05.574503",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260727_195305_000",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260727_195305_000_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_195305_001",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260727_195305_001_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_195305_002",
+      "language": "javascript",
+      "problem": "UUID generator",
+      "code_length": 234,
+      "file": "20260727_195305_002_javascript_UUID_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_195305_003",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260727_195305_003_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

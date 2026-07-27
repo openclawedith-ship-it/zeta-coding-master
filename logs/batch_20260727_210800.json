@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-27T21:08:00.158686",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260727_210800_000",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260727_210800_000_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_210800_001",
+      "language": "x86_assembly",
+      "problem": "Cron expression parser",
+      "code_length": 323,
+      "file": "20260727_210800_001_x86_assembly_Cron_expression_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_210800_002",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260727_210800_002_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_210800_003",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260727_210800_003_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

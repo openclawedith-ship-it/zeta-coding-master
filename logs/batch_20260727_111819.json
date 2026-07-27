@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-27T11:18:19.738015",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260727_111819_000",
+      "language": "x86_assembly",
+      "problem": "Diff algorithm",
+      "code_length": 307,
+      "file": "20260727_111819_000_x86_assembly_Diff_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_111819_001",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260727_111819_001_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_111819_002",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260727_111819_002_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_111819_003",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260727_111819_003_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

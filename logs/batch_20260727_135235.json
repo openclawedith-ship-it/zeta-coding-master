@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-27T13:52:35.434495",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260727_135235_000",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260727_135235_000_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_135235_001",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260727_135235_001_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_135235_002",
+      "language": "python",
+      "problem": "quicksort implementation",
+      "code_length": 299,
+      "file": "20260727_135235_002_python_quicksort_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260727_135235_003",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260727_135235_003_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

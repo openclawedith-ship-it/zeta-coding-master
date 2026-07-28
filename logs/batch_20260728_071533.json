@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-28T07:15:33.115117",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260728_071533_000",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260728_071533_000_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_071533_001",
+      "language": "x86_assembly",
+      "problem": "TCP port scanner",
+      "code_length": 311,
+      "file": "20260728_071533_001_x86_assembly_TCP_port_scanner.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_071533_002",
+      "language": "x86_assembly",
+      "problem": "QR code generator",
+      "code_length": 313,
+      "file": "20260728_071533_002_x86_assembly_QR_code_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_071533_003",
+      "language": "javascript",
+      "problem": "RSA key generation",
+      "code_length": 238,
+      "file": "20260728_071533_003_javascript_RSA_key_generation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

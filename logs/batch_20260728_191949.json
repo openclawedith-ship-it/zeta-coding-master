@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-28T19:19:49.737582",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260728_191949_000",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260728_191949_000_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_191949_001",
+      "language": "javascript",
+      "problem": "edit distance algorithm",
+      "code_length": 243,
+      "file": "20260728_191949_001_javascript_edit_distance_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_191949_002",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260728_191949_002_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_191949_003",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260728_191949_003_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

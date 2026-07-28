@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-28T17:52:23.481551",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260728_175223_000",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260728_175223_000_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_175223_001",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260728_175223_001_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_175223_002",
+      "language": "python",
+      "problem": "matrix chain multiplication",
+      "code_length": 302,
+      "file": "20260728_175223_002_python_matrix_chain_multiplication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260728_175223_003",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20260728_175223_003_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

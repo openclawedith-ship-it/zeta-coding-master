@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-29T19:41:49.640634",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260729_194149_000",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260729_194149_000_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_194149_001",
+      "language": "x86_assembly",
+      "problem": "Password strength checker",
+      "code_length": 329,
+      "file": "20260729_194149_001_x86_assembly_Password_strength_checker.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_194149_002",
+      "language": "c",
+      "problem": "binary search algorithm",
+      "code_length": 245,
+      "file": "20260729_194149_002_c_binary_search_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_194149_003",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260729_194149_003_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

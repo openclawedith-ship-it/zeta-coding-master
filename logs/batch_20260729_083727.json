@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-29T08:37:27.954467",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260729_083727_000",
+      "language": "x86_assembly",
+      "problem": "JWT authentication",
+      "code_length": 315,
+      "file": "20260729_083727_000_x86_assembly_JWT_authentication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_083727_001",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260729_083727_001_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_083727_002",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260729_083727_002_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_083727_003",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260729_083727_003_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

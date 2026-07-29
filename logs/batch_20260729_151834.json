@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-29T15:18:34.566959",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260729_151834_000",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260729_151834_000_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_151834_001",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260729_151834_001_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_151834_002",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260729_151834_002_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260729_151834_003",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260729_151834_003_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

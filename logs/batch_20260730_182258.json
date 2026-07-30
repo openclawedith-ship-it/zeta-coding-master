@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-30T18:22:58.495271",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260730_182258_000",
+      "language": "python",
+      "problem": "merge sort algorithm",
+      "code_length": 295,
+      "file": "20260730_182258_000_python_merge_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_182258_001",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260730_182258_001_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_182258_002",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260730_182258_002_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_182258_003",
+      "language": "x86_assembly",
+      "problem": "knapsack problem",
+      "code_length": 311,
+      "file": "20260730_182258_003_x86_assembly_knapsack_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

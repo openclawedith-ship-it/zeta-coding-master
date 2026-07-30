@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-30T07:10:49.251811",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260730_071049_000",
+      "language": "python",
+      "problem": "merge sort algorithm",
+      "code_length": 295,
+      "file": "20260730_071049_000_python_merge_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_071049_001",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260730_071049_001_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_071049_002",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260730_071049_002_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_071049_003",
+      "language": "rust",
+      "problem": "edit distance algorithm",
+      "code_length": 219,
+      "file": "20260730_071049_003_rust_edit_distance_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

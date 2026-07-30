@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-30T21:30:31.829146",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260730_213031_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260730_213031_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_213031_001",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260730_213031_001_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_213031_002",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260730_213031_002_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260730_213031_003",
+      "language": "c",
+      "problem": "HTTP server from scratch",
+      "code_length": 246,
+      "file": "20260730_213031_003_c_HTTP_server_from_scratch.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

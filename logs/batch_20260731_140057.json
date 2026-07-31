@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-07-31T14:00:57.172789",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260731_140057_000",
+      "language": "rust",
+      "problem": "UUID generator",
+      "code_length": 210,
+      "file": "20260731_140057_000_rust_UUID_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260731_140057_001",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260731_140057_001_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260731_140057_002",
+      "language": "python",
+      "problem": "binary search algorithm",
+      "code_length": 298,
+      "file": "20260731_140057_002_python_binary_search_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260731_140057_003",
+      "language": "x86_assembly",
+      "problem": "regex engine basics",
+      "code_length": 317,
+      "file": "20260731_140057_003_x86_assembly_regex_engine_basics.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-01T14:12:43.928780",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260801_141243_000",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260801_141243_000_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_141243_001",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260801_141243_001_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_141243_002",
+      "language": "python",
+      "problem": "Image resizer",
+      "code_length": 288,
+      "file": "20260801_141243_002_python_Image_resizer.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_141243_003",
+      "language": "javascript",
+      "problem": "matrix chain multiplication",
+      "code_length": 247,
+      "file": "20260801_141243_003_javascript_matrix_chain_multiplication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

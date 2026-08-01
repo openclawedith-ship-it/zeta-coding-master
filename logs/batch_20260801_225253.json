@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-01T22:52:53.420706",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260801_225253_000",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260801_225253_000_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_225253_001",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20260801_225253_001_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_225253_002",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20260801_225253_002_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_225253_003",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260801_225253_003_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

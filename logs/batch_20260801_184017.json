@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-01T18:40:17.014461",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260801_184017_000",
+      "language": "c",
+      "problem": "Log analyzer",
+      "code_length": 234,
+      "file": "20260801_184017_000_c_Log_analyzer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_184017_001",
+      "language": "python",
+      "problem": "PDF generator",
+      "code_length": 288,
+      "file": "20260801_184017_001_python_PDF_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_184017_002",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260801_184017_002_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260801_184017_003",
+      "language": "rust",
+      "problem": "Task scheduler",
+      "code_length": 210,
+      "file": "20260801_184017_003_rust_Task_scheduler.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

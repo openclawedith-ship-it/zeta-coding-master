@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-02T21:53:52.869734",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260802_215352_000",
+      "language": "c",
+      "problem": "QR code generator",
+      "code_length": 239,
+      "file": "20260802_215352_000_c_QR_code_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_215352_001",
+      "language": "javascript",
+      "problem": "hashmap with collision handling",
+      "code_length": 251,
+      "file": "20260802_215352_001_javascript_hashmap_with_collision_handlin.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_215352_002",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20260802_215352_002_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_215352_003",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260802_215352_003_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

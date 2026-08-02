@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-02T02:39:00.224721",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260802_023900_000",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260802_023900_000_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_023900_001",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260802_023900_001_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_023900_002",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260802_023900_002_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_023900_003",
+      "language": "python",
+      "problem": "Code formatter",
+      "code_length": 289,
+      "file": "20260802_023900_003_python_Code_formatter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

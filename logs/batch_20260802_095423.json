@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-02T09:54:23.289896",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260802_095423_000",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20260802_095423_000_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_095423_001",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260802_095423_001_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_095423_002",
+      "language": "python",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 304,
+      "file": "20260802_095423_002_python_kruskal_minimum_spanning_tree.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260802_095423_003",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260802_095423_003_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-03T10:27:05.152242",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260803_102705_000",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260803_102705_000_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_102705_001",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260803_102705_001_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_102705_002",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260803_102705_002_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_102705_003",
+      "language": "python",
+      "problem": "edit distance algorithm",
+      "code_length": 298,
+      "file": "20260803_102705_003_python_edit_distance_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

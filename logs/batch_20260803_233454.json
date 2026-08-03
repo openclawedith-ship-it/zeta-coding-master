@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-03T23:34:54.573904",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260803_233454_000",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20260803_233454_000_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_233454_001",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260803_233454_001_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_233454_002",
+      "language": "x86_assembly",
+      "problem": "gzip compression",
+      "code_length": 311,
+      "file": "20260803_233454_002_x86_assembly_gzip_compression.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_233454_003",
+      "language": "c",
+      "problem": "producer-consumer pattern",
+      "code_length": 247,
+      "file": "20260803_233454_003_c_producer-consumer_pattern.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

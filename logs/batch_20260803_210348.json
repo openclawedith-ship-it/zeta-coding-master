@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-03T21:03:48.583302",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260803_210348_000",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260803_210348_000_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_210348_001",
+      "language": "python",
+      "problem": "edit distance algorithm",
+      "code_length": 298,
+      "file": "20260803_210348_001_python_edit_distance_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_210348_002",
+      "language": "c",
+      "problem": "edit distance algorithm",
+      "code_length": 245,
+      "file": "20260803_210348_002_c_edit_distance_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_210348_003",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260803_210348_003_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

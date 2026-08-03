@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-03T13:24:48.374180",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260803_132448_000",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20260803_132448_000_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_132448_001",
+      "language": "c",
+      "problem": "quicksort implementation",
+      "code_length": 246,
+      "file": "20260803_132448_001_c_quicksort_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_132448_002",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260803_132448_002_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_132448_003",
+      "language": "c",
+      "problem": "quicksort implementation",
+      "code_length": 246,
+      "file": "20260803_132448_003_c_quicksort_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-03T19:56:22.585425",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260803_195622_000",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260803_195622_000_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_195622_001",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260803_195622_001_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_195622_002",
+      "language": "x86_assembly",
+      "problem": "markdown to HTML converter",
+      "code_length": 331,
+      "file": "20260803_195622_002_x86_assembly_markdown_to_HTML_converter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_195622_003",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260803_195622_003_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

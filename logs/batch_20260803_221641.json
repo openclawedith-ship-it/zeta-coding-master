@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-03T22:16:41.635139",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260803_221641_000",
+      "language": "rust",
+      "problem": "QR code generator",
+      "code_length": 213,
+      "file": "20260803_221641_000_rust_QR_code_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_221641_001",
+      "language": "javascript",
+      "problem": "longest common subsequence",
+      "code_length": 246,
+      "file": "20260803_221641_001_javascript_longest_common_subsequence.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_221641_002",
+      "language": "python",
+      "problem": "queue using two stacks",
+      "code_length": 297,
+      "file": "20260803_221641_002_python_queue_using_two_stacks.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260803_221641_003",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260803_221641_003_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

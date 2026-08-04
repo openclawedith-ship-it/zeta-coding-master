@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-04T04:29:44.370118",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260804_042944_000",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260804_042944_000_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260804_042944_001",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260804_042944_001_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260804_042944_002",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260804_042944_002_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260804_042944_003",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260804_042944_003_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

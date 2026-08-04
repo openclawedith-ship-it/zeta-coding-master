@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-04T22:44:01.123033",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260804_224401_000",
+      "language": "go",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 206,
+      "file": "20260804_224401_000_go_A*_pathfinding_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260804_224401_001",
+      "language": "go",
+      "problem": "merge sort algorithm",
+      "code_length": 202,
+      "file": "20260804_224401_001_go_merge_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260804_224401_002",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260804_224401_002_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260804_224401_003",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260804_224401_003_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

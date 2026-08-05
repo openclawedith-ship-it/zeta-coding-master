@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-05T10:05:33.738208",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260805_100533_000",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260805_100533_000_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260805_100533_001",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260805_100533_001_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260805_100533_002",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260805_100533_002_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260805_100533_003",
+      "language": "x86_assembly",
+      "problem": "Diff algorithm",
+      "code_length": 307,
+      "file": "20260805_100533_003_x86_assembly_Diff_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

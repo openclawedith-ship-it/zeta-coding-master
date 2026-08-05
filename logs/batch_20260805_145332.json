@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-05T14:53:32.883730",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260805_145332_000",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260805_145332_000_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260805_145332_001",
+      "language": "python",
+      "problem": "dijkstra shortest path",
+      "code_length": 297,
+      "file": "20260805_145332_001_python_dijkstra_shortest_path.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260805_145332_002",
+      "language": "rust",
+      "problem": "UUID generator",
+      "code_length": 210,
+      "file": "20260805_145332_002_rust_UUID_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260805_145332_003",
+      "language": "python",
+      "problem": "Email validator",
+      "code_length": 290,
+      "file": "20260805_145332_003_python_Email_validator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

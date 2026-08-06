@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-06T11:50:26.327148",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260806_115026_000",
+      "language": "javascript",
+      "problem": "quicksort implementation",
+      "code_length": 244,
+      "file": "20260806_115026_000_javascript_quicksort_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260806_115026_001",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260806_115026_001_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260806_115026_002",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260806_115026_002_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260806_115026_003",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260806_115026_003_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

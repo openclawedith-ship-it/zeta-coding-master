@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-08T06:05:29.170222",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260808_060529_000",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260808_060529_000_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_060529_001",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260808_060529_001_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_060529_002",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260808_060529_002_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_060529_003",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260808_060529_003_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

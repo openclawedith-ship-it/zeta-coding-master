@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-08T11:02:49.292342",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260808_110249_000",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260808_110249_000_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_110249_001",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260808_110249_001_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_110249_002",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260808_110249_002_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_110249_003",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260808_110249_003_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

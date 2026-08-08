@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-08T17:27:01.395935",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260808_172701_000",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260808_172701_000_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_172701_001",
+      "language": "javascript",
+      "problem": "Email validator",
+      "code_length": 235,
+      "file": "20260808_172701_001_javascript_Email_validator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_172701_002",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260808_172701_002_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_172701_003",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260808_172701_003_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

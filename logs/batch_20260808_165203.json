@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-08T16:52:03.180741",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260808_165203_000",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260808_165203_000_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_165203_001",
+      "language": "x86_assembly",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 337,
+      "file": "20260808_165203_001_x86_assembly_dynamic_programming_fibonacci.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_165203_002",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260808_165203_002_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_165203_003",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260808_165203_003_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-08T20:59:27.729023",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260808_205927_000",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20260808_205927_000_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_205927_001",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260808_205927_001_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_205927_002",
+      "language": "rust",
+      "problem": "file encryption tool",
+      "code_length": 216,
+      "file": "20260808_205927_002_rust_file_encryption_tool.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260808_205927_003",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260808_205927_003_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

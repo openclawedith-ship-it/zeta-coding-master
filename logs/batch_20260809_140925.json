@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-09T14:09:25.825323",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260809_140925_000",
+      "language": "rust",
+      "problem": "longest common subsequence",
+      "code_length": 222,
+      "file": "20260809_140925_000_rust_longest_common_subsequence.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_140925_001",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20260809_140925_001_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_140925_002",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260809_140925_002_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_140925_003",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260809_140925_003_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

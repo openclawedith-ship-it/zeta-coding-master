@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-09T20:03:28.402740",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260809_200328_000",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260809_200328_000_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_200328_001",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260809_200328_001_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_200328_002",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260809_200328_002_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_200328_003",
+      "language": "x86_assembly",
+      "problem": "Code formatter",
+      "code_length": 307,
+      "file": "20260809_200328_003_x86_assembly_Code_formatter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

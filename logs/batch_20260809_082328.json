@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-09T08:23:28.028508",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260809_082328_000",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260809_082328_000_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_082328_001",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260809_082328_001_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_082328_002",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260809_082328_002_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_082328_003",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20260809_082328_003_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

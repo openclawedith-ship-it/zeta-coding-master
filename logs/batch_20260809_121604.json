@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-09T12:16:04.401081",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260809_121604_000",
+      "language": "python",
+      "problem": "PDF generator",
+      "code_length": 288,
+      "file": "20260809_121604_000_python_PDF_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_121604_001",
+      "language": "c",
+      "problem": "Diff algorithm",
+      "code_length": 236,
+      "file": "20260809_121604_001_c_Diff_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_121604_002",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260809_121604_002_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_121604_003",
+      "language": "c",
+      "problem": "trie data structure",
+      "code_length": 241,
+      "file": "20260809_121604_003_c_trie_data_structure.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

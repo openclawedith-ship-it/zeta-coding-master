@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-09T10:33:15.864816",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260809_103315_000",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260809_103315_000_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_103315_001",
+      "language": "go",
+      "problem": "WebSocket chat",
+      "code_length": 196,
+      "file": "20260809_103315_001_go_WebSocket_chat.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_103315_002",
+      "language": "rust",
+      "problem": "markdown to HTML converter",
+      "code_length": 222,
+      "file": "20260809_103315_002_rust_markdown_to_HTML_converter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260809_103315_003",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260809_103315_003_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

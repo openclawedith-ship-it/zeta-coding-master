@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-10T17:35:55.050588",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260810_173555_000",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260810_173555_000_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260810_173555_001",
+      "language": "rust",
+      "problem": "2FA TOTP generator",
+      "code_length": 214,
+      "file": "20260810_173555_001_rust_2FA_TOTP_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260810_173555_002",
+      "language": "javascript",
+      "problem": "SHA-256 implementation",
+      "code_length": 242,
+      "file": "20260810_173555_002_javascript_SHA-256_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260810_173555_003",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20260810_173555_003_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

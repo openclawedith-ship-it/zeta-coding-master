@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-10T11:58:08.809624",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260810_115808_000",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260810_115808_000_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260810_115808_001",
+      "language": "c",
+      "problem": "Syntax highlighter",
+      "code_length": 240,
+      "file": "20260810_115808_001_c_Syntax_highlighter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260810_115808_002",
+      "language": "c",
+      "problem": "JWT authentication",
+      "code_length": 240,
+      "file": "20260810_115808_002_c_JWT_authentication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260810_115808_003",
+      "language": "rust",
+      "problem": "Task scheduler",
+      "code_length": 210,
+      "file": "20260810_115808_003_rust_Task_scheduler.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T12:24:58.409051",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_122458_000",
+      "language": "javascript",
+      "problem": "Diff algorithm",
+      "code_length": 234,
+      "file": "20260811_122458_000_javascript_Diff_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_122458_001",
+      "language": "javascript",
+      "problem": "DNS resolver",
+      "code_length": 232,
+      "file": "20260811_122458_001_javascript_DNS_resolver.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_122458_002",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260811_122458_002_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_122458_003",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260811_122458_003_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

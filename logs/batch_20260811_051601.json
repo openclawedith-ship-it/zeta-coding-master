@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T05:16:01.309620",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_051601_000",
+      "language": "javascript",
+      "problem": "graph adjacency list",
+      "code_length": 240,
+      "file": "20260811_051601_000_javascript_graph_adjacency_list.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_051601_001",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260811_051601_001_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_051601_002",
+      "language": "javascript",
+      "problem": "HTTP server from scratch",
+      "code_length": 244,
+      "file": "20260811_051601_002_javascript_HTTP_server_from_scratch.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_051601_003",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260811_051601_003_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

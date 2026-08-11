@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T09:41:47.764445",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_094147_000",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260811_094147_000_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_094147_001",
+      "language": "c",
+      "problem": "Diff algorithm",
+      "code_length": 236,
+      "file": "20260811_094147_001_c_Diff_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_094147_002",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260811_094147_002_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_094147_003",
+      "language": "go",
+      "problem": "quicksort implementation",
+      "code_length": 206,
+      "file": "20260811_094147_003_go_quicksort_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

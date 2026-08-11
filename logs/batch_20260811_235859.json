@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T23:58:59.178594",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_235859_000",
+      "language": "python",
+      "problem": "UUID generator",
+      "code_length": 289,
+      "file": "20260811_235859_000_python_UUID_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_235859_001",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20260811_235859_001_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_235859_002",
+      "language": "rust",
+      "problem": "dijkstra shortest path",
+      "code_length": 218,
+      "file": "20260811_235859_002_rust_dijkstra_shortest_path.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_235859_003",
+      "language": "go",
+      "problem": "hashmap with collision handling",
+      "code_length": 213,
+      "file": "20260811_235859_003_go_hashmap_with_collision_handlin.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

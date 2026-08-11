@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T21:03:22.895172",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_210322_000",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260811_210322_000_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_210322_001",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260811_210322_001_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_210322_002",
+      "language": "go",
+      "problem": "Code formatter",
+      "code_length": 196,
+      "file": "20260811_210322_002_go_Code_formatter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_210322_003",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260811_210322_003_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

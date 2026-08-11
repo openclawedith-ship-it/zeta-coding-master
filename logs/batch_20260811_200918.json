@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T20:09:18.804450",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_200918_000",
+      "language": "python",
+      "problem": "regex engine basics",
+      "code_length": 294,
+      "file": "20260811_200918_000_python_regex_engine_basics.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_200918_001",
+      "language": "x86_assembly",
+      "problem": "Config file reader",
+      "code_length": 315,
+      "file": "20260811_200918_001_x86_assembly_Config_file_reader.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_200918_002",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260811_200918_002_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_200918_003",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260811_200918_003_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-11T18:06:06.014698",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260811_180606_000",
+      "language": "x86_assembly",
+      "problem": "producer-consumer pattern",
+      "code_length": 329,
+      "file": "20260811_180606_000_x86_assembly_producer-consumer_pattern.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_180606_001",
+      "language": "c",
+      "problem": "RSA key generation",
+      "code_length": 240,
+      "file": "20260811_180606_001_c_RSA_key_generation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_180606_002",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260811_180606_002_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260811_180606_003",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260811_180606_003_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

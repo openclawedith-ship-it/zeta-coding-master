@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T13:18:05.632474",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_131805_000",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260812_131805_000_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_131805_001",
+      "language": "javascript",
+      "problem": "coin change problem",
+      "code_length": 239,
+      "file": "20260812_131805_001_javascript_coin_change_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_131805_002",
+      "language": "python",
+      "problem": "SHA-256 implementation",
+      "code_length": 297,
+      "file": "20260812_131805_002_python_SHA-256_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_131805_003",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260812_131805_003_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

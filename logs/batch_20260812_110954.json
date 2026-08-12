@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T11:09:54.095322",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_110954_000",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260812_110954_000_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_110954_001",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20260812_110954_001_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_110954_002",
+      "language": "x86_assembly",
+      "problem": "rate limiter implementation",
+      "code_length": 333,
+      "file": "20260812_110954_002_x86_assembly_rate_limiter_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_110954_003",
+      "language": "c",
+      "problem": "DNS resolver",
+      "code_length": 234,
+      "file": "20260812_110954_003_c_DNS_resolver.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

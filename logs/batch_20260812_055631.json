@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T05:56:31.965417",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_055631_000",
+      "language": "javascript",
+      "problem": "trie data structure",
+      "code_length": 239,
+      "file": "20260812_055631_000_javascript_trie_data_structure.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_055631_001",
+      "language": "go",
+      "problem": "heap sort algorithm",
+      "code_length": 201,
+      "file": "20260812_055631_001_go_heap_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_055631_002",
+      "language": "x86_assembly",
+      "problem": "stack with min() in O(1)",
+      "code_length": 327,
+      "file": "20260812_055631_002_x86_assembly_stack_with_min_in_O1.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_055631_003",
+      "language": "rust",
+      "problem": "rate limiter implementation",
+      "code_length": 223,
+      "file": "20260812_055631_003_rust_rate_limiter_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

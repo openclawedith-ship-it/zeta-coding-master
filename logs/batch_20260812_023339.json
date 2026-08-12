@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T02:33:39.709853",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_023339_000",
+      "language": "javascript",
+      "problem": "trie data structure",
+      "code_length": 239,
+      "file": "20260812_023339_000_javascript_trie_data_structure.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_023339_001",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260812_023339_001_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_023339_002",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260812_023339_002_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_023339_003",
+      "language": "javascript",
+      "problem": "JWT authentication",
+      "code_length": 238,
+      "file": "20260812_023339_003_javascript_JWT_authentication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

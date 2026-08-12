@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T21:27:55.243638",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_212755_000",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260812_212755_000_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_212755_001",
+      "language": "javascript",
+      "problem": "Template engine",
+      "code_length": 235,
+      "file": "20260812_212755_001_javascript_Template_engine.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_212755_002",
+      "language": "javascript",
+      "problem": "CLI argument parser",
+      "code_length": 239,
+      "file": "20260812_212755_002_javascript_CLI_argument_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_212755_003",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20260812_212755_003_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

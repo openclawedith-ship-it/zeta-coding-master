@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T22:11:45.630559",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_221145_000",
+      "language": "go",
+      "problem": "base64 encoder/decoder",
+      "code_length": 204,
+      "file": "20260812_221145_000_go_base64_encoder_decoder.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_221145_001",
+      "language": "python",
+      "problem": "URL shortener backend",
+      "code_length": 296,
+      "file": "20260812_221145_001_python_URL_shortener_backend.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_221145_002",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20260812_221145_002_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_221145_003",
+      "language": "javascript",
+      "problem": "trie data structure",
+      "code_length": 239,
+      "file": "20260812_221145_003_javascript_trie_data_structure.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

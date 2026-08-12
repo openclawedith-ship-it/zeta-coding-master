@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T07:26:10.343485",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_072610_000",
+      "language": "python",
+      "problem": "Cron expression parser",
+      "code_length": 297,
+      "file": "20260812_072610_000_python_Cron_expression_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_072610_001",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260812_072610_001_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_072610_002",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260812_072610_002_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_072610_003",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260812_072610_003_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

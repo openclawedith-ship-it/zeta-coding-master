@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-12T16:35:30.488187",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260812_163530_000",
+      "language": "python",
+      "problem": "rate limiter implementation",
+      "code_length": 302,
+      "file": "20260812_163530_000_python_rate_limiter_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_163530_001",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260812_163530_001_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_163530_002",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260812_163530_002_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260812_163530_003",
+      "language": "c",
+      "problem": "stack with min() in O(1)",
+      "code_length": 246,
+      "file": "20260812_163530_003_c_stack_with_min_in_O1.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

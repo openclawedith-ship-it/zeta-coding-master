@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-13T02:12:31.579875",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260813_021231_000",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260813_021231_000_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_021231_001",
+      "language": "x86_assembly",
+      "problem": "Syntax highlighter",
+      "code_length": 315,
+      "file": "20260813_021231_001_x86_assembly_Syntax_highlighter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_021231_002",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260813_021231_002_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_021231_003",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20260813_021231_003_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

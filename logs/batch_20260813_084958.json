@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-13T08:49:58.475865",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260813_084958_000",
+      "language": "rust",
+      "problem": "heap sort algorithm",
+      "code_length": 215,
+      "file": "20260813_084958_000_rust_heap_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_084958_001",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260813_084958_001_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_084958_002",
+      "language": "javascript",
+      "problem": "quicksort implementation",
+      "code_length": 244,
+      "file": "20260813_084958_002_javascript_quicksort_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_084958_003",
+      "language": "python",
+      "problem": "knapsack problem",
+      "code_length": 291,
+      "file": "20260813_084958_003_python_knapsack_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

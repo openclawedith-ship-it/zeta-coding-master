@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-13T13:35:07.732440",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260813_133507_000",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260813_133507_000_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_133507_001",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260813_133507_001_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_133507_002",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260813_133507_002_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_133507_003",
+      "language": "x86_assembly",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 341,
+      "file": "20260813_133507_003_x86_assembly_binary_tree_traversal_BFS_DFS.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

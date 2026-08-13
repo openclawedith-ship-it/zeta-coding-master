@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-13T10:02:21.471639",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260813_100221_000",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260813_100221_000_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_100221_001",
+      "language": "python",
+      "problem": "SHA-256 implementation",
+      "code_length": 297,
+      "file": "20260813_100221_001_python_SHA-256_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_100221_002",
+      "language": "c",
+      "problem": "JWT authentication",
+      "code_length": 240,
+      "file": "20260813_100221_002_c_JWT_authentication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260813_100221_003",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260813_100221_003_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

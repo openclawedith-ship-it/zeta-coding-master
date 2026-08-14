@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-14T20:14:28.471969",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260814_201428_000",
+      "language": "rust",
+      "problem": "markdown to HTML converter",
+      "code_length": 222,
+      "file": "20260814_201428_000_rust_markdown_to_HTML_converter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_201428_001",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20260814_201428_001_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_201428_002",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260814_201428_002_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_201428_003",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260814_201428_003_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

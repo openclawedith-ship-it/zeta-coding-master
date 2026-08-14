@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-14T19:36:48.551039",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260814_193648_000",
+      "language": "python",
+      "problem": "binary search algorithm",
+      "code_length": 298,
+      "file": "20260814_193648_000_python_binary_search_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_193648_001",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260814_193648_001_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_193648_002",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20260814_193648_002_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_193648_003",
+      "language": "c",
+      "problem": "Syntax highlighter",
+      "code_length": 240,
+      "file": "20260814_193648_003_c_Syntax_highlighter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

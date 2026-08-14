@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-14T21:49:08.101516",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260814_214908_000",
+      "language": "x86_assembly",
+      "problem": "heap sort algorithm",
+      "code_length": 317,
+      "file": "20260814_214908_000_x86_assembly_heap_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_214908_001",
+      "language": "x86_assembly",
+      "problem": "hashmap with collision handling",
+      "code_length": 341,
+      "file": "20260814_214908_001_x86_assembly_hashmap_with_collision_handlin.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_214908_002",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260814_214908_002_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260814_214908_003",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260814_214908_003_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T23:58:09.476441",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_235809_000",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260815_235809_000_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_235809_001",
+      "language": "x86_assembly",
+      "problem": "URL shortener backend",
+      "code_length": 321,
+      "file": "20260815_235809_001_x86_assembly_URL_shortener_backend.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_235809_002",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260815_235809_002_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_235809_003",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260815_235809_003_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

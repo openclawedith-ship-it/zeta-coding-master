@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T12:49:42.230898",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_124942_000",
+      "language": "x86_assembly",
+      "problem": "TCP port scanner",
+      "code_length": 311,
+      "file": "20260815_124942_000_x86_assembly_TCP_port_scanner.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_124942_001",
+      "language": "x86_assembly",
+      "problem": "heap sort algorithm",
+      "code_length": 317,
+      "file": "20260815_124942_001_x86_assembly_heap_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_124942_002",
+      "language": "python",
+      "problem": "JWT authentication",
+      "code_length": 293,
+      "file": "20260815_124942_002_python_JWT_authentication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_124942_003",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260815_124942_003_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

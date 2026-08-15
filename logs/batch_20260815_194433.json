@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T19:44:33.443718",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_194433_000",
+      "language": "go",
+      "problem": "two sum problem",
+      "code_length": 197,
+      "file": "20260815_194433_000_go_two_sum_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_194433_001",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260815_194433_001_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_194433_002",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260815_194433_002_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_194433_003",
+      "language": "javascript",
+      "problem": "two sum problem",
+      "code_length": 235,
+      "file": "20260815_194433_003_javascript_two_sum_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

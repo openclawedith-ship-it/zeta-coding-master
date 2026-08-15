@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T22:18:10.781505",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_221810_000",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260815_221810_000_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_221810_001",
+      "language": "python",
+      "problem": "UUID generator",
+      "code_length": 289,
+      "file": "20260815_221810_001_python_UUID_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_221810_002",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260815_221810_002_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_221810_003",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260815_221810_003_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

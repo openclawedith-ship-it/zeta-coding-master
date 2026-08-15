@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T11:58:22.095747",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_115822_000",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260815_115822_000_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_115822_001",
+      "language": "python",
+      "problem": "CRUD REST API",
+      "code_length": 288,
+      "file": "20260815_115822_001_python_CRUD_REST_API.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_115822_002",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260815_115822_002_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_115822_003",
+      "language": "javascript",
+      "problem": "Syntax highlighter",
+      "code_length": 238,
+      "file": "20260815_115822_003_javascript_Syntax_highlighter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

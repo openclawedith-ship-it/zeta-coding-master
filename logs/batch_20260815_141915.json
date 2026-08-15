@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T14:19:15.940396",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_141915_000",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260815_141915_000_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_141915_001",
+      "language": "python",
+      "problem": "heap sort algorithm",
+      "code_length": 294,
+      "file": "20260815_141915_001_python_heap_sort_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_141915_002",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260815_141915_002_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_141915_003",
+      "language": "c",
+      "problem": "Email validator",
+      "code_length": 237,
+      "file": "20260815_141915_003_c_Email_validator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

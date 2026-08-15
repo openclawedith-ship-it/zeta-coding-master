@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T16:59:35.190862",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_165935_000",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260815_165935_000_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_165935_001",
+      "language": "javascript",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 244,
+      "file": "20260815_165935_001_javascript_A*_pathfinding_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_165935_002",
+      "language": "python",
+      "problem": "graph adjacency list",
+      "code_length": 295,
+      "file": "20260815_165935_002_python_graph_adjacency_list.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_165935_003",
+      "language": "javascript",
+      "problem": "JWT authentication",
+      "code_length": 238,
+      "file": "20260815_165935_003_javascript_JWT_authentication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

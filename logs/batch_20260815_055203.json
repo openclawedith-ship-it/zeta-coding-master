@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T05:52:03.806431",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_055203_000",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260815_055203_000_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_055203_001",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260815_055203_001_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_055203_002",
+      "language": "javascript",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 249,
+      "file": "20260815_055203_002_javascript_dynamic_programming_fibonacci.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_055203_003",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260815_055203_003_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

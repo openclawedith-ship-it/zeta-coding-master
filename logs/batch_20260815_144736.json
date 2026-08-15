@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-15T14:47:36.822179",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260815_144736_000",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260815_144736_000_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_144736_001",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260815_144736_001_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_144736_002",
+      "language": "javascript",
+      "problem": "QR code generator",
+      "code_length": 237,
+      "file": "20260815_144736_002_javascript_QR_code_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260815_144736_003",
+      "language": "x86_assembly",
+      "problem": "heap sort algorithm",
+      "code_length": 317,
+      "file": "20260815_144736_003_x86_assembly_heap_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

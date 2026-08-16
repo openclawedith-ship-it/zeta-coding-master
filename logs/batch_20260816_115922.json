@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T11:59:22.726433",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_115922_000",
+      "language": "go",
+      "problem": "DNS resolver",
+      "code_length": 194,
+      "file": "20260816_115922_000_go_DNS_resolver.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_115922_001",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260816_115922_001_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_115922_002",
+      "language": "go",
+      "problem": "quicksort implementation",
+      "code_length": 206,
+      "file": "20260816_115922_002_go_quicksort_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_115922_003",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20260816_115922_003_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

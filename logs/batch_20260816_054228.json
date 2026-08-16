@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T05:42:28.153850",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_054228_000",
+      "language": "x86_assembly",
+      "problem": "Task scheduler",
+      "code_length": 307,
+      "file": "20260816_054228_000_x86_assembly_Task_scheduler.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_054228_001",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260816_054228_001_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_054228_002",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20260816_054228_002_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_054228_003",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260816_054228_003_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

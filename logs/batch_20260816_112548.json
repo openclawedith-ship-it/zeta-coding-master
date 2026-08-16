@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T11:25:48.792570",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_112548_000",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260816_112548_000_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_112548_001",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260816_112548_001_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_112548_002",
+      "language": "go",
+      "problem": "Password strength checker",
+      "code_length": 207,
+      "file": "20260816_112548_002_go_Password_strength_checker.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_112548_003",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260816_112548_003_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

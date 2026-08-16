@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T06:02:07.559926",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_060207_000",
+      "language": "go",
+      "problem": "heap sort algorithm",
+      "code_length": 201,
+      "file": "20260816_060207_000_go_heap_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_060207_001",
+      "language": "go",
+      "problem": "base64 encoder/decoder",
+      "code_length": 204,
+      "file": "20260816_060207_001_go_base64_encoder_decoder.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_060207_002",
+      "language": "rust",
+      "problem": "dijkstra shortest path",
+      "code_length": 218,
+      "file": "20260816_060207_002_rust_dijkstra_shortest_path.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_060207_003",
+      "language": "python",
+      "problem": "producer-consumer pattern",
+      "code_length": 300,
+      "file": "20260816_060207_003_python_producer-consumer_pattern.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

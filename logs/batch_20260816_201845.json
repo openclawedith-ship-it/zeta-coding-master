@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T20:18:45.460223",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_201845_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260816_201845_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_201845_001",
+      "language": "javascript",
+      "problem": "UUID generator",
+      "code_length": 234,
+      "file": "20260816_201845_001_javascript_UUID_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_201845_002",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260816_201845_002_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_201845_003",
+      "language": "x86_assembly",
+      "problem": "UUID generator",
+      "code_length": 307,
+      "file": "20260816_201845_003_x86_assembly_UUID_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

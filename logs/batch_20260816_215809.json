@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T21:58:09.790439",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_215809_000",
+      "language": "x86_assembly",
+      "problem": "Code formatter",
+      "code_length": 307,
+      "file": "20260816_215809_000_x86_assembly_Code_formatter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_215809_001",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260816_215809_001_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_215809_002",
+      "language": "python",
+      "problem": "queue using two stacks",
+      "code_length": 297,
+      "file": "20260816_215809_002_python_queue_using_two_stacks.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_215809_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260816_215809_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

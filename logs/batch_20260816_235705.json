@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T23:57:05.324439",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_235705_000",
+      "language": "rust",
+      "problem": "Template engine",
+      "code_length": 211,
+      "file": "20260816_235705_000_rust_Template_engine.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_235705_001",
+      "language": "go",
+      "problem": "file encryption tool",
+      "code_length": 202,
+      "file": "20260816_235705_001_go_file_encryption_tool.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_235705_002",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260816_235705_002_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_235705_003",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260816_235705_003_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

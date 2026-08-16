@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T20:46:34.492053",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_204634_000",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260816_204634_000_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_204634_001",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260816_204634_001_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_204634_002",
+      "language": "javascript",
+      "problem": "longest common subsequence",
+      "code_length": 246,
+      "file": "20260816_204634_002_javascript_longest_common_subsequence.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_204634_003",
+      "language": "javascript",
+      "problem": "WebSocket chat",
+      "code_length": 234,
+      "file": "20260816_204634_003_javascript_WebSocket_chat.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

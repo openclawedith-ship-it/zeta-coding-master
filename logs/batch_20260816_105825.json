@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T10:58:25.903111",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_105825_000",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260816_105825_000_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_105825_001",
+      "language": "x86_assembly",
+      "problem": "bellman-ford algorithm",
+      "code_length": 323,
+      "file": "20260816_105825_001_x86_assembly_bellman-ford_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_105825_002",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20260816_105825_002_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_105825_003",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260816_105825_003_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

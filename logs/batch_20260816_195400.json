@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T19:54:00.848153",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_195400_000",
+      "language": "javascript",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 249,
+      "file": "20260816_195400_000_javascript_kruskal_minimum_spanning_tree.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_195400_001",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260816_195400_001_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_195400_002",
+      "language": "c",
+      "problem": "TCP port scanner",
+      "code_length": 238,
+      "file": "20260816_195400_002_c_TCP_port_scanner.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_195400_003",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260816_195400_003_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T13:28:46.512520",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_132846_000",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260816_132846_000_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_132846_001",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260816_132846_001_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_132846_002",
+      "language": "rust",
+      "problem": "2FA TOTP generator",
+      "code_length": 214,
+      "file": "20260816_132846_002_rust_2FA_TOTP_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_132846_003",
+      "language": "x86_assembly",
+      "problem": "gzip compression",
+      "code_length": 311,
+      "file": "20260816_132846_003_x86_assembly_gzip_compression.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

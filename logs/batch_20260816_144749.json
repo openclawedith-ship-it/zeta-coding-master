@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-16T14:47:49.632190",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260816_144749_000",
+      "language": "x86_assembly",
+      "problem": "trie data structure",
+      "code_length": 317,
+      "file": "20260816_144749_000_x86_assembly_trie_data_structure.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_144749_001",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260816_144749_001_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_144749_002",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260816_144749_002_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260816_144749_003",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260816_144749_003_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

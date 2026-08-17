@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T21:02:07.036123",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_210207_000",
+      "language": "javascript",
+      "problem": "PDF generator",
+      "code_length": 233,
+      "file": "20260817_210207_000_javascript_PDF_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_210207_001",
+      "language": "javascript",
+      "problem": "edit distance algorithm",
+      "code_length": 243,
+      "file": "20260817_210207_001_javascript_edit_distance_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_210207_002",
+      "language": "go",
+      "problem": "markdown to HTML converter",
+      "code_length": 208,
+      "file": "20260817_210207_002_go_markdown_to_HTML_converter.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_210207_003",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260817_210207_003_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

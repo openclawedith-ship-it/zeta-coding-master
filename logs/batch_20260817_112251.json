@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T11:22:51.014182",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_112251_000",
+      "language": "javascript",
+      "problem": "CLI argument parser",
+      "code_length": 239,
+      "file": "20260817_112251_000_javascript_CLI_argument_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_112251_001",
+      "language": "rust",
+      "problem": "binary search algorithm",
+      "code_length": 219,
+      "file": "20260817_112251_001_rust_binary_search_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_112251_002",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260817_112251_002_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_112251_003",
+      "language": "c",
+      "problem": "Template engine",
+      "code_length": 237,
+      "file": "20260817_112251_003_c_Template_engine.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

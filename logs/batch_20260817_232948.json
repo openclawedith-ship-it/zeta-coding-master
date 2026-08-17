@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T23:29:48.848742",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_232948_000",
+      "language": "python",
+      "problem": "graph adjacency list",
+      "code_length": 295,
+      "file": "20260817_232948_000_python_graph_adjacency_list.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_232948_001",
+      "language": "x86_assembly",
+      "problem": "heap sort algorithm",
+      "code_length": 317,
+      "file": "20260817_232948_001_x86_assembly_heap_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_232948_002",
+      "language": "rust",
+      "problem": "hashmap with collision handling",
+      "code_length": 227,
+      "file": "20260817_232948_002_rust_hashmap_with_collision_handlin.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_232948_003",
+      "language": "go",
+      "problem": "base64 encoder/decoder",
+      "code_length": 204,
+      "file": "20260817_232948_003_go_base64_encoder_decoder.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T03:33:03.555014",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_033303_000",
+      "language": "x86_assembly",
+      "problem": "linked list with insert/delete",
+      "code_length": 339,
+      "file": "20260817_033303_000_x86_assembly_linked_list_with_insert_delete.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_033303_001",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260817_033303_001_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_033303_002",
+      "language": "javascript",
+      "problem": "LRU cache implementation",
+      "code_length": 244,
+      "file": "20260817_033303_002_javascript_LRU_cache_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_033303_003",
+      "language": "go",
+      "problem": "WebSocket chat",
+      "code_length": 196,
+      "file": "20260817_033303_003_go_WebSocket_chat.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T13:26:11.539098",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_132611_000",
+      "language": "x86_assembly",
+      "problem": "heap sort algorithm",
+      "code_length": 317,
+      "file": "20260817_132611_000_x86_assembly_heap_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_132611_001",
+      "language": "c",
+      "problem": "markdown to HTML converter",
+      "code_length": 248,
+      "file": "20260817_132611_001_c_markdown_to_HTML_converter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_132611_002",
+      "language": "x86_assembly",
+      "problem": "gzip compression",
+      "code_length": 311,
+      "file": "20260817_132611_002_x86_assembly_gzip_compression.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_132611_003",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260817_132611_003_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

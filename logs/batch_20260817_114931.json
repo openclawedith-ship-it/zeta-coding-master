@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T11:49:31.978375",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_114931_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260817_114931_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_114931_001",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260817_114931_001_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_114931_002",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260817_114931_002_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_114931_003",
+      "language": "python",
+      "problem": "TCP port scanner",
+      "code_length": 291,
+      "file": "20260817_114931_003_python_TCP_port_scanner.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

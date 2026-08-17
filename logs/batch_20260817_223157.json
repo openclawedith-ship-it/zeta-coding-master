@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T22:31:57.017225",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_223157_000",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20260817_223157_000_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_223157_001",
+      "language": "c",
+      "problem": "LRU cache implementation",
+      "code_length": 246,
+      "file": "20260817_223157_001_c_LRU_cache_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_223157_002",
+      "language": "python",
+      "problem": "two sum problem",
+      "code_length": 290,
+      "file": "20260817_223157_002_python_two_sum_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_223157_003",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260817_223157_003_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

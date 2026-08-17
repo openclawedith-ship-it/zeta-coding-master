@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-17T18:59:16.854092",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260817_185916_000",
+      "language": "x86_assembly",
+      "problem": "Code formatter",
+      "code_length": 307,
+      "file": "20260817_185916_000_x86_assembly_Code_formatter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_185916_001",
+      "language": "javascript",
+      "problem": "longest common subsequence",
+      "code_length": 246,
+      "file": "20260817_185916_001_javascript_longest_common_subsequence.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_185916_002",
+      "language": "python",
+      "problem": "gzip compression",
+      "code_length": 291,
+      "file": "20260817_185916_002_python_gzip_compression.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260817_185916_003",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260817_185916_003_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

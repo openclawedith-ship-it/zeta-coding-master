@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-18T10:02:28.815962",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260818_100228_000",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260818_100228_000_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_100228_001",
+      "language": "rust",
+      "problem": "URL shortener backend",
+      "code_length": 217,
+      "file": "20260818_100228_001_rust_URL_shortener_backend.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_100228_002",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260818_100228_002_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_100228_003",
+      "language": "c",
+      "problem": "TCP port scanner",
+      "code_length": 238,
+      "file": "20260818_100228_003_c_TCP_port_scanner.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

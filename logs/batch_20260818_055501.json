@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-18T05:55:01.284440",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260818_055501_000",
+      "language": "javascript",
+      "problem": "CLI argument parser",
+      "code_length": 239,
+      "file": "20260818_055501_000_javascript_CLI_argument_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_055501_001",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260818_055501_001_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_055501_002",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260818_055501_002_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_055501_003",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260818_055501_003_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

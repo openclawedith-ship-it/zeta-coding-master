@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-18T21:47:10.894598",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260818_214710_000",
+      "language": "x86_assembly",
+      "problem": "longest common subsequence",
+      "code_length": 331,
+      "file": "20260818_214710_000_x86_assembly_longest_common_subsequence.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_214710_001",
+      "language": "x86_assembly",
+      "problem": "longest common subsequence",
+      "code_length": 331,
+      "file": "20260818_214710_001_x86_assembly_longest_common_subsequence.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_214710_002",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260818_214710_002_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260818_214710_003",
+      "language": "c",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 253,
+      "file": "20260818_214710_003_c_binary_tree_traversal_BFS_DFS.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

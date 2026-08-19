@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T19:58:46.700482",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_195846_000",
+      "language": "rust",
+      "problem": "rate limiter implementation",
+      "code_length": 223,
+      "file": "20260819_195846_000_rust_rate_limiter_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_195846_001",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260819_195846_001_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_195846_002",
+      "language": "python",
+      "problem": "URL shortener backend",
+      "code_length": 296,
+      "file": "20260819_195846_002_python_URL_shortener_backend.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_195846_003",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260819_195846_003_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

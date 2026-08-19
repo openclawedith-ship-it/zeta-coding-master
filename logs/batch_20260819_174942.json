@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T17:49:42.146332",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_174942_000",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260819_174942_000_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_174942_001",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20260819_174942_001_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_174942_002",
+      "language": "rust",
+      "problem": "Image resizer",
+      "code_length": 209,
+      "file": "20260819_174942_002_rust_Image_resizer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_174942_003",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260819_174942_003_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

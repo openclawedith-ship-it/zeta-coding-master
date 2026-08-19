@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T22:33:11.362091",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_223311_000",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260819_223311_000_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_223311_001",
+      "language": "javascript",
+      "problem": "Log analyzer",
+      "code_length": 232,
+      "file": "20260819_223311_001_javascript_Log_analyzer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_223311_002",
+      "language": "c",
+      "problem": "bellman-ford algorithm",
+      "code_length": 244,
+      "file": "20260819_223311_002_c_bellman-ford_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_223311_003",
+      "language": "c",
+      "problem": "stack with min() in O(1)",
+      "code_length": 246,
+      "file": "20260819_223311_003_c_stack_with_min_in_O1.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

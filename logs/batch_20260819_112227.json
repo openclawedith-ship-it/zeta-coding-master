@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T11:22:27.760057",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_112227_000",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260819_112227_000_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_112227_001",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260819_112227_001_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_112227_002",
+      "language": "python",
+      "problem": "LRU cache implementation",
+      "code_length": 299,
+      "file": "20260819_112227_002_python_LRU_cache_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_112227_003",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260819_112227_003_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T16:46:49.226214",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_164649_000",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260819_164649_000_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_164649_001",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260819_164649_001_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_164649_002",
+      "language": "python",
+      "problem": "Password strength checker",
+      "code_length": 300,
+      "file": "20260819_164649_002_python_Password_strength_checker.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_164649_003",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260819_164649_003_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T12:41:08.847132",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_124108_000",
+      "language": "x86_assembly",
+      "problem": "chat server (websocket)",
+      "code_length": 325,
+      "file": "20260819_124108_000_x86_assembly_chat_server_websocket.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_124108_001",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260819_124108_001_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_124108_002",
+      "language": "x86_assembly",
+      "problem": "quicksort implementation",
+      "code_length": 327,
+      "file": "20260819_124108_002_x86_assembly_quicksort_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_124108_003",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20260819_124108_003_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

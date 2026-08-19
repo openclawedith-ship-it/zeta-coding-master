@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-19T10:03:16.355300",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260819_100316_000",
+      "language": "javascript",
+      "problem": "CLI argument parser",
+      "code_length": 239,
+      "file": "20260819_100316_000_javascript_CLI_argument_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_100316_001",
+      "language": "c",
+      "problem": "HTTP server from scratch",
+      "code_length": 246,
+      "file": "20260819_100316_001_c_HTTP_server_from_scratch.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_100316_002",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20260819_100316_002_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260819_100316_003",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260819_100316_003_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

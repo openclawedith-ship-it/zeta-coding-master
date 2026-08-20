@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T10:27:21.194388",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_102721_000",
+      "language": "javascript",
+      "problem": "TCP port scanner",
+      "code_length": 236,
+      "file": "20260820_102721_000_javascript_TCP_port_scanner.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_102721_001",
+      "language": "python",
+      "problem": "DNS resolver",
+      "code_length": 287,
+      "file": "20260820_102721_001_python_DNS_resolver.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_102721_002",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260820_102721_002_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_102721_003",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20260820_102721_003_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

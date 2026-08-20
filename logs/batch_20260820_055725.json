@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T05:57:25.750636",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_055725_000",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260820_055725_000_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_055725_001",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260820_055725_001_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_055725_002",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260820_055725_002_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_055725_003",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260820_055725_003_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

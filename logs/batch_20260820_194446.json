@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T19:44:46.979321",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_194446_000",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260820_194446_000_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_194446_001",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260820_194446_001_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_194446_002",
+      "language": "javascript",
+      "problem": "Code formatter",
+      "code_length": 234,
+      "file": "20260820_194446_002_javascript_Code_formatter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_194446_003",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260820_194446_003_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

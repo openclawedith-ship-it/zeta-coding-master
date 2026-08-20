@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T15:58:11.417570",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_155811_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260820_155811_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_155811_001",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260820_155811_001_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_155811_002",
+      "language": "python",
+      "problem": "JSON parser",
+      "code_length": 286,
+      "file": "20260820_155811_002_python_JSON_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_155811_003",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260820_155811_003_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

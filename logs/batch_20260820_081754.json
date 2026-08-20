@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T08:17:54.944656",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_081754_000",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260820_081754_000_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_081754_001",
+      "language": "rust",
+      "problem": "Password strength checker",
+      "code_length": 221,
+      "file": "20260820_081754_001_rust_Password_strength_checker.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_081754_002",
+      "language": "go",
+      "problem": "WebSocket chat",
+      "code_length": 196,
+      "file": "20260820_081754_002_go_WebSocket_chat.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_081754_003",
+      "language": "rust",
+      "problem": "URL shortener backend",
+      "code_length": 217,
+      "file": "20260820_081754_003_rust_URL_shortener_backend.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

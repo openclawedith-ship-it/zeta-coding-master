@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T15:16:49.153352",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_151649_000",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20260820_151649_000_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_151649_001",
+      "language": "c",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 251,
+      "file": "20260820_151649_001_c_kruskal_minimum_spanning_tree.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_151649_002",
+      "language": "javascript",
+      "problem": "rate limiter implementation",
+      "code_length": 247,
+      "file": "20260820_151649_002_javascript_rate_limiter_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_151649_003",
+      "language": "javascript",
+      "problem": "Syntax highlighter",
+      "code_length": 238,
+      "file": "20260820_151649_003_javascript_Syntax_highlighter.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

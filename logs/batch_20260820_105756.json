@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T10:57:56.693899",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_105756_000",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260820_105756_000_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_105756_001",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260820_105756_001_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_105756_002",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260820_105756_002_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_105756_003",
+      "language": "go",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 211,
+      "file": "20260820_105756_003_go_kruskal_minimum_spanning_tree.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T09:04:27.337267",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_090427_000",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20260820_090427_000_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_090427_001",
+      "language": "javascript",
+      "problem": "CRUD REST API",
+      "code_length": 233,
+      "file": "20260820_090427_001_javascript_CRUD_REST_API.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_090427_002",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260820_090427_002_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_090427_003",
+      "language": "x86_assembly",
+      "problem": "Template engine",
+      "code_length": 309,
+      "file": "20260820_090427_003_x86_assembly_Template_engine.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

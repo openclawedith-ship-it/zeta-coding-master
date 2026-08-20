@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T22:24:13.861092",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_222413_000",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260820_222413_000_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_222413_001",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260820_222413_001_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_222413_002",
+      "language": "rust",
+      "problem": "longest common subsequence",
+      "code_length": 222,
+      "file": "20260820_222413_002_rust_longest_common_subsequence.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_222413_003",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260820_222413_003_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T05:27:35.092875",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_052735_000",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20260820_052735_000_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_052735_001",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260820_052735_001_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_052735_002",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20260820_052735_002_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_052735_003",
+      "language": "c",
+      "problem": "CRUD REST API",
+      "code_length": 235,
+      "file": "20260820_052735_003_c_CRUD_REST_API.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

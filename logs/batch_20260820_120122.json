@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-20T12:01:22.354011",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260820_120122_000",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260820_120122_000_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_120122_001",
+      "language": "python",
+      "problem": "Cron expression parser",
+      "code_length": 297,
+      "file": "20260820_120122_001_python_Cron_expression_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_120122_002",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20260820_120122_002_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260820_120122_003",
+      "language": "javascript",
+      "problem": "Cron expression parser",
+      "code_length": 242,
+      "file": "20260820_120122_003_javascript_Cron_expression_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

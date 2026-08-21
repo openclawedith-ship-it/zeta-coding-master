@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T18:13:32.891202",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_181332_000",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260821_181332_000_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_181332_001",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260821_181332_001_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_181332_002",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260821_181332_002_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_181332_003",
+      "language": "javascript",
+      "problem": "Cron expression parser",
+      "code_length": 242,
+      "file": "20260821_181332_003_javascript_Cron_expression_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

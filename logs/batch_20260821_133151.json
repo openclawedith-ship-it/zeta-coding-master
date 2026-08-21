@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T13:31:51.371869",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_133151_000",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260821_133151_000_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_133151_001",
+      "language": "go",
+      "problem": "WebSocket chat",
+      "code_length": 196,
+      "file": "20260821_133151_001_go_WebSocket_chat.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_133151_002",
+      "language": "python",
+      "problem": "Code formatter",
+      "code_length": 289,
+      "file": "20260821_133151_002_python_Code_formatter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_133151_003",
+      "language": "x86_assembly",
+      "problem": "Log analyzer",
+      "code_length": 303,
+      "file": "20260821_133151_003_x86_assembly_Log_analyzer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

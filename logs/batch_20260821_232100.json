@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T23:21:00.957300",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_232100_000",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260821_232100_000_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_232100_001",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260821_232100_001_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_232100_002",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260821_232100_002_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_232100_003",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260821_232100_003_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

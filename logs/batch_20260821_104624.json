@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T10:46:24.523924",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_104624_000",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260821_104624_000_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_104624_001",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260821_104624_001_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_104624_002",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20260821_104624_002_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_104624_003",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20260821_104624_003_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

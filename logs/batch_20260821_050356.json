@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T05:03:56.886548",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_050356_000",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20260821_050356_000_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_050356_001",
+      "language": "python",
+      "problem": "SHA-256 implementation",
+      "code_length": 297,
+      "file": "20260821_050356_001_python_SHA-256_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_050356_002",
+      "language": "javascript",
+      "problem": "Image resizer",
+      "code_length": 233,
+      "file": "20260821_050356_002_javascript_Image_resizer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_050356_003",
+      "language": "go",
+      "problem": "producer-consumer pattern",
+      "code_length": 207,
+      "file": "20260821_050356_003_go_producer-consumer_pattern.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T21:48:18.435123",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_214818_000",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260821_214818_000_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_214818_001",
+      "language": "go",
+      "problem": "base64 encoder/decoder",
+      "code_length": 204,
+      "file": "20260821_214818_001_go_base64_encoder_decoder.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_214818_002",
+      "language": "c",
+      "problem": "hashmap with collision handling",
+      "code_length": 253,
+      "file": "20260821_214818_002_c_hashmap_with_collision_handlin.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_214818_003",
+      "language": "rust",
+      "problem": "Cron expression parser",
+      "code_length": 218,
+      "file": "20260821_214818_003_rust_Cron_expression_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

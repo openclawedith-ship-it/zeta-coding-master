@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T01:09:51.328531",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_010951_000",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260821_010951_000_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_010951_001",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260821_010951_001_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_010951_002",
+      "language": "x86_assembly",
+      "problem": "Password strength checker",
+      "code_length": 329,
+      "file": "20260821_010951_002_x86_assembly_Password_strength_checker.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_010951_003",
+      "language": "x86_assembly",
+      "problem": "base64 encoder/decoder",
+      "code_length": 323,
+      "file": "20260821_010951_003_x86_assembly_base64_encoder_decoder.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

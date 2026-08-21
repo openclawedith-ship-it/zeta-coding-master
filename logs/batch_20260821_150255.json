@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T15:02:55.807267",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_150255_000",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260821_150255_000_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_150255_001",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260821_150255_001_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_150255_002",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260821_150255_002_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_150255_003",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260821_150255_003_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

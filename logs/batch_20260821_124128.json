@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T12:41:28.901913",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_124128_000",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260821_124128_000_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_124128_001",
+      "language": "javascript",
+      "problem": "Config file reader",
+      "code_length": 238,
+      "file": "20260821_124128_001_javascript_Config_file_reader.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_124128_002",
+      "language": "go",
+      "problem": "Task scheduler",
+      "code_length": 196,
+      "file": "20260821_124128_002_go_Task_scheduler.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_124128_003",
+      "language": "rust",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 225,
+      "file": "20260821_124128_003_rust_dynamic_programming_fibonacci.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

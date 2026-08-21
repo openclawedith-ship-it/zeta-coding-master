@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T11:22:37.021944",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_112237_000",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20260821_112237_000_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_112237_001",
+      "language": "javascript",
+      "problem": "rate limiter implementation",
+      "code_length": 247,
+      "file": "20260821_112237_001_javascript_rate_limiter_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_112237_002",
+      "language": "x86_assembly",
+      "problem": "chat server (websocket)",
+      "code_length": 325,
+      "file": "20260821_112237_002_x86_assembly_chat_server_websocket.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_112237_003",
+      "language": "python",
+      "problem": "JSON parser",
+      "code_length": 286,
+      "file": "20260821_112237_003_python_JSON_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

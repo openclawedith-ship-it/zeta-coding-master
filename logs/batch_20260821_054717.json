@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T05:47:17.932004",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_054717_000",
+      "language": "x86_assembly",
+      "problem": "trie data structure",
+      "code_length": 317,
+      "file": "20260821_054717_000_x86_assembly_trie_data_structure.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_054717_001",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260821_054717_001_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_054717_002",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20260821_054717_002_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_054717_003",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260821_054717_003_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

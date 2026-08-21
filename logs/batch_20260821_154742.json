@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-21T15:47:42.844775",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260821_154742_000",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260821_154742_000_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_154742_001",
+      "language": "x86_assembly",
+      "problem": "Log analyzer",
+      "code_length": 303,
+      "file": "20260821_154742_001_x86_assembly_Log_analyzer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_154742_002",
+      "language": "c",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 246,
+      "file": "20260821_154742_002_c_A*_pathfinding_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260821_154742_003",
+      "language": "rust",
+      "problem": "Syntax highlighter",
+      "code_length": 214,
+      "file": "20260821_154742_003_rust_Syntax_highlighter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

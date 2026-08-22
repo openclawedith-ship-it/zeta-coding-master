@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T04:04:32.011949",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_040432_000",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260822_040432_000_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_040432_001",
+      "language": "python",
+      "problem": "WebSocket chat",
+      "code_length": 289,
+      "file": "20260822_040432_001_python_WebSocket_chat.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_040432_002",
+      "language": "c",
+      "problem": "knapsack problem",
+      "code_length": 238,
+      "file": "20260822_040432_002_c_knapsack_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_040432_003",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260822_040432_003_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

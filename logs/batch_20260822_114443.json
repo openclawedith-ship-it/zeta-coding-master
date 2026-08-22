@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T11:44:43.194978",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_114443_000",
+      "language": "x86_assembly",
+      "problem": "TCP port scanner",
+      "code_length": 311,
+      "file": "20260822_114443_000_x86_assembly_TCP_port_scanner.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_114443_001",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260822_114443_001_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_114443_002",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20260822_114443_002_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_114443_003",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260822_114443_003_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

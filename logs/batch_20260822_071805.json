@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T07:18:05.553325",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_071805_000",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260822_071805_000_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_071805_001",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260822_071805_001_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_071805_002",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260822_071805_002_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_071805_003",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20260822_071805_003_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

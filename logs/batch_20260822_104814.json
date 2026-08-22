@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T10:48:14.982207",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_104814_000",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260822_104814_000_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_104814_001",
+      "language": "go",
+      "problem": "Cron expression parser",
+      "code_length": 204,
+      "file": "20260822_104814_001_go_Cron_expression_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_104814_002",
+      "language": "x86_assembly",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 337,
+      "file": "20260822_104814_002_x86_assembly_dynamic_programming_fibonacci.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_104814_003",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260822_104814_003_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

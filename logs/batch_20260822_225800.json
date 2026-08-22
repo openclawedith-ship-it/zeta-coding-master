@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T22:58:00.671807",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_225800_000",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260822_225800_000_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_225800_001",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260822_225800_001_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_225800_002",
+      "language": "x86_assembly",
+      "problem": "Email validator",
+      "code_length": 309,
+      "file": "20260822_225800_002_x86_assembly_Email_validator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_225800_003",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260822_225800_003_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

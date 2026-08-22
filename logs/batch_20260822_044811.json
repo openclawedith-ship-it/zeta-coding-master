@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T04:48:11.469171",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_044811_000",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260822_044811_000_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_044811_001",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260822_044811_001_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_044811_002",
+      "language": "x86_assembly",
+      "problem": "CLI argument parser",
+      "code_length": 317,
+      "file": "20260822_044811_002_x86_assembly_CLI_argument_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_044811_003",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260822_044811_003_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

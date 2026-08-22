@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T13:29:33.781037",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_132933_000",
+      "language": "x86_assembly",
+      "problem": "Template engine",
+      "code_length": 309,
+      "file": "20260822_132933_000_x86_assembly_Template_engine.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_132933_001",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260822_132933_001_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_132933_002",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260822_132933_002_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_132933_003",
+      "language": "go",
+      "problem": "heap sort algorithm",
+      "code_length": 201,
+      "file": "20260822_132933_003_go_heap_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

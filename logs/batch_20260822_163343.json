@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T16:33:43.290951",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_163343_000",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20260822_163343_000_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_163343_001",
+      "language": "javascript",
+      "problem": "Config file reader",
+      "code_length": 238,
+      "file": "20260822_163343_001_javascript_Config_file_reader.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_163343_002",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260822_163343_002_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_163343_003",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260822_163343_003_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

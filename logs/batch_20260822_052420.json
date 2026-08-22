@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T05:24:20.121635",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_052420_000",
+      "language": "rust",
+      "problem": "binary search algorithm",
+      "code_length": 219,
+      "file": "20260822_052420_000_rust_binary_search_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_052420_001",
+      "language": "rust",
+      "problem": "URL shortener backend",
+      "code_length": 217,
+      "file": "20260822_052420_001_rust_URL_shortener_backend.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_052420_002",
+      "language": "python",
+      "problem": "Cron expression parser",
+      "code_length": 297,
+      "file": "20260822_052420_002_python_Cron_expression_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_052420_003",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260822_052420_003_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

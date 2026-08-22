@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-22T21:45:03.172566",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260822_214503_000",
+      "language": "go",
+      "problem": "bellman-ford algorithm",
+      "code_length": 204,
+      "file": "20260822_214503_000_go_bellman-ford_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_214503_001",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260822_214503_001_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_214503_002",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260822_214503_002_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260822_214503_003",
+      "language": "x86_assembly",
+      "problem": "edit distance algorithm",
+      "code_length": 325,
+      "file": "20260822_214503_003_x86_assembly_edit_distance_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

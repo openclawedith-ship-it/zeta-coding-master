@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T14:48:41.733234",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_144841_000",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260823_144841_000_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_144841_001",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260823_144841_001_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_144841_002",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260823_144841_002_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_144841_003",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20260823_144841_003_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

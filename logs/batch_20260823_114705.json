@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T11:47:05.767558",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_114705_000",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260823_114705_000_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_114705_001",
+      "language": "python",
+      "problem": "edit distance algorithm",
+      "code_length": 298,
+      "file": "20260823_114705_001_python_edit_distance_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_114705_002",
+      "language": "javascript",
+      "problem": "hashmap with collision handling",
+      "code_length": 251,
+      "file": "20260823_114705_002_javascript_hashmap_with_collision_handlin.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_114705_003",
+      "language": "c",
+      "problem": "JWT authentication",
+      "code_length": 240,
+      "file": "20260823_114705_003_c_JWT_authentication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

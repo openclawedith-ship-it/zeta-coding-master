@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T21:59:43.994908",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_215943_000",
+      "language": "go",
+      "problem": "LRU cache implementation",
+      "code_length": 206,
+      "file": "20260823_215943_000_go_LRU_cache_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_215943_001",
+      "language": "javascript",
+      "problem": "2FA TOTP generator",
+      "code_length": 238,
+      "file": "20260823_215943_001_javascript_2FA_TOTP_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_215943_002",
+      "language": "rust",
+      "problem": "RSA key generation",
+      "code_length": 214,
+      "file": "20260823_215943_002_rust_RSA_key_generation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_215943_003",
+      "language": "x86_assembly",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 337,
+      "file": "20260823_215943_003_x86_assembly_dynamic_programming_fibonacci.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

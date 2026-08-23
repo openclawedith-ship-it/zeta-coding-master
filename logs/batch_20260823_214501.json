@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T21:45:01.677284",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_214501_000",
+      "language": "x86_assembly",
+      "problem": "regex engine basics",
+      "code_length": 317,
+      "file": "20260823_214501_000_x86_assembly_regex_engine_basics.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_214501_001",
+      "language": "javascript",
+      "problem": "SHA-256 implementation",
+      "code_length": 242,
+      "file": "20260823_214501_001_javascript_SHA-256_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_214501_002",
+      "language": "python",
+      "problem": "graph adjacency list",
+      "code_length": 295,
+      "file": "20260823_214501_002_python_graph_adjacency_list.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_214501_003",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260823_214501_003_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

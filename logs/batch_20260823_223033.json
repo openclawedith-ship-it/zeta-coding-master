@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T22:30:33.550959",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_223033_000",
+      "language": "javascript",
+      "problem": "regex engine basics",
+      "code_length": 239,
+      "file": "20260823_223033_000_javascript_regex_engine_basics.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_223033_001",
+      "language": "go",
+      "problem": "dijkstra shortest path",
+      "code_length": 204,
+      "file": "20260823_223033_001_go_dijkstra_shortest_path.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_223033_002",
+      "language": "c",
+      "problem": "DNS resolver",
+      "code_length": 234,
+      "file": "20260823_223033_002_c_DNS_resolver.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_223033_003",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260823_223033_003_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T17:18:14.617974",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_171814_000",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20260823_171814_000_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_171814_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260823_171814_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_171814_002",
+      "language": "c",
+      "problem": "RSA key generation",
+      "code_length": 240,
+      "file": "20260823_171814_002_c_RSA_key_generation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_171814_003",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20260823_171814_003_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

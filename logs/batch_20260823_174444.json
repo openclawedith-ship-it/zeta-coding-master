@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T17:44:44.962831",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_174444_000",
+      "language": "rust",
+      "problem": "Task scheduler",
+      "code_length": 210,
+      "file": "20260823_174444_000_rust_Task_scheduler.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_174444_001",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20260823_174444_001_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_174444_002",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20260823_174444_002_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_174444_003",
+      "language": "python",
+      "problem": "bellman-ford algorithm",
+      "code_length": 297,
+      "file": "20260823_174444_003_python_bellman-ford_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

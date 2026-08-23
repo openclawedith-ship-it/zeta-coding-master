@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T21:18:47.191560",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_211847_000",
+      "language": "go",
+      "problem": "TCP port scanner",
+      "code_length": 198,
+      "file": "20260823_211847_000_go_TCP_port_scanner.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_211847_001",
+      "language": "c",
+      "problem": "LRU cache implementation",
+      "code_length": 246,
+      "file": "20260823_211847_001_c_LRU_cache_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_211847_002",
+      "language": "javascript",
+      "problem": "matrix chain multiplication",
+      "code_length": 247,
+      "file": "20260823_211847_002_javascript_matrix_chain_multiplication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_211847_003",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260823_211847_003_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

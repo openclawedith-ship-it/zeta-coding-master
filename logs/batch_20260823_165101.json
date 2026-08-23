@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T16:51:01.311005",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_165101_000",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260823_165101_000_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_165101_001",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260823_165101_001_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_165101_002",
+      "language": "c",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 246,
+      "file": "20260823_165101_002_c_A*_pathfinding_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_165101_003",
+      "language": "rust",
+      "problem": "graph adjacency list",
+      "code_length": 216,
+      "file": "20260823_165101_003_rust_graph_adjacency_list.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-23T20:48:01.337798",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260823_204801_000",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260823_204801_000_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_204801_001",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260823_204801_001_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_204801_002",
+      "language": "rust",
+      "problem": "Log analyzer",
+      "code_length": 208,
+      "file": "20260823_204801_002_rust_Log_analyzer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260823_204801_003",
+      "language": "javascript",
+      "problem": "chat server (websocket)",
+      "code_length": 243,
+      "file": "20260823_204801_003_javascript_chat_server_websocket.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

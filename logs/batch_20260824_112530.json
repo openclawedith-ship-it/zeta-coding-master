@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T11:25:30.589871",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_112530_000",
+      "language": "javascript",
+      "problem": "hashmap with collision handling",
+      "code_length": 251,
+      "file": "20260824_112530_000_javascript_hashmap_with_collision_handlin.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_112530_001",
+      "language": "go",
+      "problem": "URL shortener backend",
+      "code_length": 203,
+      "file": "20260824_112530_001_go_URL_shortener_backend.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_112530_002",
+      "language": "c",
+      "problem": "RSA key generation",
+      "code_length": 240,
+      "file": "20260824_112530_002_c_RSA_key_generation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_112530_003",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260824_112530_003_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T11:53:36.309878",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_115336_000",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20260824_115336_000_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_115336_001",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20260824_115336_001_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_115336_002",
+      "language": "go",
+      "problem": "merge sort algorithm",
+      "code_length": 202,
+      "file": "20260824_115336_002_go_merge_sort_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_115336_003",
+      "language": "javascript",
+      "problem": "2FA TOTP generator",
+      "code_length": 238,
+      "file": "20260824_115336_003_javascript_2FA_TOTP_generator.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

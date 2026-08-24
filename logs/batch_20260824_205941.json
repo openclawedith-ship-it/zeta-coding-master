@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T20:59:41.912687",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_205941_000",
+      "language": "x86_assembly",
+      "problem": "edit distance algorithm",
+      "code_length": 325,
+      "file": "20260824_205941_000_x86_assembly_edit_distance_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_205941_001",
+      "language": "x86_assembly",
+      "problem": "graph adjacency list",
+      "code_length": 319,
+      "file": "20260824_205941_001_x86_assembly_graph_adjacency_list.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_205941_002",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260824_205941_002_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_205941_003",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260824_205941_003_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

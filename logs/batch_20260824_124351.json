@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T12:43:51.365412",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_124351_000",
+      "language": "x86_assembly",
+      "problem": "merge sort algorithm",
+      "code_length": 319,
+      "file": "20260824_124351_000_x86_assembly_merge_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_124351_001",
+      "language": "python",
+      "problem": "hashmap with collision handling",
+      "code_length": 306,
+      "file": "20260824_124351_001_python_hashmap_with_collision_handlin.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_124351_002",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260824_124351_002_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_124351_003",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260824_124351_003_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

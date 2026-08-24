@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T22:00:53.677677",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_220053_000",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260824_220053_000_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_220053_001",
+      "language": "c",
+      "problem": "trie data structure",
+      "code_length": 241,
+      "file": "20260824_220053_001_c_trie_data_structure.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_220053_002",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20260824_220053_002_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_220053_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260824_220053_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

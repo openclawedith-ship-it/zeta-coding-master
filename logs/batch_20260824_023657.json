@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T02:36:57.594072",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_023657_000",
+      "language": "python",
+      "problem": "graph adjacency list",
+      "code_length": 295,
+      "file": "20260824_023657_000_python_graph_adjacency_list.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_023657_001",
+      "language": "rust",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 220,
+      "file": "20260824_023657_001_rust_A*_pathfinding_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_023657_002",
+      "language": "x86_assembly",
+      "problem": "JSON parser",
+      "code_length": 301,
+      "file": "20260824_023657_002_x86_assembly_JSON_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_023657_003",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260824_023657_003_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

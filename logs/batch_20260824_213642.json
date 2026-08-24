@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-24T21:36:42.531867",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260824_213642_000",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20260824_213642_000_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_213642_001",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260824_213642_001_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_213642_002",
+      "language": "python",
+      "problem": "JSON parser",
+      "code_length": 286,
+      "file": "20260824_213642_002_python_JSON_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260824_213642_003",
+      "language": "javascript",
+      "problem": "quicksort implementation",
+      "code_length": 244,
+      "file": "20260824_213642_003_javascript_quicksort_implementation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

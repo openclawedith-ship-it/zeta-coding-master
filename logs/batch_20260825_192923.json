@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-25T19:29:23.745417",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260825_192923_000",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20260825_192923_000_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_192923_001",
+      "language": "rust",
+      "problem": "file encryption tool",
+      "code_length": 216,
+      "file": "20260825_192923_001_rust_file_encryption_tool.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_192923_002",
+      "language": "x86_assembly",
+      "problem": "CLI argument parser",
+      "code_length": 317,
+      "file": "20260825_192923_002_x86_assembly_CLI_argument_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_192923_003",
+      "language": "python",
+      "problem": "Syntax highlighter",
+      "code_length": 293,
+      "file": "20260825_192923_003_python_Syntax_highlighter.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

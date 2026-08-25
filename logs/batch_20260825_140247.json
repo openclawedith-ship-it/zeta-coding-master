@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-25T14:02:47.135654",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260825_140247_000",
+      "language": "python",
+      "problem": "Diff algorithm",
+      "code_length": 289,
+      "file": "20260825_140247_000_python_Diff_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_140247_001",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20260825_140247_001_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_140247_002",
+      "language": "rust",
+      "problem": "base64 encoder/decoder",
+      "code_length": 218,
+      "file": "20260825_140247_002_rust_base64_encoder_decoder.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_140247_003",
+      "language": "go",
+      "problem": "Task scheduler",
+      "code_length": 196,
+      "file": "20260825_140247_003_go_Task_scheduler.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

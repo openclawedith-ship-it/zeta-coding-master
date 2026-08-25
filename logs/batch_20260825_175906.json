@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-25T17:59:06.821915",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260825_175906_000",
+      "language": "go",
+      "problem": "two sum problem",
+      "code_length": 197,
+      "file": "20260825_175906_000_go_two_sum_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_175906_001",
+      "language": "c",
+      "problem": "TCP port scanner",
+      "code_length": 238,
+      "file": "20260825_175906_001_c_TCP_port_scanner.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_175906_002",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260825_175906_002_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260825_175906_003",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20260825_175906_003_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T15:58:18.863810",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_155818_000",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20260826_155818_000_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_155818_001",
+      "language": "x86_assembly",
+      "problem": "SHA-256 implementation",
+      "code_length": 323,
+      "file": "20260826_155818_001_x86_assembly_SHA-256_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_155818_002",
+      "language": "javascript",
+      "problem": "producer-consumer pattern",
+      "code_length": 245,
+      "file": "20260826_155818_002_javascript_producer-consumer_pattern.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_155818_003",
+      "language": "c",
+      "problem": "Log analyzer",
+      "code_length": 234,
+      "file": "20260826_155818_003_c_Log_analyzer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

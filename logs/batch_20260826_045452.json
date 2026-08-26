@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T04:54:52.813717",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_045452_000",
+      "language": "go",
+      "problem": "Image resizer",
+      "code_length": 195,
+      "file": "20260826_045452_000_go_Image_resizer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_045452_001",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260826_045452_001_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_045452_002",
+      "language": "go",
+      "problem": "CRUD REST API",
+      "code_length": 195,
+      "file": "20260826_045452_002_go_CRUD_REST_API.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_045452_003",
+      "language": "x86_assembly",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 327,
+      "file": "20260826_045452_003_x86_assembly_A*_pathfinding_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

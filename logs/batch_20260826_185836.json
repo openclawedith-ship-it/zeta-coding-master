@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T18:58:36.155984",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_185836_000",
+      "language": "javascript",
+      "problem": "stack with min() in O(1)",
+      "code_length": 244,
+      "file": "20260826_185836_000_javascript_stack_with_min_in_O1.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_185836_001",
+      "language": "python",
+      "problem": "base64 encoder/decoder",
+      "code_length": 297,
+      "file": "20260826_185836_001_python_base64_encoder_decoder.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_185836_002",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260826_185836_002_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_185836_003",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20260826_185836_003_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

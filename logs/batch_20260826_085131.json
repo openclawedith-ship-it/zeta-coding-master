@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T08:51:31.568884",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_085131_000",
+      "language": "go",
+      "problem": "Log analyzer",
+      "code_length": 194,
+      "file": "20260826_085131_000_go_Log_analyzer.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_085131_001",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260826_085131_001_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_085131_002",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260826_085131_002_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_085131_003",
+      "language": "x86_assembly",
+      "problem": "dijkstra shortest path",
+      "code_length": 323,
+      "file": "20260826_085131_003_x86_assembly_dijkstra_shortest_path.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

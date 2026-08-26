@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T11:44:05.521845",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_114405_000",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260826_114405_000_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_114405_001",
+      "language": "x86_assembly",
+      "problem": "markdown to HTML converter",
+      "code_length": 331,
+      "file": "20260826_114405_001_x86_assembly_markdown_to_HTML_converter.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_114405_002",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260826_114405_002_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_114405_003",
+      "language": "javascript",
+      "problem": "Redis clone",
+      "code_length": 231,
+      "file": "20260826_114405_003_javascript_Redis_clone.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

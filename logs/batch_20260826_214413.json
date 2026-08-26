@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T21:44:13.411866",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_214413_000",
+      "language": "c",
+      "problem": "LRU cache implementation",
+      "code_length": 246,
+      "file": "20260826_214413_000_c_LRU_cache_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_214413_001",
+      "language": "go",
+      "problem": "matrix chain multiplication",
+      "code_length": 209,
+      "file": "20260826_214413_001_go_matrix_chain_multiplication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_214413_002",
+      "language": "x86_assembly",
+      "problem": "dijkstra shortest path",
+      "code_length": 323,
+      "file": "20260826_214413_002_x86_assembly_dijkstra_shortest_path.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_214413_003",
+      "language": "rust",
+      "problem": "Syntax highlighter",
+      "code_length": 214,
+      "file": "20260826_214413_003_rust_Syntax_highlighter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

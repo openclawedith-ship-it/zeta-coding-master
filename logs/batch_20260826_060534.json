@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T06:05:34.920178",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_060534_000",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260826_060534_000_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_060534_001",
+      "language": "c",
+      "problem": "HTTP server from scratch",
+      "code_length": 246,
+      "file": "20260826_060534_001_c_HTTP_server_from_scratch.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_060534_002",
+      "language": "go",
+      "problem": "coin change problem",
+      "code_length": 201,
+      "file": "20260826_060534_002_go_coin_change_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_060534_003",
+      "language": "go",
+      "problem": "gzip compression",
+      "code_length": 198,
+      "file": "20260826_060534_003_go_gzip_compression.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

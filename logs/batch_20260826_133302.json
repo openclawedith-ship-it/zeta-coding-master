@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-26T13:33:02.450394",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260826_133302_000",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20260826_133302_000_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_133302_001",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20260826_133302_001_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_133302_002",
+      "language": "rust",
+      "problem": "edit distance algorithm",
+      "code_length": 219,
+      "file": "20260826_133302_002_rust_edit_distance_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260826_133302_003",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20260826_133302_003_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

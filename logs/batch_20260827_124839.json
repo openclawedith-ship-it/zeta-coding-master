@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-27T12:48:39.059166",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260827_124839_000",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20260827_124839_000_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260827_124839_001",
+      "language": "x86_assembly",
+      "problem": "PDF generator",
+      "code_length": 305,
+      "file": "20260827_124839_001_x86_assembly_PDF_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260827_124839_002",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260827_124839_002_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260827_124839_003",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20260827_124839_003_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

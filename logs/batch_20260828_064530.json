@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-28T06:45:30.647751",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260828_064530_000",
+      "language": "rust",
+      "problem": "Image resizer",
+      "code_length": 209,
+      "file": "20260828_064530_000_rust_Image_resizer.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260828_064530_001",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260828_064530_001_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260828_064530_002",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260828_064530_002_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260828_064530_003",
+      "language": "rust",
+      "problem": "Email validator",
+      "code_length": 211,
+      "file": "20260828_064530_003_rust_Email_validator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

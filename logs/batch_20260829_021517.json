@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-29T02:15:17.926442",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260829_021517_000",
+      "language": "c",
+      "problem": "JSON parser",
+      "code_length": 233,
+      "file": "20260829_021517_000_c_JSON_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260829_021517_001",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20260829_021517_001_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260829_021517_002",
+      "language": "javascript",
+      "problem": "Config file reader",
+      "code_length": 238,
+      "file": "20260829_021517_002_javascript_Config_file_reader.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260829_021517_003",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260829_021517_003_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-08-30T15:24:50.308935",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260830_152450_000",
+      "language": "go",
+      "problem": "queue using two stacks",
+      "code_length": 204,
+      "file": "20260830_152450_000_go_queue_using_two_stacks.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260830_152450_001",
+      "language": "javascript",
+      "problem": "binary search algorithm",
+      "code_length": 243,
+      "file": "20260830_152450_001_javascript_binary_search_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260830_152450_002",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20260830_152450_002_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260830_152450_003",
+      "language": "c",
+      "problem": "RSA key generation",
+      "code_length": 240,
+      "file": "20260830_152450_003_c_RSA_key_generation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

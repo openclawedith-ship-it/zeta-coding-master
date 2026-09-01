@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-01T16:39:31.696218",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260901_163931_000",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260901_163931_000_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260901_163931_001",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20260901_163931_001_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260901_163931_002",
+      "language": "c",
+      "problem": "binary search algorithm",
+      "code_length": 245,
+      "file": "20260901_163931_002_c_binary_search_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260901_163931_003",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20260901_163931_003_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

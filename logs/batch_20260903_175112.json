@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-03T17:51:12.652509",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260903_175112_000",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260903_175112_000_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260903_175112_001",
+      "language": "python",
+      "problem": "Email validator",
+      "code_length": 290,
+      "file": "20260903_175112_001_python_Email_validator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260903_175112_002",
+      "language": "go",
+      "problem": "JWT authentication",
+      "code_length": 200,
+      "file": "20260903_175112_002_go_JWT_authentication.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260903_175112_003",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260903_175112_003_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

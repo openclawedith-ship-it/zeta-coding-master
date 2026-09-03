@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-03T09:49:03.563436",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260903_094903_000",
+      "language": "go",
+      "problem": "hashmap with collision handling",
+      "code_length": 213,
+      "file": "20260903_094903_000_go_hashmap_with_collision_handlin.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260903_094903_001",
+      "language": "x86_assembly",
+      "problem": "linked list with insert/delete",
+      "code_length": 339,
+      "file": "20260903_094903_001_x86_assembly_linked_list_with_insert_delete.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260903_094903_002",
+      "language": "c",
+      "problem": "Diff algorithm",
+      "code_length": 236,
+      "file": "20260903_094903_002_c_Diff_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260903_094903_003",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260903_094903_003_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

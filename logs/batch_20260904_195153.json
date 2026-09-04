@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-04T19:51:53.243889",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260904_195153_000",
+      "language": "rust",
+      "problem": "gzip compression",
+      "code_length": 212,
+      "file": "20260904_195153_000_rust_gzip_compression.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260904_195153_001",
+      "language": "go",
+      "problem": "Redis clone",
+      "code_length": 193,
+      "file": "20260904_195153_001_go_Redis_clone.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260904_195153_002",
+      "language": "javascript",
+      "problem": "RSA key generation",
+      "code_length": 238,
+      "file": "20260904_195153_002_javascript_RSA_key_generation.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260904_195153_003",
+      "language": "rust",
+      "problem": "DNS resolver",
+      "code_length": 208,
+      "file": "20260904_195153_003_rust_DNS_resolver.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-05T19:14:34.445625",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260905_191434_000",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20260905_191434_000_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260905_191434_001",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260905_191434_001_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260905_191434_002",
+      "language": "javascript",
+      "problem": "DNS resolver",
+      "code_length": 232,
+      "file": "20260905_191434_002_javascript_DNS_resolver.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260905_191434_003",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260905_191434_003_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

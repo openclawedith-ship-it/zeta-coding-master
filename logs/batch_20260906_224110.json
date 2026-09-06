@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-06T22:41:10.518242",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260906_224110_000",
+      "language": "python",
+      "problem": "coin change problem",
+      "code_length": 294,
+      "file": "20260906_224110_000_python_coin_change_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260906_224110_001",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20260906_224110_001_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260906_224110_002",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260906_224110_002_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260906_224110_003",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260906_224110_003_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

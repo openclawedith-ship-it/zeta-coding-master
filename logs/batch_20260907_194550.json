@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-07T19:45:50.082979",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260907_194550_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20260907_194550_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260907_194550_001",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260907_194550_001_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260907_194550_002",
+      "language": "rust",
+      "problem": "CSV parser",
+      "code_length": 206,
+      "file": "20260907_194550_002_rust_CSV_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260907_194550_003",
+      "language": "c",
+      "problem": "Config file reader",
+      "code_length": 240,
+      "file": "20260907_194550_003_c_Config_file_reader.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

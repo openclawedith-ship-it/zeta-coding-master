@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-09T21:12:01.547021",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260909_211201_000",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260909_211201_000_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260909_211201_001",
+      "language": "javascript",
+      "problem": "linked list with insert/delete",
+      "code_length": 250,
+      "file": "20260909_211201_001_javascript_linked_list_with_insert_delete.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260909_211201_002",
+      "language": "rust",
+      "problem": "JWT authentication",
+      "code_length": 214,
+      "file": "20260909_211201_002_rust_JWT_authentication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260909_211201_003",
+      "language": "python",
+      "problem": "UUID generator",
+      "code_length": 289,
+      "file": "20260909_211201_003_python_UUID_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

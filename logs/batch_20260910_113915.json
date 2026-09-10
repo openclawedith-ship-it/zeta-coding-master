@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-10T11:39:15.193934",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260910_113915_000",
+      "language": "go",
+      "problem": "rate limiter implementation",
+      "code_length": 209,
+      "file": "20260910_113915_000_go_rate_limiter_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_113915_001",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260910_113915_001_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_113915_002",
+      "language": "c",
+      "problem": "edit distance algorithm",
+      "code_length": 245,
+      "file": "20260910_113915_002_c_edit_distance_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_113915_003",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260910_113915_003_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

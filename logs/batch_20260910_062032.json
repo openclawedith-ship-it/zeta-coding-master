@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-10T06:20:32.535347",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260910_062032_000",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20260910_062032_000_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_062032_001",
+      "language": "python",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 304,
+      "file": "20260910_062032_001_python_dynamic_programming_fibonacci.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_062032_002",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260910_062032_002_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_062032_003",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20260910_062032_003_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

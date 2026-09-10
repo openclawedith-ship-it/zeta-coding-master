@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-10T21:05:54.851695",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260910_210554_000",
+      "language": "c",
+      "problem": "QR code generator",
+      "code_length": 239,
+      "file": "20260910_210554_000_c_QR_code_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_210554_001",
+      "language": "x86_assembly",
+      "problem": "Redis clone",
+      "code_length": 301,
+      "file": "20260910_210554_001_x86_assembly_Redis_clone.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_210554_002",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260910_210554_002_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260910_210554_003",
+      "language": "rust",
+      "problem": "QR code generator",
+      "code_length": 213,
+      "file": "20260910_210554_003_rust_QR_code_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

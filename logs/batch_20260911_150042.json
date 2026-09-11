@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-11T15:00:42.382053",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260911_150042_000",
+      "language": "python",
+      "problem": "matrix chain multiplication",
+      "code_length": 302,
+      "file": "20260911_150042_000_python_matrix_chain_multiplication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260911_150042_001",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20260911_150042_001_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260911_150042_002",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260911_150042_002_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260911_150042_003",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20260911_150042_003_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

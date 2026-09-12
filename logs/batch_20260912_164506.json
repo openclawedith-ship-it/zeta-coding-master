@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-12T16:45:06.283902",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260912_164506_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260912_164506_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260912_164506_001",
+      "language": "go",
+      "problem": "Email validator",
+      "code_length": 197,
+      "file": "20260912_164506_001_go_Email_validator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260912_164506_002",
+      "language": "javascript",
+      "problem": "CRUD REST API",
+      "code_length": 233,
+      "file": "20260912_164506_002_javascript_CRUD_REST_API.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260912_164506_003",
+      "language": "javascript",
+      "problem": "coin change problem",
+      "code_length": 239,
+      "file": "20260912_164506_003_javascript_coin_change_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

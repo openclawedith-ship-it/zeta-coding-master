@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-12T13:46:30.522056",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260912_134630_000",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20260912_134630_000_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260912_134630_001",
+      "language": "x86_assembly",
+      "problem": "merge sort algorithm",
+      "code_length": 319,
+      "file": "20260912_134630_001_x86_assembly_merge_sort_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260912_134630_002",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20260912_134630_002_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260912_134630_003",
+      "language": "javascript",
+      "problem": "JSON parser",
+      "code_length": 231,
+      "file": "20260912_134630_003_javascript_JSON_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

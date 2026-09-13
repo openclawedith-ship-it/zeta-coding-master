@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-13T17:54:47.503738",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260913_175447_000",
+      "language": "c",
+      "problem": "topological sort",
+      "code_length": 238,
+      "file": "20260913_175447_000_c_topological_sort.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260913_175447_001",
+      "language": "javascript",
+      "problem": "Log analyzer",
+      "code_length": 232,
+      "file": "20260913_175447_001_javascript_Log_analyzer.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260913_175447_002",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260913_175447_002_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260913_175447_003",
+      "language": "c",
+      "problem": "PDF generator",
+      "code_length": 235,
+      "file": "20260913_175447_003_c_PDF_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

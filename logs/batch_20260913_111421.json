@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-13T11:14:21.186538",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260913_111421_000",
+      "language": "c",
+      "problem": "WebSocket chat",
+      "code_length": 236,
+      "file": "20260913_111421_000_c_WebSocket_chat.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260913_111421_001",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260913_111421_001_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260913_111421_002",
+      "language": "rust",
+      "problem": "longest common subsequence",
+      "code_length": 222,
+      "file": "20260913_111421_002_rust_longest_common_subsequence.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260913_111421_003",
+      "language": "rust",
+      "problem": "Diff algorithm",
+      "code_length": 210,
+      "file": "20260913_111421_003_rust_Diff_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-15T12:40:45.535804",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260915_124045_000",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20260915_124045_000_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260915_124045_001",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20260915_124045_001_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260915_124045_002",
+      "language": "javascript",
+      "problem": "CSV parser",
+      "code_length": 230,
+      "file": "20260915_124045_002_javascript_CSV_parser.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260915_124045_003",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20260915_124045_003_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

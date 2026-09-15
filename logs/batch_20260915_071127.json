@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-15T07:11:27.724333",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260915_071127_000",
+      "language": "rust",
+      "problem": "producer-consumer pattern",
+      "code_length": 221,
+      "file": "20260915_071127_000_rust_producer-consumer_pattern.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260915_071127_001",
+      "language": "x86_assembly",
+      "problem": "LRU cache implementation",
+      "code_length": 327,
+      "file": "20260915_071127_001_x86_assembly_LRU_cache_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260915_071127_002",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260915_071127_002_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260915_071127_003",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20260915_071127_003_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

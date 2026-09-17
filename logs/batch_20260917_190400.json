@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-17T19:04:00.885307",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260917_190400_000",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260917_190400_000_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260917_190400_001",
+      "language": "python",
+      "problem": "URL shortener backend",
+      "code_length": 296,
+      "file": "20260917_190400_001_python_URL_shortener_backend.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260917_190400_002",
+      "language": "x86_assembly",
+      "problem": "Image resizer",
+      "code_length": 305,
+      "file": "20260917_190400_002_x86_assembly_Image_resizer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260917_190400_003",
+      "language": "python",
+      "problem": "CSV parser",
+      "code_length": 285,
+      "file": "20260917_190400_003_python_CSV_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

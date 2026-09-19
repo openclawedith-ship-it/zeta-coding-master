@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-19T09:12:34.180673",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260919_091234_000",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20260919_091234_000_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260919_091234_001",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260919_091234_001_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260919_091234_002",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20260919_091234_002_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260919_091234_003",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260919_091234_003_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

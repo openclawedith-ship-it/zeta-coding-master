@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-21T13:08:21.305844",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260921_130821_000",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260921_130821_000_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260921_130821_001",
+      "language": "x86_assembly",
+      "problem": "HTTP server from scratch",
+      "code_length": 327,
+      "file": "20260921_130821_001_x86_assembly_HTTP_server_from_scratch.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260921_130821_002",
+      "language": "c",
+      "problem": "dijkstra shortest path",
+      "code_length": 244,
+      "file": "20260921_130821_002_c_dijkstra_shortest_path.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260921_130821_003",
+      "language": "x86_assembly",
+      "problem": "DNS resolver",
+      "code_length": 303,
+      "file": "20260921_130821_003_x86_assembly_DNS_resolver.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

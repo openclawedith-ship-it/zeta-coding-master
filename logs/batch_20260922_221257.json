@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-22T22:12:57.141859",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260922_221257_000",
+      "language": "x86_assembly",
+      "problem": "Image resizer",
+      "code_length": 305,
+      "file": "20260922_221257_000_x86_assembly_Image_resizer.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260922_221257_001",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20260922_221257_001_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260922_221257_002",
+      "language": "rust",
+      "problem": "Email validator",
+      "code_length": 211,
+      "file": "20260922_221257_002_rust_Email_validator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260922_221257_003",
+      "language": "rust",
+      "problem": "SHA-256 implementation",
+      "code_length": 218,
+      "file": "20260922_221257_003_rust_SHA-256_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

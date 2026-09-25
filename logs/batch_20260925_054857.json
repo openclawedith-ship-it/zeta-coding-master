@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-25T05:48:57.813534",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260925_054857_000",
+      "language": "go",
+      "problem": "file encryption tool",
+      "code_length": 202,
+      "file": "20260925_054857_000_go_file_encryption_tool.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_054857_001",
+      "language": "go",
+      "problem": "Cron expression parser",
+      "code_length": 204,
+      "file": "20260925_054857_001_go_Cron_expression_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_054857_002",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20260925_054857_002_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_054857_003",
+      "language": "rust",
+      "problem": "Redis clone",
+      "code_length": 207,
+      "file": "20260925_054857_003_rust_Redis_clone.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

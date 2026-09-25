@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-25T00:51:05.113105",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260925_005105_000",
+      "language": "python",
+      "problem": "UUID generator",
+      "code_length": 289,
+      "file": "20260925_005105_000_python_UUID_generator.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_005105_001",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20260925_005105_001_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_005105_002",
+      "language": "rust",
+      "problem": "knapsack problem",
+      "code_length": 212,
+      "file": "20260925_005105_002_rust_knapsack_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_005105_003",
+      "language": "python",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 306,
+      "file": "20260925_005105_003_python_binary_tree_traversal_BFS_DFS.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

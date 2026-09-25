@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-25T23:04:38.558018",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260925_230438_000",
+      "language": "rust",
+      "problem": "LRU cache implementation",
+      "code_length": 220,
+      "file": "20260925_230438_000_rust_LRU_cache_implementation.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_230438_001",
+      "language": "go",
+      "problem": "HTTP server from scratch",
+      "code_length": 206,
+      "file": "20260925_230438_001_go_HTTP_server_from_scratch.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_230438_002",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20260925_230438_002_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_230438_003",
+      "language": "rust",
+      "problem": "Task scheduler",
+      "code_length": 210,
+      "file": "20260925_230438_003_rust_Task_scheduler.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

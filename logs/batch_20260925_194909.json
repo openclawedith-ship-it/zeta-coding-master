@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-25T19:49:09.854134",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260925_194909_000",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20260925_194909_000_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_194909_001",
+      "language": "go",
+      "problem": "Password strength checker",
+      "code_length": 207,
+      "file": "20260925_194909_001_go_Password_strength_checker.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_194909_002",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20260925_194909_002_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260925_194909_003",
+      "language": "c",
+      "problem": "2FA TOTP generator",
+      "code_length": 240,
+      "file": "20260925_194909_003_c_2FA_TOTP_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

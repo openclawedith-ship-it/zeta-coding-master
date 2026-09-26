@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-26T21:55:51.057475",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260926_215551_000",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20260926_215551_000_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260926_215551_001",
+      "language": "go",
+      "problem": "Template engine",
+      "code_length": 197,
+      "file": "20260926_215551_001_go_Template_engine.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260926_215551_002",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20260926_215551_002_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260926_215551_003",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20260926_215551_003_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

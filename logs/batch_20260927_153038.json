@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-27T15:30:38.069165",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260927_153038_000",
+      "language": "c",
+      "problem": "base64 encoder/decoder",
+      "code_length": 244,
+      "file": "20260927_153038_000_c_base64_encoder_decoder.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260927_153038_001",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20260927_153038_001_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260927_153038_002",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20260927_153038_002_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260927_153038_003",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20260927_153038_003_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-09-29T22:49:43.606843",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20260929_224943_000",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20260929_224943_000_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260929_224943_001",
+      "language": "c",
+      "problem": "merge sort algorithm",
+      "code_length": 242,
+      "file": "20260929_224943_001_c_merge_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260929_224943_002",
+      "language": "x86_assembly",
+      "problem": "gzip compression",
+      "code_length": 311,
+      "file": "20260929_224943_002_x86_assembly_gzip_compression.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20260929_224943_003",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20260929_224943_003_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-01T09:15:17.879837",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261001_091517_000",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20261001_091517_000_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261001_091517_001",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20261001_091517_001_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261001_091517_002",
+      "language": "c",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 251,
+      "file": "20261001_091517_002_c_kruskal_minimum_spanning_tree.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261001_091517_003",
+      "language": "rust",
+      "problem": "dijkstra shortest path",
+      "code_length": 218,
+      "file": "20261001_091517_003_rust_dijkstra_shortest_path.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

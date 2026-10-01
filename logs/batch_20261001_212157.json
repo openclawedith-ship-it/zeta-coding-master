@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-01T21:21:57.349182",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261001_212157_000",
+      "language": "rust",
+      "problem": "TCP port scanner",
+      "code_length": 212,
+      "file": "20261001_212157_000_rust_TCP_port_scanner.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261001_212157_001",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20261001_212157_001_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261001_212157_002",
+      "language": "x86_assembly",
+      "problem": "Template engine",
+      "code_length": 309,
+      "file": "20261001_212157_002_x86_assembly_Template_engine.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261001_212157_003",
+      "language": "javascript",
+      "problem": "hashmap with collision handling",
+      "code_length": 251,
+      "file": "20261001_212157_003_javascript_hashmap_with_collision_handlin.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

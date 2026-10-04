@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-04T23:49:17.166040",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261004_234917_000",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20261004_234917_000_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261004_234917_001",
+      "language": "rust",
+      "problem": "HTTP server from scratch",
+      "code_length": 220,
+      "file": "20261004_234917_001_rust_HTTP_server_from_scratch.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261004_234917_002",
+      "language": "x86_assembly",
+      "problem": "topological sort",
+      "code_length": 311,
+      "file": "20261004_234917_002_x86_assembly_topological_sort.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261004_234917_003",
+      "language": "rust",
+      "problem": "CRUD REST API",
+      "code_length": 209,
+      "file": "20261004_234917_003_rust_CRUD_REST_API.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

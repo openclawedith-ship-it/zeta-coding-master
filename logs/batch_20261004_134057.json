@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-04T13:40:57.876116",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261004_134057_000",
+      "language": "go",
+      "problem": "JSON parser",
+      "code_length": 193,
+      "file": "20261004_134057_000_go_JSON_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261004_134057_001",
+      "language": "x86_assembly",
+      "problem": "WebSocket chat",
+      "code_length": 307,
+      "file": "20261004_134057_001_x86_assembly_WebSocket_chat.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261004_134057_002",
+      "language": "python",
+      "problem": "HTTP server from scratch",
+      "code_length": 299,
+      "file": "20261004_134057_002_python_HTTP_server_from_scratch.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261004_134057_003",
+      "language": "javascript",
+      "problem": "Diff algorithm",
+      "code_length": 234,
+      "file": "20261004_134057_003_javascript_Diff_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

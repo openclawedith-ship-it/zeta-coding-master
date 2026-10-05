@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-05T19:47:14.778664",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261005_194714_000",
+      "language": "x86_assembly",
+      "problem": "RSA key generation",
+      "code_length": 315,
+      "file": "20261005_194714_000_x86_assembly_RSA_key_generation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261005_194714_001",
+      "language": "c",
+      "problem": "regex engine basics",
+      "code_length": 241,
+      "file": "20261005_194714_001_c_regex_engine_basics.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261005_194714_002",
+      "language": "x86_assembly",
+      "problem": "coin change problem",
+      "code_length": 317,
+      "file": "20261005_194714_002_x86_assembly_coin_change_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261005_194714_003",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20261005_194714_003_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

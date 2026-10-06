@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-06T19:41:22.519084",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261006_194122_000",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20261006_194122_000_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261006_194122_001",
+      "language": "javascript",
+      "problem": "knapsack problem",
+      "code_length": 236,
+      "file": "20261006_194122_001_javascript_knapsack_problem.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261006_194122_002",
+      "language": "c",
+      "problem": "matrix chain multiplication",
+      "code_length": 249,
+      "file": "20261006_194122_002_c_matrix_chain_multiplication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261006_194122_003",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20261006_194122_003_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

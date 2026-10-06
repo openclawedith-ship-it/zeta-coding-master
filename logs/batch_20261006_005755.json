@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-06T00:57:55.267693",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261006_005755_000",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20261006_005755_000_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261006_005755_001",
+      "language": "c",
+      "problem": "chat server (websocket)",
+      "code_length": 245,
+      "file": "20261006_005755_001_c_chat_server_websocket.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261006_005755_002",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20261006_005755_002_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261006_005755_003",
+      "language": "python",
+      "problem": "trie data structure",
+      "code_length": 294,
+      "file": "20261006_005755_003_python_trie_data_structure.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-10T09:24:29.061076",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261010_092429_000",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20261010_092429_000_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261010_092429_001",
+      "language": "c",
+      "problem": "two sum problem",
+      "code_length": 237,
+      "file": "20261010_092429_001_c_two_sum_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261010_092429_002",
+      "language": "rust",
+      "problem": "binary search algorithm",
+      "code_length": 219,
+      "file": "20261010_092429_002_rust_binary_search_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261010_092429_003",
+      "language": "rust",
+      "problem": "regex engine basics",
+      "code_length": 215,
+      "file": "20261010_092429_003_rust_regex_engine_basics.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

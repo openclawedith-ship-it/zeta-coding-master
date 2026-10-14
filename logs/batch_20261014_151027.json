@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-14T15:10:27.914515",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261014_151027_000",
+      "language": "python",
+      "problem": "CRUD REST API",
+      "code_length": 288,
+      "file": "20261014_151027_000_python_CRUD_REST_API.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261014_151027_001",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20261014_151027_001_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261014_151027_002",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20261014_151027_002_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261014_151027_003",
+      "language": "rust",
+      "problem": "matrix chain multiplication",
+      "code_length": 223,
+      "file": "20261014_151027_003_rust_matrix_chain_multiplication.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

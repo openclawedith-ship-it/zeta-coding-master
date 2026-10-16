@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-16T14:31:25.390013",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261016_143125_000",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20261016_143125_000_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261016_143125_001",
+      "language": "go",
+      "problem": "SHA-256 implementation",
+      "code_length": 204,
+      "file": "20261016_143125_001_go_SHA-256_implementation.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261016_143125_002",
+      "language": "rust",
+      "problem": "Syntax highlighter",
+      "code_length": 214,
+      "file": "20261016_143125_002_rust_Syntax_highlighter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261016_143125_003",
+      "language": "go",
+      "problem": "queue using two stacks",
+      "code_length": 204,
+      "file": "20261016_143125_003_go_queue_using_two_stacks.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

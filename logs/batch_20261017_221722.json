@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-17T22:17:22.315635",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261017_221722_000",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20261017_221722_000_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261017_221722_001",
+      "language": "c",
+      "problem": "quicksort implementation",
+      "code_length": 246,
+      "file": "20261017_221722_001_c_quicksort_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261017_221722_002",
+      "language": "c",
+      "problem": "LRU cache implementation",
+      "code_length": 246,
+      "file": "20261017_221722_002_c_LRU_cache_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261017_221722_003",
+      "language": "javascript",
+      "problem": "A* pathfinding algorithm",
+      "code_length": 244,
+      "file": "20261017_221722_003_javascript_A*_pathfinding_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

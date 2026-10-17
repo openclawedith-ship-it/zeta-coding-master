@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-17T17:53:13.330012",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261017_175313_000",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20261017_175313_000_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261017_175313_001",
+      "language": "python",
+      "problem": "Template engine",
+      "code_length": 290,
+      "file": "20261017_175313_001_python_Template_engine.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261017_175313_002",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20261017_175313_002_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261017_175313_003",
+      "language": "python",
+      "problem": "topological sort",
+      "code_length": 291,
+      "file": "20261017_175313_003_python_topological_sort.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

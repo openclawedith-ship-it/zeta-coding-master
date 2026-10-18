@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-18T18:57:05.739056",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261018_185705_000",
+      "language": "go",
+      "problem": "linked list with insert/delete",
+      "code_length": 212,
+      "file": "20261018_185705_000_go_linked_list_with_insert_delete.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261018_185705_001",
+      "language": "rust",
+      "problem": "JSON parser",
+      "code_length": 207,
+      "file": "20261018_185705_001_rust_JSON_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261018_185705_002",
+      "language": "x86_assembly",
+      "problem": "matrix chain multiplication",
+      "code_length": 333,
+      "file": "20261018_185705_002_x86_assembly_matrix_chain_multiplication.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261018_185705_003",
+      "language": "python",
+      "problem": "Task scheduler",
+      "code_length": 289,
+      "file": "20261018_185705_003_python_Task_scheduler.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

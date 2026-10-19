@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-19T06:50:54.768842",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261019_065054_000",
+      "language": "x86_assembly",
+      "problem": "LRU cache implementation",
+      "code_length": 327,
+      "file": "20261019_065054_000_x86_assembly_LRU_cache_implementation.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261019_065054_001",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20261019_065054_001_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261019_065054_002",
+      "language": "rust",
+      "problem": "trie data structure",
+      "code_length": 215,
+      "file": "20261019_065054_002_rust_trie_data_structure.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261019_065054_003",
+      "language": "go",
+      "problem": "chat server (websocket)",
+      "code_length": 205,
+      "file": "20261019_065054_003_go_chat_server_websocket.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

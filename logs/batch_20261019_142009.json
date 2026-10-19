@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-19T14:20:09.544172",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261019_142009_000",
+      "language": "go",
+      "problem": "binary search algorithm",
+      "code_length": 205,
+      "file": "20261019_142009_000_go_binary_search_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261019_142009_001",
+      "language": "rust",
+      "problem": "PDF generator",
+      "code_length": 209,
+      "file": "20261019_142009_001_rust_PDF_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261019_142009_002",
+      "language": "rust",
+      "problem": "topological sort",
+      "code_length": 212,
+      "file": "20261019_142009_002_rust_topological_sort.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261019_142009_003",
+      "language": "c",
+      "problem": "longest common subsequence",
+      "code_length": 248,
+      "file": "20261019_142009_003_c_longest_common_subsequence.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

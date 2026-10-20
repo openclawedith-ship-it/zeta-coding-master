@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-20T23:56:21.431674",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261020_235621_000",
+      "language": "go",
+      "problem": "trie data structure",
+      "code_length": 201,
+      "file": "20261020_235621_000_go_trie_data_structure.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261020_235621_001",
+      "language": "javascript",
+      "problem": "gzip compression",
+      "code_length": 236,
+      "file": "20261020_235621_001_javascript_gzip_compression.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261020_235621_002",
+      "language": "go",
+      "problem": "WebSocket chat",
+      "code_length": 196,
+      "file": "20261020_235621_002_go_WebSocket_chat.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261020_235621_003",
+      "language": "rust",
+      "problem": "QR code generator",
+      "code_length": 213,
+      "file": "20261020_235621_003_rust_QR_code_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

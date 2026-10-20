@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-20T21:14:54.867656",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261020_211454_000",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20261020_211454_000_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261020_211454_001",
+      "language": "javascript",
+      "problem": "heap sort algorithm",
+      "code_length": 239,
+      "file": "20261020_211454_001_javascript_heap_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261020_211454_002",
+      "language": "x86_assembly",
+      "problem": "gzip compression",
+      "code_length": 311,
+      "file": "20261020_211454_002_x86_assembly_gzip_compression.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261020_211454_003",
+      "language": "c",
+      "problem": "JWT authentication",
+      "code_length": 240,
+      "file": "20261020_211454_003_c_JWT_authentication.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

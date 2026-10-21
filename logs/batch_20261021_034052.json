@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-21T03:40:52.515155",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261021_034052_000",
+      "language": "python",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 304,
+      "file": "20261021_034052_000_python_dynamic_programming_fibonacci.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_034052_001",
+      "language": "x86_assembly",
+      "problem": "chat server (websocket)",
+      "code_length": 325,
+      "file": "20261021_034052_001_x86_assembly_chat_server_websocket.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_034052_002",
+      "language": "go",
+      "problem": "regex engine basics",
+      "code_length": 201,
+      "file": "20261021_034052_002_go_regex_engine_basics.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_034052_003",
+      "language": "rust",
+      "problem": "Config file reader",
+      "code_length": 214,
+      "file": "20261021_034052_003_rust_Config_file_reader.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

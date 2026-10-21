@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-21T14:20:25.488732",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261021_142025_000",
+      "language": "python",
+      "problem": "bellman-ford algorithm",
+      "code_length": 297,
+      "file": "20261021_142025_000_python_bellman-ford_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_142025_001",
+      "language": "x86_assembly",
+      "problem": "CSV parser",
+      "code_length": 299,
+      "file": "20261021_142025_001_x86_assembly_CSV_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_142025_002",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20261021_142025_002_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_142025_003",
+      "language": "c",
+      "problem": "Code formatter",
+      "code_length": 236,
+      "file": "20261021_142025_003_c_Code_formatter.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-21T08:52:53.817145",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261021_085253_000",
+      "language": "go",
+      "problem": "Config file reader",
+      "code_length": 200,
+      "file": "20261021_085253_000_go_Config_file_reader.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_085253_001",
+      "language": "python",
+      "problem": "matrix chain multiplication",
+      "code_length": 302,
+      "file": "20261021_085253_001_python_matrix_chain_multiplication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_085253_002",
+      "language": "rust",
+      "problem": "bellman-ford algorithm",
+      "code_length": 218,
+      "file": "20261021_085253_002_rust_bellman-ford_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261021_085253_003",
+      "language": "python",
+      "problem": "dijkstra shortest path",
+      "code_length": 297,
+      "file": "20261021_085253_003_python_dijkstra_shortest_path.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

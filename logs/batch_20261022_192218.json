@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-22T19:22:18.350564",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261022_192218_000",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20261022_192218_000_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261022_192218_001",
+      "language": "go",
+      "problem": "Diff algorithm",
+      "code_length": 196,
+      "file": "20261022_192218_001_go_Diff_algorithm.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261022_192218_002",
+      "language": "c",
+      "problem": "Image resizer",
+      "code_length": 235,
+      "file": "20261022_192218_002_c_Image_resizer.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261022_192218_003",
+      "language": "x86_assembly",
+      "problem": "edit distance algorithm",
+      "code_length": 325,
+      "file": "20261022_192218_003_x86_assembly_edit_distance_algorithm.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

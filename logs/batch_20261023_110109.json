@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-23T11:01:09.000149",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261023_110109_000",
+      "language": "javascript",
+      "problem": "Task scheduler",
+      "code_length": 234,
+      "file": "20261023_110109_000_javascript_Task_scheduler.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261023_110109_001",
+      "language": "rust",
+      "problem": "stack with min() in O(1)",
+      "code_length": 220,
+      "file": "20261023_110109_001_rust_stack_with_min_in_O1.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261023_110109_002",
+      "language": "rust",
+      "problem": "CLI argument parser",
+      "code_length": 215,
+      "file": "20261023_110109_002_rust_CLI_argument_parser.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261023_110109_003",
+      "language": "javascript",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 251,
+      "file": "20261023_110109_003_javascript_binary_tree_traversal_BFS_DFS.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

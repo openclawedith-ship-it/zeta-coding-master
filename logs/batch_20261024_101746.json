@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-24T10:17:46.713735",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261024_101746_000",
+      "language": "rust",
+      "problem": "merge sort algorithm",
+      "code_length": 216,
+      "file": "20261024_101746_000_rust_merge_sort_algorithm.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261024_101746_001",
+      "language": "go",
+      "problem": "URL shortener backend",
+      "code_length": 203,
+      "file": "20261024_101746_001_go_URL_shortener_backend.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261024_101746_002",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20261024_101746_002_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261024_101746_003",
+      "language": "go",
+      "problem": "UUID generator",
+      "code_length": 196,
+      "file": "20261024_101746_003_go_UUID_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

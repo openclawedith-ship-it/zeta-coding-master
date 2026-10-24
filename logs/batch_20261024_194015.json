@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-24T19:40:15.863657",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261024_194015_000",
+      "language": "javascript",
+      "problem": "merge sort algorithm",
+      "code_length": 240,
+      "file": "20261024_194015_000_javascript_merge_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261024_194015_001",
+      "language": "python",
+      "problem": "quicksort implementation",
+      "code_length": 299,
+      "file": "20261024_194015_001_python_quicksort_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261024_194015_002",
+      "language": "python",
+      "problem": "CLI argument parser",
+      "code_length": 294,
+      "file": "20261024_194015_002_python_CLI_argument_parser.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261024_194015_003",
+      "language": "c",
+      "problem": "graph adjacency list",
+      "code_length": 242,
+      "file": "20261024_194015_003_c_graph_adjacency_list.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

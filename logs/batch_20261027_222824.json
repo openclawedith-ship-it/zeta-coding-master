@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-27T22:28:24.007768",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261027_222824_000",
+      "language": "c",
+      "problem": "Redis clone",
+      "code_length": 233,
+      "file": "20261027_222824_000_c_Redis_clone.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261027_222824_001",
+      "language": "rust",
+      "problem": "2FA TOTP generator",
+      "code_length": 214,
+      "file": "20261027_222824_001_rust_2FA_TOTP_generator.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261027_222824_002",
+      "language": "go",
+      "problem": "gzip compression",
+      "code_length": 198,
+      "file": "20261027_222824_002_go_gzip_compression.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261027_222824_003",
+      "language": "c",
+      "problem": "coin change problem",
+      "code_length": 241,
+      "file": "20261027_222824_003_c_coin_change_problem.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

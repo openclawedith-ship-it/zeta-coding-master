@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-28T14:17:36.973925",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261028_141736_000",
+      "language": "go",
+      "problem": "topological sort",
+      "code_length": 198,
+      "file": "20261028_141736_000_go_topological_sort.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261028_141736_001",
+      "language": "python",
+      "problem": "rate limiter implementation",
+      "code_length": 302,
+      "file": "20261028_141736_001_python_rate_limiter_implementation.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261028_141736_002",
+      "language": "c",
+      "problem": "CLI argument parser",
+      "code_length": 241,
+      "file": "20261028_141736_002_c_CLI_argument_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261028_141736_003",
+      "language": "javascript",
+      "problem": "JWT authentication",
+      "code_length": 238,
+      "file": "20261028_141736_003_javascript_JWT_authentication.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

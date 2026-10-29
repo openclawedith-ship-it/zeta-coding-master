@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-29T09:20:18.197865",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261029_092018_000",
+      "language": "c",
+      "problem": "gzip compression",
+      "code_length": 238,
+      "file": "20261029_092018_000_c_gzip_compression.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261029_092018_001",
+      "language": "c",
+      "problem": "rate limiter implementation",
+      "code_length": 249,
+      "file": "20261029_092018_001_c_rate_limiter_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261029_092018_002",
+      "language": "python",
+      "problem": "Redis clone",
+      "code_length": 286,
+      "file": "20261029_092018_002_python_Redis_clone.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261029_092018_003",
+      "language": "x86_assembly",
+      "problem": "Cron expression parser",
+      "code_length": 323,
+      "file": "20261029_092018_003_x86_assembly_Cron_expression_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

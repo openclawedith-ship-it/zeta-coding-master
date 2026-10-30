@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-10-30T23:05:16.517093",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261030_230516_000",
+      "language": "rust",
+      "problem": "WebSocket chat",
+      "code_length": 210,
+      "file": "20261030_230516_000_rust_WebSocket_chat.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261030_230516_001",
+      "language": "rust",
+      "problem": "queue using two stacks",
+      "code_length": 218,
+      "file": "20261030_230516_001_rust_queue_using_two_stacks.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261030_230516_002",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20261030_230516_002_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261030_230516_003",
+      "language": "rust",
+      "problem": "kruskal minimum spanning tree",
+      "code_length": 225,
+      "file": "20261030_230516_003_rust_kruskal_minimum_spanning_tree.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

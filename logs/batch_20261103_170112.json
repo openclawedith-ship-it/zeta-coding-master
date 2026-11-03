@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-03T17:01:12.071893",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261103_170112_000",
+      "language": "c",
+      "problem": "QR code generator",
+      "code_length": 239,
+      "file": "20261103_170112_000_c_QR_code_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261103_170112_001",
+      "language": "rust",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 227,
+      "file": "20261103_170112_001_rust_binary_tree_traversal_BFS_DFS.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261103_170112_002",
+      "language": "go",
+      "problem": "CLI argument parser",
+      "code_length": 201,
+      "file": "20261103_170112_002_go_CLI_argument_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261103_170112_003",
+      "language": "go",
+      "problem": "PDF generator",
+      "code_length": 195,
+      "file": "20261103_170112_003_go_PDF_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

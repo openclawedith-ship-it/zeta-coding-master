@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-08T18:21:58.652845",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261108_182158_000",
+      "language": "x86_assembly",
+      "problem": "two sum problem",
+      "code_length": 309,
+      "file": "20261108_182158_000_x86_assembly_two_sum_problem.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261108_182158_001",
+      "language": "javascript",
+      "problem": "topological sort",
+      "code_length": 236,
+      "file": "20261108_182158_001_javascript_topological_sort.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261108_182158_002",
+      "language": "python",
+      "problem": "stack with min() in O(1)",
+      "code_length": 299,
+      "file": "20261108_182158_002_python_stack_with_min_in_O1.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261108_182158_003",
+      "language": "javascript",
+      "problem": "heap sort algorithm",
+      "code_length": 239,
+      "file": "20261108_182158_003_javascript_heap_sort_algorithm.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

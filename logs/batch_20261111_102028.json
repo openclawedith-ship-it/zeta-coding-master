@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-11T10:20:28.856173",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261111_102028_000",
+      "language": "python",
+      "problem": "matrix chain multiplication",
+      "code_length": 302,
+      "file": "20261111_102028_000_python_matrix_chain_multiplication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261111_102028_001",
+      "language": "javascript",
+      "problem": "dijkstra shortest path",
+      "code_length": 242,
+      "file": "20261111_102028_001_javascript_dijkstra_shortest_path.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261111_102028_002",
+      "language": "go",
+      "problem": "QR code generator",
+      "code_length": 199,
+      "file": "20261111_102028_002_go_QR_code_generator.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261111_102028_003",
+      "language": "go",
+      "problem": "stack with min() in O(1)",
+      "code_length": 206,
+      "file": "20261111_102028_003_go_stack_with_min_in_O1.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

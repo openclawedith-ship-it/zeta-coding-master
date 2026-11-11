@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-11T02:54:29.848268",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261111_025429_000",
+      "language": "go",
+      "problem": "CSV parser",
+      "code_length": 192,
+      "file": "20261111_025429_000_go_CSV_parser.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261111_025429_001",
+      "language": "rust",
+      "problem": "linked list with insert/delete",
+      "code_length": 226,
+      "file": "20261111_025429_001_rust_linked_list_with_insert_delete.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261111_025429_002",
+      "language": "python",
+      "problem": "JWT authentication",
+      "code_length": 293,
+      "file": "20261111_025429_002_python_JWT_authentication.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261111_025429_003",
+      "language": "python",
+      "problem": "chat server (websocket)",
+      "code_length": 298,
+      "file": "20261111_025429_003_python_chat_server_websocket.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

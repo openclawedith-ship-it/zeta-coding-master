@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-12T07:35:05.511007",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261112_073505_000",
+      "language": "go",
+      "problem": "knapsack problem",
+      "code_length": 198,
+      "file": "20261112_073505_000_go_knapsack_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261112_073505_001",
+      "language": "python",
+      "problem": "dijkstra shortest path",
+      "code_length": 297,
+      "file": "20261112_073505_001_python_dijkstra_shortest_path.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261112_073505_002",
+      "language": "go",
+      "problem": "dynamic programming fibonacci",
+      "code_length": 211,
+      "file": "20261112_073505_002_go_dynamic_programming_fibonacci.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261112_073505_003",
+      "language": "javascript",
+      "problem": "graph adjacency list",
+      "code_length": 240,
+      "file": "20261112_073505_003_javascript_graph_adjacency_list.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

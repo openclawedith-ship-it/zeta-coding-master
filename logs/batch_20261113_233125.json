@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-13T23:31:25.485370",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261113_233125_000",
+      "language": "x86_assembly",
+      "problem": "CLI argument parser",
+      "code_length": 317,
+      "file": "20261113_233125_000_x86_assembly_CLI_argument_parser.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261113_233125_001",
+      "language": "javascript",
+      "problem": "URL shortener backend",
+      "code_length": 241,
+      "file": "20261113_233125_001_javascript_URL_shortener_backend.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261113_233125_002",
+      "language": "go",
+      "problem": "longest common subsequence",
+      "code_length": 208,
+      "file": "20261113_233125_002_go_longest_common_subsequence.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261113_233125_003",
+      "language": "x86_assembly",
+      "problem": "linked list with insert/delete",
+      "code_length": 339,
+      "file": "20261113_233125_003_x86_assembly_linked_list_with_insert_delete.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-20T10:30:47.389600",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261120_103047_000",
+      "language": "c",
+      "problem": "heap sort algorithm",
+      "code_length": 241,
+      "file": "20261120_103047_000_c_heap_sort_algorithm.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261120_103047_001",
+      "language": "c",
+      "problem": "CSV parser",
+      "code_length": 232,
+      "file": "20261120_103047_001_c_CSV_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261120_103047_002",
+      "language": "c",
+      "problem": "Cron expression parser",
+      "code_length": 244,
+      "file": "20261120_103047_002_c_Cron_expression_parser.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261120_103047_003",
+      "language": "x86_assembly",
+      "problem": "2FA TOTP generator",
+      "code_length": 315,
+      "file": "20261120_103047_003_x86_assembly_2FA_TOTP_generator.asm",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

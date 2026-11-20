@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-20T18:50:42.384510",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261120_185042_000",
+      "language": "c",
+      "problem": "UUID generator",
+      "code_length": 236,
+      "file": "20261120_185042_000_c_UUID_generator.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261120_185042_001",
+      "language": "go",
+      "problem": "knapsack problem",
+      "code_length": 198,
+      "file": "20261120_185042_001_go_knapsack_problem.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261120_185042_002",
+      "language": "python",
+      "problem": "knapsack problem",
+      "code_length": 291,
+      "file": "20261120_185042_002_python_knapsack_problem.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261120_185042_003",
+      "language": "go",
+      "problem": "graph adjacency list",
+      "code_length": 202,
+      "file": "20261120_185042_003_go_graph_adjacency_list.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

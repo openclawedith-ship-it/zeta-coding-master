@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-23T11:18:48.761817",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261123_111848_000",
+      "language": "python",
+      "problem": "edit distance algorithm",
+      "code_length": 298,
+      "file": "20261123_111848_000_python_edit_distance_algorithm.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261123_111848_001",
+      "language": "rust",
+      "problem": "Code formatter",
+      "code_length": 210,
+      "file": "20261123_111848_001_rust_Code_formatter.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261123_111848_002",
+      "language": "go",
+      "problem": "binary tree traversal (BFS/DFS)",
+      "code_length": 213,
+      "file": "20261123_111848_002_go_binary_tree_traversal_BFS_DFS.go",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261123_111848_003",
+      "language": "c",
+      "problem": "LRU cache implementation",
+      "code_length": 246,
+      "file": "20261123_111848_003_c_LRU_cache_implementation.c",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}

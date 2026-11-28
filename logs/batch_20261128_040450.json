@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-11-28T04:04:50.396218",
+  "batch_size": 4,
+  "runs": [
+    {
+      "id": "20261128_040450_000",
+      "language": "javascript",
+      "problem": "Task scheduler",
+      "code_length": 234,
+      "file": "20261128_040450_000_javascript_Task_scheduler.js",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261128_040450_001",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20261128_040450_001_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261128_040450_002",
+      "language": "rust",
+      "problem": "coin change problem",
+      "code_length": 215,
+      "file": "20261128_040450_002_rust_coin_change_problem.rs",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    },
+    {
+      "id": "20261128_040450_003",
+      "language": "python",
+      "problem": "linked list with insert/delete",
+      "code_length": 305,
+      "file": "20261128_040450_003_python_linked_list_with_insert_delete.py",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(1)"
+      },
+      "status": "success"
+    }
+  ]
+}
